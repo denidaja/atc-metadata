@@ -1,0 +1,780 @@
+{
+  "pageConfig": {
+    "title": "Places to Visit",
+    "subtitle": "Explore Albania's most captivating destinations",
+    "categories": [
+      {
+        "id": "cities",
+        "name": "Famous Cities",
+        "icon": "",
+        "description": "Discover Albania's most captivating cities with unique character",
+        "dataSource": "cities",
+        "backgroundImageUrl": "https://metro.co.uk/wp-content/uploads/2025/04/GettyImages-2148035338-15a6.jpg?quality=90&strip=all&w=646",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "unesco",
+        "name": "UNESCO Sites",
+        "icon": "",
+        "description": "World Heritage sites showcasing ancient history and wonders",
+        "dataSource": "heritage-sites",
+        "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npiLwF0KroWLLU5zJa3-zgkkLvKLIp1__y9ANW-wVFUleSeidJMcK-IT52_w15R0EE8uQxnYcPB0P77Joh63-pd0i6wwL_c7igG1o2-a0KBOyVjVYlYHsRzTQBPu2bLs4Y6aLI_=s1360-w1360-h1020-rw",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "beaches",
+        "name": "Pristine Beaches",
+        "icon": "",
+        "description": "Hidden beaches along the stunning Albanian Riviera coastline",
+        "dataSource": "beaches-alps",
+        "backgroundImageUrl": "https://www.ourbigjourney.com/wp-content/uploads/2021/11/IMG-0087-2.jpg",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "alps",
+        "name": "Albanian Alps",
+        "icon": "",
+        "description": "Dramatic peaks and pristine valleys perfect for adventure",
+        "dataSource": "beaches-alps",
+        "backgroundImageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Theth07_AlbaniaVisit.com_.jpg",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "parks",
+        "name": "National Parks",
+        "icon": "",
+        "description": "Spectacular protected areas from alpine to coastal landscapes",
+        "dataSource": "national-parks",
+        "backgroundImageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "castles",
+        "name": "Historic Castles",
+        "icon": "",
+        "description": "Medieval fortresses with legendary stories and views",
+        "dataSource": "castles",
+        "backgroundImageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/Kruja-1024x646.jpeg?strip=all&lossy=1&ssl=1",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      }
+    ],
+    "defaultMessage": {
+      "title": "Select a category to get started",
+      "description": "Choose from cities, UNESCO sites, beaches, and more to explore Albania's amazing destinations"
+    }
+  },
+  "data": {
+    "cities": [
+      {
+        "id": "place_1",
+        "name": "Tirana",
+        "description": "Albania's vibrant capital city blending modern architecture with Ottoman history",
+        "highlights": [
+          "Skanderbeg Square",
+          "National Historical Museum",
+          "Colorful buildings",
+          "Et'hem Bey Mosque"
+        ],
+        "population": 418495,
+        "region": "Central Albania",
+        "imageUrl": "https://metro.co.uk/wp-content/uploads/2025/04/GettyImages-2148035338-15a6.jpg?quality=90&strip=all&w=646",
+        "shortDescription": "Colorful capital with vibrant nightlife and rich history",
+        "detailedDescription": "Tirana, Albania's dynamic capital, is a city of contrasts where communist-era buildings stand alongside modern developments. The city center showcases colorful façades painted by former mayor Edi Rama, creating one of Europe's most vibrant urban landscapes. At its heart lies Skanderbeg Square, surrounded by key institutions and the iconic clock tower.",
+        "keyAttractions": [
+          "Skanderbeg Square - Central plaza with equestrian statue",
+          "National Historical Museum - Albania's largest museum",
+          "Et'hem Bey Mosque - Beautiful 18th-century Ottoman mosque",
+          "Bunk'Art Museums - Cold War bunkers turned into museums",
+          "Dajti Mountain Cable Car - Panoramic views of the city"
+        ],
+        "localFoods": ["Qofte", "Tavë Kosi", "Fërgesë", "Qifqi", "Raki"],
+        "briefHistory": "Founded in 1614 by Sulejman Pasha, Tirana became Albania's capital in 1920. The city expanded rapidly during the communist era (1944-1991) when Enver Hoxha's regime built distinctive brutalist architecture. Post-1991, Tirana transformed with colorful building renovations and modern developments, becoming the vibrant cultural and economic center it is today.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Tirana"
+      },
+      {
+        "id": "place_2",
+        "name": "Gjirokastër",
+        "description": "UNESCO World Heritage stone city with well-preserved Ottoman architecture",
+        "highlights": [
+          "Gjirokastër Castle",
+          "Stone houses",
+          "Ethnographic Museum",
+          "Old Bazaar"
+        ],
+        "population": 19836,
+        "region": "Southern Albania",
+        "imageUrl": "https://sandaltanman.com/wp-content/uploads/2021/08/wow-1-e1628079765518.jpg",
+        "shortDescription": "Historic stone city and UNESCO World Heritage site",
+        "detailedDescription": "Gjirokastër, known as the 'Stone City,' is a UNESCO World Heritage site famous for its Ottoman-era architecture and traditional stone houses. Perched on a hillside, the city offers stunning views of the Drino Valley. It's the birthplace of Albania's former dictator Enver Hoxha and Nobel Prize-winning author Ismail Kadare.",
+        "keyAttractions": [
+          "Gjirokastër Castle - 12th-century fortress with museum",
+          "Ethnographic Museum - Traditional Albanian life exhibits",
+          "Old Bazaar - Historic market with traditional crafts",
+          "Skenduli House - 18th-century Ottoman mansion",
+          "Ismail Kadare Museum - Dedicated to the famous writer"
+        ],
+        "localFoods": ["Qifqi", "Shapkat", "Oshaf", "Hallva", "Wine"],
+        "briefHistory": "Founded in the 12th century, Gjirokastër flourished under Ottoman rule from the 15th-19th centuries. The city's unique stone architecture developed during this period. It was declared a UNESCO World Heritage site in 2005, recognizing its outstanding universal value as a rare example of Ottoman town planning.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr"
+      },
+      {
+        "id": "place_3",
+        "name": "Berat",
+        "description": "The 'City of a Thousand Windows' with beautiful Ottoman and Byzantine architecture",
+        "highlights": [
+          "Berat Castle",
+          "Onufri Museum",
+          "Mangalem Quarter",
+          "Gorica Bridge"
+        ],
+        "population": 32606,
+        "region": "Central Albania",
+        "imageUrl": "https://albaniannight.com/wp-content/uploads/2025/02/iStock-2170503362-scaled.jpg",
+        "shortDescription": "City of a Thousand Windows with stunning architecture",
+        "detailedDescription": "Berat, the 'City of a Thousand Windows,' is renowned for its distinctive white Ottoman houses climbing up the hillside. This UNESCO World Heritage site perfectly preserves medieval architecture with its castle, churches, and mosques. The Osum River divides the city into historic quarters, each with unique character.",
+        "keyAttractions": [
+          "Berat Castle - 13th-century fortress with churches inside",
+          "Onufri Museum - Byzantine art and iconography",
+          "Mangalem Quarter - Ottoman houses with white façades",
+          "Gorica Bridge - Historic Ottoman stone bridge",
+          "Bachelor's Mosque - 16th-century Ottoman mosque"
+        ],
+        "localFoods": ["Pasha Qofte", "Byrek", "Oshaf me Rrush", "Reçel", "Wine"],
+        "briefHistory": "Berat dates back to the 6th century BC as the Illyrian settlement of Antipatrea. Under Ottoman rule (15th-19th centuries), it became a major craft and trade center. The characteristic white houses were built during this period. UNESCO recognized it in 2008 for its outstanding example of Ottoman architectural development.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Berat"
+      },
+      {
+        "id": "place_4",
+        "name": "Sarandë",
+        "description": "Coastal resort town known as the unofficial capital of the Albanian Riviera",
+        "highlights": [
+          "Blue Eye Spring",
+          "Butrint National Park",
+          "Pristine beaches",
+          "Lëkurësi Castle"
+        ],
+        "population": 17233,
+        "region": "Southern Albania",
+        "imageUrl": "https://www.greencoast-albania.com/wp-content/uploads/sites/10/2024/10/green-coast-albania-saranda-header.jpg",
+        "shortDescription": "Gateway to the Albanian Riviera with crystal-clear waters",
+        "detailedDescription": "Sarandë is Albania's premier beach destination, known for its crystal-clear waters and proximity to ancient Butrint. The town serves as the gateway to the Albanian Riviera, offering stunning beaches, archaeological sites, and the famous Blue Eye spring. Its strategic location near the Greek border makes it a perfect base for exploring southern Albania.",
+        "keyAttractions": [
+          "Butrint National Park - UNESCO World Heritage archaeological site",
+          "Blue Eye Spring - Natural phenomenon with crystal-clear water",
+          "Lëkurësi Castle - Panoramic views over Sarandë Bay",
+          "Mirror Beach - Popular swimming and sunbathing spot",
+          "Synagogue Complex - 5th-6th century Jewish heritage site"
+        ],
+        "localFoods": [
+          "Fresh Seafood",
+          "Mussel Risotto",
+          "Grilled Fish",
+          "Byrek me Spinaq",
+          "Ouzo"
+        ],
+        "briefHistory": "Ancient Sarandë was known as Onchesmus, an important port for trade with Corfu. During Byzantine times, it became Agios Saranda (Forty Saints). The modern town developed during the 20th century, becoming Albania's main southern port and beach resort after the fall of communism in 1991.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarand%C3%AB"
+      },
+      {
+        "id": "place_5",
+        "name": "Shkodër",
+        "description": "Northern Albania's cultural capital with rich history and proximity to the Albanian Alps",
+        "highlights": [
+          "Rozafa Castle",
+          "Mes Bridge",
+          "Albanian Alps gateway",
+          "Lake Shkodra"
+        ],
+        "population": 77075,
+        "region": "Northern Albania",
+        "imageUrl": "https://www.ariatravelalbania.com/wp-content/uploads/2024/02/shkoder-old-town-rozafa-albania-4.jpg.webp",
+        "shortDescription": "Cultural capital and gateway to the Albanian Alps",
+        "detailedDescription": "Shkodër is Albania's cultural capital and one of its oldest cities, serving as the gateway to the Albanian Alps. Rich in history and tradition, it sits near Lake Shkodra, the largest lake in the Balkans. The city is known for its religious tolerance, vibrant cultural life, and as the starting point for adventures in the Accursed Mountains.",
+        "keyAttractions": [
+          "Rozafa Castle - Legendary fortress with spectacular views",
+          "Mes Bridge - Medieval stone bridge masterpiece",
+          "Lead Mosque - Historic 18th-century Ottoman mosque",
+          "Marubi Photo Archive - Europe's oldest photo collection",
+          "Lake Shkodra - Largest lake in the Balkans"
+        ],
+        "localFoods": ["Carp", "Lake Fish", "Flija", "Mantia", "Komovica"],
+        "briefHistory": "Founded in the 4th century BC as Scodra by the Illyrian Labeates tribe, Shkodër has been continuously inhabited for over 2,000 years. It served as the capital of the Illyrian kingdom and later became an important Roman, Byzantine, and Ottoman center. The city has always been a center of Albanian culture and education.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Shkod%C3%ABr"
+      },
+      {
+        "id": "place_6",
+        "name": "Vlorë",
+        "description": "Historic port city where Albania declared independence, with beautiful beaches",
+        "highlights": [
+          "Independence Monument",
+          "Kaninë Castle",
+          "Coastal beaches",
+          "Orikum Archaeological Park"
+        ],
+        "population": 79513,
+        "region": "Southwestern Albania",
+        "imageUrl": "https://i.pinimg.com/736x/dc/e7/41/dce7413d8d249e82e8a69467cf7b419a.jpg",
+        "shortDescription": "Historic port city and birthplace of Albanian independence",
+        "detailedDescription": "Vlorë holds a special place in Albanian history as the city where independence was declared in 1912. This important port city on the Adriatic and Ionian seas offers both historical significance and beautiful beaches. The combination of ancient sites, independence monuments, and coastal beauty makes it a unique destination.",
+        "keyAttractions": [
+          "Independence Monument - Memorial to Albania's independence",
+          "Kaninë Castle - Ancient fortress overlooking the city",
+          "Orikum Archaeological Park - Ancient Greek and Roman ruins",
+          "Flag Square - Central plaza with independence memorial",
+          "Cold War Submarine Base - Former secret military installation"
+        ],
+        "localFoods": [
+          "Fresh Seafood",
+          "Tavë Dheu",
+          "Grilled Sardines",
+          "Byrek",
+          "Local Wine"
+        ],
+        "briefHistory": "Ancient Vlorë was founded as Aulon by Greek colonists in the 6th century BC. It became a major Roman port and later an important Byzantine and Ottoman city. On November 28, 1912, Ismail Qemali declared Albanian independence here, raising the national flag for the first time, making Vlorë the birthplace of modern Albania.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Vlor%C3%AB"
+      },
+      {
+        "id": "place_7",
+        "name": "Pogradec",
+        "description": "Lakeside town on the shores of ancient Lake Ohrid with pristine nature and history",
+        "highlights": [
+          "Lake Ohrid",
+          "Driloni National Park",
+          "Pogradec Castle",
+          "Drilon Springs"
+        ],
+        "population": 25000,
+        "region": "Southeastern Albania",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSiH2ezstUzP9rR3D0zPHdVFx2pgMQMHG8422muZMQveZqqT2PSo8v2gQ9K5e_BG7RkBfCfxk1n1h5kWqVReuMXaVhpdLf1Jy5iKT7wLQ",
+        "shortDescription": "UNESCO lake town with pristine nature and ancient history",
+        "detailedDescription": "Pogradec sits on the shores of Lake Ohrid, one of the world's oldest lakes and a UNESCO World Heritage Site. This southeastern Albanian town offers stunning natural beauty with the deepest lake in the Balkans, ancient forests, and crystal-clear springs. The combination of pristine nature, medieval history, and unique ecosystem makes it a perfect destination for nature lovers and history enthusiasts.",
+        "keyAttractions": [
+          "Lake Ohrid - UNESCO World Heritage Site, 3-5 million years old",
+          "Driloni National Park - Pristine forests, waterfalls, and rare birds",
+          "Pogradec Castle - 13th-century fortress",
+          "Drilon Springs - Crystal-clear natural springs",
+          "Guri i Kamjes - Historic stone bridge"
+        ],
+        "localFoods": ["Tave Kosi", "Fërgesë", "Baklava", "Lake Fish", "Seafood"],
+        "briefHistory": "Pogradec developed as a lakeside settlement taking advantage of Lake Ohrid's strategic location. The town has been inhabited since ancient times, with its castle dating to the 13th century. The area's unique ecosystem and cultural significance led to UNESCO recognition, making it an important center for both natural preservation and cultural heritage.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Pogradec"
+      },
+      {
+        "id": "place_8",
+        "name": "Krujë",
+        "description": "Historic medieval town and symbol of Albanian resistance, home to national hero Skanderbeg",
+        "highlights": [
+          "Krujë Castle",
+          "Skanderbeg Museum",
+          "Old Bazaar",
+          "Ethnographic Museum"
+        ],
+        "population": 11721,
+        "region": "Central Albania",
+        "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR30NmGGycMhjtoDbw-VmsGSvC_meYPuHg5ftH9lIRaS4j2rOcaPmBujX7G4Jj5_xNFGhbVixgF4BcmQiY9qCzg22nZBUEvukqLDZU3gA",
+        "shortDescription": "Medieval fortress town and symbol of Albanian independence",
+        "detailedDescription": "Krujë is Albania's most important historical town, serving as the center of Skanderbeg's resistance against the Ottoman Empire. Located just an hour from Tirana, this medieval fortress town preserves Albania's heroic past through its castle, museums, and traditional bazaar. The town offers visitors an authentic journey through Albanian history and culture.",
+        "keyAttractions": [
+          "Krujë Castle - Legendary fortress of Skanderbeg's resistance",
+          "Skanderbeg Museum - Chronicles of national hero's military campaigns",
+          "Old Bazaar - 17th-century marketplace with traditional crafts",
+          "Ethnographic Museum - Traditional Albanian lifestyle exhibits",
+          "Sari Salltik Cave - Spiritual site with Sufi lodge"
+        ],
+        "localFoods": [
+          "Tavë Kosi",
+          "Raki",
+          "Traditional Pastries",
+          "Mountain Cheese",
+          "Qofte"
+        ],
+        "briefHistory": "Krujë gained prominence as Skanderbeg's stronghold during his 25-year resistance against Ottoman expansion (1443-1468). The town became a symbol of Albanian independence and national identity. Under Ottoman rule, it developed as a trading center with its famous bazaar. Today, it stands as Albania's most important historical monument to national resistance.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Kruj%C3%AB"
+      },
+      {
+        "id": "place_9",
+        "name": "Korçë",
+        "description": "Cultural and intellectual center known for religious tolerance and medieval art",
+        "highlights": [
+          "Resurrection Cathedral",
+          "National Museum of Medieval Art",
+          "Old Bazaar",
+          "Korçë Brewery"
+        ],
+        "population": 51152,
+        "region": "Southeastern Albania",
+        "imageUrl": "https://greecerally.gr/wp-content/uploads/2023/05/Korce-Coriza-Albania.jpg",
+        "shortDescription": "Cultural center with rich medieval art and mountain beauty",
+        "detailedDescription": "Korçë, founded by ancient King Kroisos, stands as Albania's cultural and intellectual hub in the Pindus mountains. Known for its religious tolerance and artistic heritage, the city played a crucial role in the Albanian National Awakening. Today it offers visitors medieval art treasures, traditional bazaars, and access to pristine mountain landscapes.",
+        "keyAttractions": [
+          "Resurrection of Christ Orthodox Cathedral - Byzantine architecture with colorful mosaics",
+          "National Museum of Medieval Art - 13th-19th century religious art collection",
+          "Old Bazaar - Traditional shops with local crafts and foods",
+          "Archaeological Museum - Bronze Age to Roman Empire artifacts",
+          "Korçë Brewery - One of the Balkans' oldest breweries"
+        ],
+        "localFoods": [
+          "Burek",
+          "Local Beer",
+          "Mountain Cheese",
+          "Traditional Pastries",
+          "Raki"
+        ],
+        "briefHistory": "Founded by ancient King Kroisos, Korçë developed as a strategic trading hub due to its location on important trade routes. Under Roman, Byzantine, and Ottoman rule, it became known for cultural tolerance and intellectual life. The city played a vital role in the Albanian National Awakening and remains a center of Albanian culture and education.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Kor%C3%A7%C3%AB"
+      },
+      {
+        "id": "place_10",
+        "name": "Shëngjin",
+        "description": "Pristine coastal town offering authentic Albanian beach experience on the Adriatic",
+        "highlights": [
+          "Golden sand beaches",
+          "Kune-Vain Lagoon",
+          "Fresh seafood",
+          "Rrenci Mountain"
+        ],
+        "population": 7800,
+        "region": "Northwestern Albania",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b9/a4/19/special-boat-trips-ada.jpg?w=1200&h=-1&s=1",
+        "shortDescription": "Authentic coastal town with pristine beaches and local charm",
+        "detailedDescription": "Shëngjin offers visitors an authentic Albanian coastal experience away from mass tourism. This tranquil Adriatic town features golden sand beaches, crystal-clear waters, and a strong fishing community tradition. The combination of pristine coastline, nearby protected wetlands, and mountain access makes it perfect for travelers seeking genuine Albanian hospitality.",
+        "keyAttractions": [
+          "Golden Sand Beaches - Long stretch of uncrowded Adriatic coastline",
+          "Kune-Vain Lagoon - Protected wetland with flamingos and pelicans",
+          "Fresh Seafood Dining - Daily catch from local fishermen",
+          "Rrenci Mountain - Hiking trails with panoramic coastal views",
+          "Traditional Fishing Harbor - Authentic maritime culture"
+        ],
+        "localFoods": [
+          "Fresh Seafood",
+          "Tave Kosi",
+          "Grilled Fish",
+          "Local Catch",
+          "Adriatic Specialties"
+        ],
+        "briefHistory": "Shëngjin developed as a traditional fishing village along the Adriatic coast. The town maintained its authentic character through centuries, with local families passing down fishing traditions through generations. Unlike other Albanian coastal areas, Shëngjin has preserved its slow-paced lifestyle and community-centered culture, offering visitors a glimpse into traditional Albanian coastal life.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sh%C3%ABlngjin"
+      },
+      {
+        "id": "place_11",
+        "name": "Përmet",
+        "description": "The 'City of Roses' nestled in mountains along Europe's last wild river",
+        "highlights": [
+          "Vjosa River",
+          "Thermal springs in Bënjë",
+          "Fir of Hotova National Park",
+          "Traditional Gliko preserves"
+        ],
+        "population": 5945,
+        "region": "Southeastern Albania",
+        "imageUrl": "https://nigelandsueadventures.com/wp-content/uploads/2025/05/Kaduit-Bridge-morning.jpg",
+        "shortDescription": "Mountain town famous for roses, thermal springs, and wild rivers",
+        "detailedDescription": "Përmet, known as the 'City of Roses,' is nestled in the Trebeshinë-Dhëmbel-Nemërçkë mountains along the pristine Vjosa River. This southeastern Albanian town offers unique thermal springs, Europe's first Wild River National Park, and traditional fruit preserves. The combination of natural healing waters, pristine wilderness, and multicultural heritage creates an unforgettable mountain experience.",
+        "keyAttractions": [
+          "Vjosa River - Europe's first Wild River National Park",
+          "Thermal Springs in Bënjë - Natural sulfuric pools with healing properties",
+          "Fir of Hotova National Park - 34,000 hectares of pristine forest",
+          "Church of St. Mary in Leusë - Historic 1700 religious site",
+          "Frashëri Brothers' House Museum - Cultural heritage site"
+        ],
+        "localFoods": [
+          "Gliko",
+          "Mountain Trout",
+          "Gjellë Shqeto",
+          "Drudha",
+          "Local Raki"
+        ],
+        "briefHistory": "Përmet developed as a mountain settlement along the Vjosa River, earning its nickname 'City of Roses' from the abundant rose gardens. The town became known for religious tolerance and multicultural coexistence. Its strategic location in the mountains made it an important center for preserving Albanian traditions, including the UNESCO-protected iso-polyphonic music tradition.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/P%C3%ABremet"
+      }
+    ],
+    "heritage-sites": [
+      {
+        "id": "butrint",
+        "name": "Butrint National Park",
+        "shortDescription": "Ancient Greek and Roman ruins nestled in pristine wetlands, showcasing 2,500 years of history.",
+        "location": "Sarandë, Vlorë County",
+        "imageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
+        "type": "unesco",
+        "detailedDescription": "Butrint is one of Albania's most significant archaeological sites, inhabited since prehistoric times. The site features Greek, Roman, Byzantine, and Venetian ruins, including a well-preserved Greek theater, Roman forum, and early Christian basilica. The ancient city was continuously inhabited from the 8th century BC to the late Middle Ages.",
+        "keyFeatures": [
+          "Greek Theater (3rd century BC) - Remarkably preserved amphitheater",
+          "Roman Forum and Aqueduct - Imperial Roman engineering",
+          "Byzantine Basilica - 6th century Christian architecture",
+          "Venetian Fortifications - Medieval defensive structures",
+          "Lake Butrint - Pristine wetland ecosystem"
+        ],
+        "visitingInfo": "Open daily 8:00-19:00 (summer), 8:00-17:00 (winter). Entry fee: 1000 ALL (adults). Guided tours available in multiple languages. Accessible by bus from Sarandë (30 minutes).",
+        "bestTimeToVisit": "April-June and September-October for mild weather and fewer crowds. Early morning visits recommended for photography.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Butrint"
+      },
+      {
+        "id": "berat-gjirokastra",
+        "name": "Centres of Berat and Gjirokastër",
+        "shortDescription": "Two Ottoman-era cities showcasing traditional Albanian architecture and cultural heritage.",
+        "location": "Berat and Gjirokastër Counties",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npiLwF0KroWLLU5zJa3-zgkkLvKLIp1__y9ANW-wVFUleSeidJMcK-IT52_w15R0EE8uQxnYcPB0P77Joh63-pd0i6wwL_c7igG1o2-a0KBOyVjVYlYHsRzTQBPu2bLs4Y6aLI_=s1360-w1360-h1020-rw",
+        "type": "unesco",
+        "detailedDescription": "These two historic towns represent outstanding examples of Ottoman period architecture in the Balkans. Berat, known as the 'City of a Thousand Windows,' features white Ottoman houses climbing the hillside. Gjirokastër, the 'Stone City,' is characterized by its distinctive stone architecture and imposing castle.",
+        "keyFeatures": [
+          "Berat Castle (13th century) - Fortress with inhabited interior",
+          "Onufri Museum - Byzantine art and iconography",
+          "Gjirokastër Castle - Massive hilltop fortress",
+          "Ottoman Architecture - Traditional Balkan houses",
+          "Ethnographic Museums - Traditional Albanian lifestyle"
+        ],
+        "visitingInfo": "Both cities accessible by car/bus from Tirana. Berat: 2 hours drive. Gjirokastër: 3 hours drive. Accommodation available in traditional Ottoman houses. Local guides recommended for historical context.",
+        "bestTimeToVisit": "May-September for warm weather and outdoor exploration. Spring offers beautiful wildflowers. Autumn provides clear mountain views.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Historic_Centres_of_Berat_and_Gjirokastra"
+      },
+      {
+        "id": "ancient-beech-forests",
+        "name": "Ancient Beech Forests",
+        "shortDescription": "Pristine old-growth beech forests representing Europe's natural heritage.",
+        "location": "Gashi River, Tropojë and Rrajcë, Librazhd",
+        "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_1133_0076-1200-630-20210604180552.jpg",
+        "type": "unesco",
+        "detailedDescription": "These ancient beech forests are part of a transnational UNESCO site covering 94 component parts across 18 European countries. Albania's contribution includes the Gashi River and Rrajcë areas, representing some of Europe's last remaining primeval beech forests with trees over 500 years old.",
+        "keyFeatures": [
+          "Gashi River Valley - Pristine mountain forest ecosystem",
+          "Ancient Beech Trees - Some over 500 years old",
+          "Biodiversity Hotspot - Rare flora and fauna species",
+          "Glacial Landscapes - Shaped by ice age processes",
+          "Hiking Trails - Well-marked paths through virgin forest"
+        ],
+        "visitingInfo": "Access via Tropojë for Gashi River area, or Librazhd for Rrajcë. Mountain guides recommended for safety. Camping allowed in designated areas. Best accessed with 4WD vehicles.",
+        "bestTimeToVisit": "June-September for accessible hiking trails. Autumn (September-October) offers spectacular leaf colors. Snow possible from November-April.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Ancient_and_Primeval_Beech_Forests_of_the_Carpathians_and_Other_Regions_of_Europe"
+      },
+      {
+        "id": "lake-ohrid",
+        "name": "Lake Ohrid",
+        "shortDescription": "Ancient lake ecosystem shared with North Macedonia, featuring unique endemic species.",
+        "location": "Pogradec, Korçë County",
+        "imageUrl": "https://www.nature-experience-albania.com/wp-content/uploads/lakeshore-protected-area-pogradec-lake-ohrid.jpg",
+        "type": "unesco",
+        "detailedDescription": "Lake Ohrid is one of Europe's oldest and deepest lakes, estimated to be 2-3 million years old. The Albanian part includes the town of Pogradec and surrounding areas. The lake hosts unique endemic species and has been continuously inhabited since prehistoric times, with evidence of human settlements dating back to the Bronze Age.",
+        "keyFeatures": [
+          "Ancient Lake Ecosystem - 2-3 million years old",
+          "Endemic Species - Unique fish and plant species",
+          "Pogradec Town - Historic lakeside settlement",
+          "Lake Ohrid Trout - Endemic fish species",
+          "Prehistoric Settlements - Bronze Age archaeological sites"
+        ],
+        "visitingInfo": "Accessible from Tirana via Elbasan (2.5 hours drive). Pogradec offers lakeside hotels and restaurants. Boat trips available to explore the lake. Swimming and fishing permitted in designated areas.",
+        "bestTimeToVisit": "June-September for swimming and water activities. Spring and autumn offer pleasant weather for sightseeing. Winter provides a peaceful, reflective atmosphere.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Ohrid"
+      }
+    ],
+    "castles": [
+      {
+        "id": "rozafa-castle",
+        "name": "Rozafa Castle",
+        "shortDescription": "Legendary fortress overlooking Shkodër, steeped in Albanian folklore and offering panoramic views.",
+        "location": "Shkodër, Shkodër County",
+        "imageUrl": "https://www.visitalbania.app/wp-content/uploads/2022/07/shkodra-kalaja-rozafes-3.jpg",
+        "type": "castle",
+        "detailedDescription": "Rozafa Castle is one of Albania's most famous fortresses, built on a rocky hill overlooking the confluence of three rivers. According to legend, the castle walls could only be completed after Rozafa, the wife of one of the builders, was walled into the foundation as a sacrifice. The castle has served as a strategic stronghold for Illyrians, Romans, Byzantines, Venetians, and Ottomans.",
+        "keyFeatures": [
+          "Rozafa Legend - Famous Albanian folklore tale",
+          "Strategic Location - Overlooks three river confluence",
+          "Museum Collection - Archaeological artifacts and historical exhibits",
+          "Panoramic Views - 360-degree views of Shkodër and surrounding plains",
+          "Ancient Walls - Well-preserved medieval fortifications"
+        ],
+        "visitingInfo": "Open daily 8:00-20:00 (summer), 8:00-17:00 (winter). Entry fee: 200 ALL. Located 5km from Shkodër city center, accessible by car or taxi. Restaurant on-site with traditional Albanian cuisine.",
+        "bestTimeToVisit": "April-October for best weather and longest opening hours. Sunset visits particularly spectacular. Early morning offers fewer crowds and better photography light.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Rozafa_Castle"
+      },
+      {
+        "id": "kruja-castle",
+        "name": "Krujë Castle",
+        "shortDescription": "Historic stronghold of national hero Skanderbeg, housing museums and offering stunning mountain views.",
+        "location": "Krujë, Durrës County",
+        "imageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/Kruja-1024x646.jpeg?strip=all&lossy=1&ssl=1",
+        "type": "castle",
+        "detailedDescription": "Krujë Castle is Albania's most historically significant fortress, serving as the capital of the Principality of Arbër and later as Skanderbeg's stronghold against Ottoman invasion. The castle successfully resisted three Ottoman sieges between 1450-1478. Today it houses the Skanderbeg Museum and the National Ethnographic Museum.",
+        "keyFeatures": [
+          "Skanderbeg Museum - National hero's life and resistance",
+          "Ethnographic Museum - Traditional Albanian culture and crafts",
+          "Ottoman Siege History - Site of famous military resistance",
+          "Old Bazaar - Traditional crafts and souvenirs",
+          "Mountain Views - Panoramic vistas of central Albania"
+        ],
+        "visitingInfo": "Open daily 9:00-17:00. Entry fee: 300 ALL (castle and museums). Located 32km from Tirana, 45-minute drive. Old bazaar perfect for souvenir shopping. Guided tours available in multiple languages.",
+        "bestTimeToVisit": "Year-round destination, but spring (April-May) and autumn (September-October) offer the most comfortable weather. Weekend visits can be crowded due to proximity to Tirana.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Kruj%C3%AB_Castle"
+      }
+    ],
+    "national-parks": [
+      {
+        "id": "theth-national-park",
+        "name": "Theth National Park",
+        "shortDescription": "Alpine paradise in the Albanian Alps featuring dramatic peaks, pristine valleys, and traditional stone houses.",
+        "location": "Shkodër County, Albanian Alps",
+        "imageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Theth07_AlbaniaVisit.com_.jpg?strip=all&lossy=1&ssl=1",
+        "type": "park",
+        "detailedDescription": "Theth National Park encompasses 2,630 hectares of the Albanian Alps, featuring some of the country's most spectacular mountain scenery. The park includes the traditional village of Theth, known for its characteristic stone houses and the famous Lock-in Tower. The area offers excellent hiking, including trails to the Blue Eye spring and Grunas Waterfall.",
+        "keyFeatures": [
+          "Blue Eye (Syri i Kaltër) - Natural spring with crystal-clear blue water",
+          "Grunas Waterfall - 30-meter cascade through limestone canyon",
+          "Lock-in Tower (Kulla) - Traditional Albanian stone tower house",
+          "Alpine Hiking Trails - Routes to peaks over 2,000m elevation",
+          "Traditional Architecture - Stone houses and mountain culture"
+        ],
+        "visitingInfo": "Accessible via rough mountain road from Shkodër (2-3 hours). Guesthouses available in Theth village. Hiking boots essential. Weather can change rapidly in mountains. Local guides recommended for longer hikes.",
+        "bestTimeToVisit": "June-September for hiking and camping. July-August warmest but most crowded. Spring (May-June) offers wildflowers, autumn (September) provides clear mountain views.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Theth_National_Park"
+      },
+      {
+        "id": "butrint-national-park",
+        "name": "Butrint National Park",
+        "shortDescription": "Unique combination of archaeological treasures and pristine wetland ecosystems on the Ionian coast.",
+        "location": "Sarandë, Vlorë County",
+        "imageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
+        "type": "park",
+        "detailedDescription": "Butrint National Park protects 9,424 hectares of diverse ecosystems including wetlands, forests, and archaeological sites. Beyond the famous UNESCO archaeological site, the park encompasses Lake Butrint, coastal lagoons, and the Vivari Channel. The area supports over 1,200 plant species and 800 animal species, including the endangered Dalmatian pelican.",
+        "keyFeatures": [
+          "Archaeological Site - UNESCO World Heritage ancient ruins",
+          "Lake Butrint - Important wetland ecosystem",
+          "Vivari Channel - Natural waterway connecting lake to sea",
+          "Birdwatching Paradise - Over 246 bird species recorded",
+          "Mediterranean Flora - Diverse plant communities"
+        ],
+        "visitingInfo": "Park headquarters near archaeological site entrance. Boat trips available on Lake Butrint. Birdwatching best early morning or late afternoon. Swimming permitted in designated coastal areas. Visitor center with exhibitions.",
+        "bestTimeToVisit": "April-June and September-October for wildlife viewing. Spring migration brings numerous bird species. Summer (July-August) best for combining archaeology with beach activities.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Butrint_National_Park"
+      }
+    ],
+    "beaches-alps": [
+      {
+        "id": "gjipe-beach",
+        "name": "Gjipe Beach",
+        "shortDescription": "Hidden canyon beach accessible only by hiking, offering pristine turquoise waters and dramatic cliffs.",
+        "location": "Between Dhërmi and Himara",
+        "imageUrl": "https://www.ourbigjourney.com/wp-content/uploads/2021/11/IMG-0087-2.jpg",
+        "type": "beach",
+        "detailedDescription": "Gjipe Beach is one of Albania's most spectacular hidden beaches, nestled in a narrow canyon between towering limestone cliffs. Accessible only by a 20-minute hike through the canyon or by boat, this pristine beach offers crystal-clear turquoise waters and complete seclusion from crowds. The beach is formed where a small river meets the Ionian Sea.",
+        "keyFeatures": [
+          "Canyon Access - Dramatic hike through limestone gorge",
+          "Pristine Waters - Crystal-clear turquoise Ionian Sea",
+          "River Mouth - Fresh water stream meets the sea",
+          "Secluded Location - Away from tourist crowds",
+          "Dramatic Cliffs - Towering limestone formations"
+        ],
+        "visitingInfo": "Park at Gjipe Canyon trailhead off SH8 highway. 20-minute moderate hike required. No facilities - bring water and food. Boat access possible from Dhërmi. Strong swimmers only due to deep water and currents.",
+        "bestTimeToVisit": "May-September for swimming. June-August warmest water temperatures. Early morning or late afternoon for fewer people and better light for photography.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Gjipe_Beach"
+      },
+      {
+        "id": "ksamil-islands",
+        "name": "Ksamil Islands",
+        "shortDescription": "Four small islands with pristine beaches and tropical-like turquoise waters near the Greek border.",
+        "location": "Ksamil, Sarandë, Vlorë County",
+        "imageUrl": "https://myelatedodyssey.com/wp-content/uploads/2023/03/Featured-9.jpg",
+        "type": "beach",
+        "detailedDescription": "The Ksamil Islands consist of four small islands just off the coast of Ksamil village, offering some of Albania's most beautiful beaches. The shallow, warm waters and white sand beaches create a tropical paradise atmosphere. The largest island is easily accessible by swimming or small boat, while the others require boat transport.",
+        "keyFeatures": [
+          "Four Small Islands - Each with unique beach characteristics",
+          "Tropical Waters - Warm, shallow, turquoise sea",
+          "White Sand Beaches - Fine sand and clear water",
+          "Easy Access - Swimming distance to main island",
+          "Snorkeling Spots - Clear water with marine life"
+        ],
+        "visitingInfo": "Base in Ksamil village with hotels and restaurants. Boat rentals available for island hopping. Swimming to nearest island takes 5-10 minutes. Snorkeling gear recommended. Crowded in July-August.",
+        "bestTimeToVisit": "June-September for warmest water. May and October offer pleasant weather with fewer crowds. Avoid July-August peak season for more peaceful experience.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Ksamil"
+      },
+      {
+        "id": "dhermi-beach",
+        "name": "Dhërmi Beach",
+        "shortDescription": "Long pebble beach with crystal-clear waters backed by olive groves and traditional hillside village.",
+        "location": "Dhërmi, Vlorë County, Albanian Riviera",
+        "imageUrl": "https://urlaub-albanien-guide.de/wp-content/uploads/2023/06/beach-gb541f6ad5_1280-1024x682.jpg",
+        "type": "beach",
+        "detailedDescription": "Dhërmi Beach stretches for several kilometers along the Albanian Riviera, offering a perfect blend of natural beauty and traditional culture. The beach features clear blue waters, pebbles instead of sand, and is backed by ancient olive groves. The traditional village of Dhërmi sits on the hillside above, maintaining its authentic Albanian character.",
+        "keyFeatures": [
+          "Long Coastline - Several kilometers of pristine beach",
+          "Crystal Clear Waters - Excellent visibility for swimming",
+          "Olive Grove Setting - Ancient trees provide natural shade",
+          "Traditional Village - Authentic Albanian mountain village above",
+          "Beach Clubs - Modern amenities with traditional charm"
+        ],
+        "visitingInfo": "Accessible by car via winding mountain road from SH8. Multiple beach clubs and restaurants along the shore. Accommodation available in village and beachfront. Pebble beach - beach shoes recommended.",
+        "bestTimeToVisit": "June-September for beach activities. May and October offer mild weather for exploring both beach and village. Sunset views particularly spectacular.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Dh%C3%ABrmi"
+      },
+      {
+        "id": "jale-beach",
+        "name": "Jale Beach",
+        "shortDescription": "Secluded pebble beach popular with backpackers, offering affordable accommodation and pristine waters.",
+        "location": "Between Dhërmi and Himara",
+        "imageUrl": "https://irp.cdn-website.com/560b6587/dms3rep/multi/image4-955d0975.png",
+        "type": "beach",
+        "detailedDescription": "Jale Beach is a hidden gem along the Albanian Riviera, known for its laid back atmosphere and budget-friendly accommodation options. The beach features clear turquoise waters, pebbles, and is surrounded by Mediterranean vegetation. Popular with young travelers and backpackers, it maintains a more relaxed vibe compared to busier Riviera beaches.",
+        "keyFeatures": [
+          "Backpacker Paradise - Budget-friendly accommodation and food",
+          "Secluded Location - Off the main coastal road",
+          "Clear Waters - Excellent for swimming and snorkeling",
+          "Natural Setting - Surrounded by Mediterranean scrubland",
+          "Camping Options - Beach camping and hostels available"
+        ],
+        "visitingInfo": "Access via dirt road from SH8 highway. Basic hostels and camping areas available. Limited restaurant options - mostly simple beach bars. Bring cash as card facilities limited.",
+        "bestTimeToVisit": "May-September for camping and swimming. June-August busiest with international backpackers. Shoulder seasons (May, September) offer peaceful atmosphere and good weather.",
+        "wikipediaUrl": null
+      },
+      {
+        "id": "himara-beach",
+        "name": "Himara Beach",
+        "shortDescription": "Vibrant coastal town with beautiful beaches, ancient castle ruins, and lively nightlife scene.",
+        "location": "Himara, Vlorë County, Albanian Riviera",
+        "imageUrl": "https://worldonabudget.de/wp-content/uploads/2024/01/maracit-strand-himara-albanien-1024x768.jpeg",
+        "type": "beach",
+        "detailedDescription": "Himara is one of the Albanian Riviera's most popular destinations, combining beautiful beaches with rich history and vibrant nightlife. The town features both pebble and sandy beaches, ancient Greek and Byzantine ruins, and a charming old town. The area offers excellent swimming, water sports, and is known for its beach bars and restaurants.",
+        "keyFeatures": [
+          "Multiple Beaches - Both sandy and pebble options",
+          "Ancient Castle - Byzantine fortress overlooking the sea",
+          "Vibrant Nightlife - Beach bars and clubs",
+          "Water Sports - Kayaking, jet skiing, and boat tours",
+          "Historic Old Town - Traditional stone architecture"
+        ],
+        "visitingInfo": "Well-connected by road from Sarandë (1 hour) and Vlorë (1.5 hours). Wide range of accommodation from budget hostels to luxury hotels. Many restaurants and beach clubs. Car rental available for exploring nearby beaches.",
+        "bestTimeToVisit": "May-October for beach season. July-August busiest with festivals and events. June and September offer perfect weather with fewer crowds.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Himara"
+      },
+      {
+        "id": "livadhi-beach",
+        "name": "Livadhi Beach",
+        "shortDescription": "Expansive sandy beach with shallow waters perfect for families, located near Himara.",
+        "location": "Livadhi, Himara, Albanian Riviera",
+        "imageUrl": "https://www.visitalbania.app/wp-content/uploads/2022/06/himare-livadhe-beach-0-22.jpg",
+        "type": "beach",
+        "detailedDescription": "Livadhi Beach is Himara's main beach, stretching for over a kilometer with fine sand and gradually deepening waters. This family-friendly beach offers excellent facilities, water sports, and stunning mountain backdrops. The beach is well-organized with sunbeds, umbrellas, and numerous beach bars and restaurants.",
+        "keyFeatures": [
+          "Long Sandy Beach - Over 1km of fine sand",
+          "Family Friendly - Shallow, safe waters for children",
+          "Mountain Views - Dramatic Ceraunian Mountains backdrop",
+          "Beach Facilities - Sunbeds, umbrellas, and changing rooms",
+          "Water Sports Center - Jet skis, banana boats, and parasailing"
+        ],
+        "visitingInfo": "Located 2km from Himara town center. Parking available behind the beach. Beach bars and restaurants open May-October. Sunbed rental 1000-1500 ALL per day. Water sports equipment rental available.",
+        "bestTimeToVisit": "June-September for warmest water and full facilities. May and October offer pleasant weather and lower prices. Avoid July-August weekends for smaller crowds.",
+        "wikipediaUrl": null
+      },
+      {
+        "id": "borsh-beach",
+        "name": "Borsh Beach",
+        "shortDescription": "Albania's longest beach stretching 7km, surrounded by olive groves and offering pristine waters.",
+        "location": "Borsh, Sarandë, Albanian Riviera",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq23AdwBYp0URzWMYXKH8E8KlPcAzu2sS0xh9fGiObyUpNr1EG_UgvO1grqIAO-ow2MW2XOlg5zzaN8CbLR24gYbP-WNV0ujHngeqZHzV1kS0yrVY_mbJ70CdMqyMEW8PRYAbc=s1360-w1360-h1020-rw",
+        "type": "beach",
+        "detailedDescription": "Borsh Beach is Albania's longest beach, stretching an impressive 7 kilometers along the Ionian coast. The beach is backed by extensive olive groves, some containing trees over 2,000 years old. With its mix of pebbles and sand, crystal-clear waters, and relatively undeveloped coastline, Borsh offers a more peaceful alternative to busier Riviera destinations.",
+        "keyFeatures": [
+          "Longest Beach - 7km of uninterrupted coastline",
+          "Ancient Olive Groves - Trees over 2,000 years old",
+          "Mixed Sand and Pebbles - Variety of beach textures",
+          "Undeveloped Nature - Pristine, uncommercialized environment",
+          "Mountain Backdrop - Surrounded by hills and olive terraces"
+        ],
+        "visitingInfo": "Located between Himara and Sarandë (45 minutes from each). Limited accommodation - mainly guesthouses and small hotels. Few restaurants but authentic local cuisine. Bring supplies for day trips.",
+        "bestTimeToVisit": "May-September for swimming. Early morning and late afternoon offer the most peaceful experience. Spring (April-May) beautiful for walking through olive groves.",
+        "wikipediaUrl": null
+      },
+      {
+        "id": "valbona-valley",
+        "name": "Valbona Valley National Park",
+        "shortDescription": "Spectacular alpine valley in the Accursed Mountains, offering world-class hiking and pristine mountain scenery.",
+        "location": "Tropojë County, Albanian Alps",
+        "imageUrl": "https://garaza.me/drd/wp-content/uploads/2022/05/Photo-1-3.jpg",
+        "type": "alps",
+        "detailedDescription": "Valbona Valley National Park encompasses 8,000 hectares of the Albanian Alps, featuring some of the most spectacular mountain scenery in the Balkans. The park is part of the 'Accursed Mountains' range and offers pristine alpine environments, glacial valleys, and peaks reaching over 2,700 meters. The valley is famous for the Valbona-Theth hiking trail, considered one of Europe's best mountain hikes.",
+        "keyFeatures": [
+          "Valbona-Theth Trail - Famous 6-hour mountain hike",
+          "Alpine Peaks - Mountains over 2,700m elevation",
+          "Glacial Valley - Carved by ancient glaciers",
+          "Mountain Villages - Traditional Albanian highland culture",
+          "Wildlife Habitat - Bears, wolves, and rare birds"
+        ],
+        "visitingInfo": "Access via Komani Lake ferry (scenic 3-hour journey) or mountain road from Bajram Curri. Guesthouses available in Valbona village. Hiking permits not required but local guides recommended for safety.",
+        "bestTimeToVisit": "June-September for hiking. July-August warmest but most crowded. September offers autumn colors and fewer crowds. Snow possible October-May at higher elevations.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Valbona_Valley_National_Park"
+      },
+      {
+        "id": "theth-alps",
+        "name": "Theth Alps",
+        "shortDescription": "Iconic alpine destination featuring the Blue Eye spring, dramatic peaks, and traditional stone architecture.",
+        "location": "Shkodër County, Albanian Alps",
+        "imageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Theth07_AlbaniaVisit.com_.jpg",
+        "type": "alps",
+        "detailedDescription": "The Theth Alps represent the heart of Albania's mountain tourism, combining spectacular natural beauty with well-preserved traditional culture. The area features dramatic limestone peaks, the famous Blue Eye natural spring, and the traditional village of Theth with its characteristic stone houses and the iconic Lock-in Tower (Kulla). The region offers excellent hiking opportunities and insights into traditional Albanian mountain life.",
+        "keyFeatures": [
+          "Blue Eye Spring - Natural spring with incredible blue water",
+          "Lock-in Tower - Traditional Albanian fortified house",
+          "Grunas Waterfall - 30-meter waterfall in limestone canyon",
+          "Traditional Village - Stone houses and authentic culture",
+          "Mountain Hiking - Trails to peaks and neighboring valleys"
+        ],
+        "visitingInfo": "Accessible by rough mountain road from Shkodër (2-3 hours, 4WD recommended). Traditional guesthouses offer full board. Village has small shops and restaurants. Mountain weather can change quickly.",
+        "bestTimeToVisit": "June-September for best weather and accessibility. July-August warmest but most tourists. Late spring (May-June) offers wildflowers and snow-capped peaks.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Theth,_Albania"
+      },
+      {
+        "id": "llogara-pass",
+        "name": "Llogara Pass",
+        "shortDescription": "Spectacular mountain pass offering breathtaking panoramic views of the Albanian Riviera and Ionian Sea.",
+        "location": "Llogara National Park, Vlorë County",
+        "imageUrl": "https://www.skr.de/fileadmin/_processed_/3/c/csm__fc958abbde.jpg",
+        "type": "alps",
+        "detailedDescription": "Llogara Pass is one of Albania's most scenic mountain drives, rising to 1,027 meters above sea level. The pass offers breathtaking panoramic views of the Ionian Sea and the entire Albanian Riviera stretching below. The area features dense pine and fir forests, traditional mountain restaurants, and is a popular spot for paragliding with its strong thermal winds.",
+        "keyFeatures": [
+          "Panoramic Views - 360-degree vistas of sea and mountains",
+          "Scenic Drive - Winding mountain road through forests",
+          "Paragliding Hub - Excellent thermal conditions",
+          "Traditional Restaurants - Mountain cuisine and fresh air",
+          "Photography Spots - Countless viewpoints and overlooks"
+        ],
+        "visitingInfo": "Accessible by car via SH8 highway between Vlorë and Himara. Multiple restaurants and guesthouses at the pass. Paragliding center operates April-October. Can be foggy in morning - afternoon visits recommended for clear views.",
+        "bestTimeToVisit": "April-October for clear weather and open facilities. Summer offers warmest weather but can be crowded. Spring and autumn provide clear mountain air and stunning views.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Llogara_Pass"
+      },
+      {
+        "id": "dajti-mountain",
+        "name": "Dajti Mountain",
+        "shortDescription": "Tirana's natural playground featuring cable car access, hiking trails, and panoramic city views.",
+        "location": "Dajti National Park, Tirana County",
+        "imageUrl": "https://images.myguide-cdn.com/albania/companies/from-tirana-durres-dajti-mountain-cable-car-bunkart-1/large/from-tirana-durres-dajti-mountain-cable-car-bunkart-1-3388079.jpg",
+        "type": "alps",
+        "detailedDescription": "Dajti Mountain, rising to 1,613 meters, serves as Tirana's natural escape and recreational area. Accessible via the popular Dajti Express cable car, the mountain offers hiking trails, mountain biking, restaurants, and stunning panoramic views of Tirana and the Adriatic Sea. The area features diverse flora and fauna, including bears, wolves, and over 1,200 plant species.",
+        "keyFeatures": [
+          "Dajti Express Cable Car - 15-minute scenic ride to summit",
+          "Panoramic Views - Overlooks Tirana and Adriatic Sea",
+          "Hiking Trails - Well-marked paths through forests",
+          "Mountain Restaurants - Traditional Albanian mountain cuisine",
+          "Adventure Park - Zip lines and outdoor activities"
+        ],
+        "visitingInfo": "Cable car operates daily 9:00-19:00 (summer), 9:00-17:00 (winter). Round trip ticket 1200 ALL adults, 600 ALL children. Mountain restaurants and adventure park at summit. Hiking trails of varying difficulty levels.",
+        "bestTimeToVisit": "Year-round destination. Spring and summer for hiking and outdoor activities. Autumn offers beautiful foliage. Winter provides snow activities and clear city views.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Dajti_Mountain"
+      },
+      {
+        "id": "korabi-mountain",
+        "name": "Mount Korabi",
+        "shortDescription": "Albania's highest peak at 2,764m, offering challenging climbs and spectacular alpine scenery.",
+        "location": "Dibër County, Albanian-Macedonian border",
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ5SzQry9E3HktVheCQJkfv0iEvRcuNAeBZk_9UwM8cBDUCfsUIw_vmREncLGih0cJMp_JLYDdOCN_5TJDtpVlkxKpXyQqjn4ntUZUaoA",
+        "type": "alps",
+        "detailedDescription": "Mount Korabi is Albania's highest peak and part of the Korab mountain range along the Albanian-Macedonian border. This challenging mountain offers serious hikers and climbers spectacular alpine scenery, pristine wilderness, and the satisfaction of reaching Albania's highest point. The area features glacial lakes, rare alpine flora, and traditional shepherd communities.",
+        "keyFeatures": [
+          "Highest Peak - Albania's tallest mountain at 2,764m",
+          "Challenging Climb - Multi-day expedition for experienced hikers",
+          "Glacial Lakes - High-altitude mountain lakes",
+          "Alpine Flora - Rare and endemic plant species",
+          "Border Views - Panoramic vistas across Albania and Macedonia"
+        ],
+        "visitingInfo": "Access via Radomirë village in Dibër County. Multi-day hike requiring camping equipment and mountain experience. Local guides essential for safety and navigation. Best accessed with 4WD vehicles to trailhead.",
+        "bestTimeToVisit": "July-September for safest climbing conditions. June may have snow at higher elevations. Clear weather essential - check forecasts carefully. Early season offers snow-capped scenery.",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Mount_Korab"
+      }
+    ]
+  }
+}

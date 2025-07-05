@@ -1,0 +1,780 @@
+{
+  "pageConfig": {
+    "title": "Eat & Drink",
+    "subtitle": "Discover Tirana's vibrant food and drink scene",
+    "categories": [
+      {
+        "id": "coffee",
+        "name": "Coffee & Brunch",
+        "icon": "",
+        "description": "Cozy cafés and brunch spots with Albanian coffee culture",
+        "dataSource": "coffee-shops",
+        "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npP30G-7-lc1f7aAivfLcB_K9KkOqzW_RzXKfYwIj8PKBYe34QKnXdIU8b4gcumkTkKzvnBS2qodjUNFMqSFxNv0hDKSjUcxYQMu-xBikzCaKyi5ZK7bLvsz5HRll59bFrGBvETUQ=s1360-w1360-h1020-rw",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "restaurants",
+        "name": "Restaurants",
+        "icon": "",
+        "description": "From traditional Albanian cuisine to international favorites",
+        "dataSource": "restaurants",
+        "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRQ0aDqfdH-K8yDMail0GbbOJg6CYICO8wc2PD=s1360-w1360-h1020-rw",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "bars",
+        "name": "Cocktails & Bars",
+        "icon": "",
+        "description": "Local bars, craft beer, and traditional raki spots",
+        "dataSource": "bars",
+        "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCWFn7XfIAK6fASfIYMyqvuh09EMdiULLnN6IRD_Ku-X8I6e0_cgiA8HhLq1b06-ZH3NfzGYk-0Bh-wOYZoBOIUOdkGJEGS40g_GtkJdPRmHEpcnmovJEkT4nq9J4IerS7aJBsHg=s1360-w1360-h1020-rw",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      },
+      {
+        "id": "quick",
+        "name": "Quick Bites",
+        "icon": "",
+        "description": "Fast food, street food, bakeries and grab-and-go options",
+        "dataSource": "bakeries-qsr",
+        "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAZvyVO_6QcTk72GgRX0Yc6bbc2UCF_ZMaNF5y=s1360-w1360-h1020-rw",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+      }
+    ],
+    "defaultMessage": {
+      "title": "Select a category to get started",
+      "description": "Choose from coffee shops, restaurants, bars, and more to explore Tirana's amazing food and drink scene"
+    }
+  },
+  "data": {
+    "coffee-shops": [
+      {
+        "id": "florum",
+        "name": "FLORUM",
+        "shortDescription": "Chic botanical café with specialty coffee, fresh pastries, and a garden-inspired atmosphere perfect for brunch.",
+        "location": "Rruga e Kavajës, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodnjJqmL4Ht32vXX-1gXZN3lR1-Muq0iLPo8dAdjCTf3G1a4Ybp0A5INIIwm8DFYW9xtcVAlacC9BgcMir_4KRqcig3RwPEQLtfXqpkQ_b_OsECDmlRXIe4QJW8gDsWd3TVTt0=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "FLORUM is Tirana's premier botanical café, combining specialty coffee culture with a stunning plant-filled interior. Known for their expertly crafted coffee drinks, fresh croissants, and Instagram-worthy brunch plates. The café features abundant greenery, natural lighting, and a peaceful atmosphere that makes it perfect for both casual meetings and leisurely weekend brunches.",
+        "keyFeatures": [
+          "Specialty Coffee - Expert baristas and premium beans",
+          "Botanical Interior - Beautiful plant-filled space",
+          "Fresh Pastries - Daily-baked croissants and sweets",
+          "Brunch Menu - Avocado toast, eggs benedict, and healthy bowls",
+          "Instagram Worthy - Photogenic food and décor"
+        ],
+        "visitingInfo": "Open daily 7:00-22:00. Free WiFi available. Accepts cards and cash. Popular brunch spot - arrive early on weekends. Outdoor seating available in good weather.",
+        "bestTimeToVisit": "Morning hours (8:00-11:00) for freshest pastries and quieter atmosphere. Weekend brunch service 9:00-14:00.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FLORUM+cafe+Tirana+Albania"
+      },
+      {
+        "id": "destil-creative-hub",
+        "name": "Destil Creative Hub Tirana",
+        "shortDescription": "Trendy creative space combining excellent coffee, coworking areas, and artistic events just 5 minutes from the apartment.",
+        "location": "Rruga Abdyl Frashëri, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npP30G-7-lc1f7aAivfLcB_K9KkOqzW_RzXKfYwIj8PKBYe34QKnXdIU8b4gcumkTkKzvnBS2qodjUNFMqSFxNv0hDKSjUcxYQMu-xBikzCaKyi5ZK7bLvsz5HRll59bFrGBvETUQ=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Destil Creative Hub is more than just a café - it's a vibrant community space where coffee culture meets creativity. Located just 5 minutes from the apartment, this trendy spot offers specialty coffee, healthy breakfast options, and regularly hosts art exhibitions, workshops, and networking events. The industrial-chic design and collaborative atmosphere make it popular with digital nomads and local creatives.",
+        "keyFeatures": [
+          "Creative Community - Regular art events and workshops",
+          "Coworking Space - Dedicated work areas with fast WiFi",
+          "Specialty Coffee - Third-wave coffee culture",
+          "Healthy Options - Smoothie bowls, avocado toast, and fresh juices",
+          "Convenient Location - Just 5 minutes from apartment"
+        ],
+        "visitingInfo": "Open Monday-Friday 7:30-23:00, weekends 8:00-23:00. Coworking day pass available. Free WiFi. Laptop-friendly environment. Event calendar available online.",
+        "bestTimeToVisit": "Early morning (7:30-9:00) for productive work sessions. Evening events typically start at 19:00.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Destil+Creative+Hub+Tirana+Albania"
+      },
+      {
+        "id": "hana-corner-cafe",
+        "name": "HANA Corner Café",
+        "shortDescription": "Cozy corner café known for exceptional coffee, homemade cakes, and warm hospitality in a charming neighborhood setting.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozL-KgOOgO9gWauU-_XcEjipxF8vlLm6Y4QJiNdYK5iuSChzY30IfsyaBIvkKxEKHy_LelRsw1UONNbjY63XlYtO7N8aqX0VtavzvPq7qYlFOvSYfYKBnqE04F2FOPRBzBl_og=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "HANA Corner Café embodies the perfect neighborhood coffee shop - intimate, welcoming, and consistently excellent. This family-run establishment has built a loyal following through their attention to detail, from perfectly extracted espresso to homemade cakes baked fresh daily. The cozy interior features comfortable seating, local artwork, and the kind of warm atmosphere that invites you to linger over your morning coffee.",
+        "keyFeatures": [
+          "Neighborhood Favorite - Beloved local coffee shop",
+          "Homemade Cakes - Fresh-baked daily desserts",
+          "Quality Coffee - Consistent, well-prepared espresso drinks",
+          "Warm Atmosphere - Cozy, family-friendly environment",
+          "Local Art - Supporting Tirana's artistic community"
+        ],
+        "visitingInfo": "Open daily 7:00-20:00. Cash preferred but cards accepted. Limited seating - popular with locals. Known for friendly, personal service.",
+        "bestTimeToVisit": "Mid-morning (9:00-11:00) for freshest cakes and relaxed atmosphere. Afternoon (15:00-17:00) perfect for coffee and dessert.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HANA+Corner+Cafe+Bllok+Tirana+Albania"
+      },
+      {
+        "id": "oborri",
+        "name": "Oborri",
+        "shortDescription": "Charming courtyard café serving artisanal coffee and traditional Albanian breakfast in a beautifully restored historic building.",
+        "location": "Rruga Myslym Shyri, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZcmSzGt5FN1QbfgHMVw_rlNtpjUCx-dTt2K1NTvV-ctNYMtuXW3K0-IO4cOB7aaGp7tuO8XE8YQHlP4mxUNLyd-DWFQm8NV1XApmSsrgxbiNpC5z8-7-PAbgayoic9jDYz-Xlgg=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Oborri (meaning 'courtyard' in Albanian) is a hidden gem housed in a beautifully restored traditional building. The café combines modern coffee culture with Albanian heritage, offering both international coffee standards and traditional breakfast options. The peaceful courtyard setting provides an oasis from the bustling city streets, making it a favorite among both locals and visitors seeking authentic Albanian hospitality.",
+        "keyFeatures": [
+          "Historic Setting - Beautifully restored traditional building",
+          "Peaceful Courtyard - Quiet outdoor seating area",
+          "Albanian Breakfast - Traditional byrek and fresh dairy products",
+          "Artisanal Coffee - Carefully sourced and expertly prepared",
+          "Cultural Experience - Authentic Albanian café culture"
+        ],
+        "visitingInfo": "Open daily 7:00-21:00. Traditional Albanian breakfast served until 12:00. Courtyard seating weather-dependent. Cards and cash accepted.",
+        "bestTimeToVisit": "Early morning (7:00-10:00) for traditional Albanian breakfast. Late afternoon (16:00-18:00) for peaceful courtyard experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oborri+cafe+Tirana+Albania"
+      },
+      {
+        "id": "cafe-botanica",
+        "name": "Cafe Botanica",
+        "shortDescription": "Garden-themed café with lush greenery, organic coffee, and healthy brunch options in a serene botanical setting.",
+        "location": "Rruga Deshmoret e 4 Shkurtit, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgRTh3j6sxVYNKsVDildZsijYfvltFiJN1YrYsja8lsVs4GFbuMUtbDTYQVHxgCIV2S0Pu3z8F0phYtZ6ju_lpUZyukz53PEG2uMn0yy11vX0e9Ew43WltYi8dijggBX46kUqK=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Cafe Botanica lives up to its name with an abundance of plants creating a greenhouse-like atmosphere in the heart of Tirana. Specializing in organic and fair-trade coffee, the café also offers an extensive menu of healthy breakfast and brunch options. The botanical theme extends to their food presentation, with edible flowers and herbs featured prominently in their dishes.",
+        "keyFeatures": [
+          "Botanical Paradise - Extensive plant collection creating jungle vibes",
+          "Organic Coffee - Fair-trade and sustainably sourced beans",
+          "Healthy Menu - Superfood bowls, fresh juices, and organic options",
+          "Edible Gardens - Herbs and flowers used in food preparation",
+          "Eco-Conscious - Sustainable practices and biodegradable packaging"
+        ],
+        "visitingInfo": "Open daily 8:00-20:00. Vegan and gluten-free options available. Plant care workshops occasionally held. Instagram-popular spot - expect crowds on weekends.",
+        "bestTimeToVisit": "Morning light (8:00-10:00) showcases the plants beautifully. Weekday afternoons (14:00-16:00) for a peaceful experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe+Botanica+Tirana+Albania"
+      },
+      {
+        "id": "noor-coffee",
+        "name": "Noor Coffee & Fine Food",
+        "shortDescription": "Upscale café combining premium coffee with gourmet breakfast and lunch options in an elegant, modern setting.",
+        "location": "Pazari i Ri area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaehGEu2G7cQFoFOZni63OoE0UTqg_NINunHgExJuQmkatvR3QT8aJNePAWrVKxC1bv4-j8g-T99JyVLecWXkQHzkn22Ce-gLUP-Zj6yVICVr4F-BRXiqlUwe_s408orCBEeHX=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Noor Coffee & Fine Food represents the sophisticated side of Tirana's coffee scene, offering premium single-origin coffees alongside gourmet food options. The sleek, modern interior and professional service create an upscale dining experience. Their menu features both international favorites and Albanian-inspired dishes, all prepared with high-quality ingredients and artistic presentation.",
+        "keyFeatures": [
+          "Premium Coffee - Single-origin beans and expert preparation",
+          "Gourmet Menu - High-quality breakfast and lunch options",
+          "Elegant Interior - Modern, sophisticated design",
+          "Professional Service - Attentive, knowledgeable staff",
+          "Central Location - Near Pazari i Ri (New Bazaar)"
+        ],
+        "visitingInfo": "Open daily 7:00-22:00. Reservations recommended for weekend brunch. Higher price point than typical cafés. Full bar service available evenings.",
+        "bestTimeToVisit": "Weekend brunch (10:00-14:00) for full menu experience. Evening (18:00-20:00) for coffee and aperitifs.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Noor+Coffee+Fine+Food+Tirana+Albania"
+      },
+      {
+        "id": "the-crown-rooftop",
+        "name": "The Crown Rooftop & Dining",
+        "shortDescription": "Sophisticated rooftop café offering panoramic city views, premium coffee, and elevated brunch experience.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouEFMhUIx08oq7nisRA0cid-dHSc3pkKLootIuHLIxKq5B_kLpyKZz1en--w_xI9ypcEaB4Cn-kMDTNFBFXSz3klhYNU3tnKtkb31WusG_1PTzq65invxPMJ_LL8UaH3ZXI2uz0g=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "The Crown Rooftop & Dining offers Tirana's most elevated coffee experience - literally. This sophisticated venue combines excellent coffee service with stunning panoramic views of the city and surrounding mountains. The rooftop setting creates a unique atmosphere for both casual coffee meetings and special brunch occasions, with weather permitting outdoor seating that showcases the best views in the city.",
+        "keyFeatures": [
+          "Panoramic Views - Best city views in Tirana",
+          "Rooftop Setting - Unique elevated dining experience",
+          "Premium Service - High-end café and restaurant standards",
+          "Weather-Dependent - Outdoor seating subject to conditions",
+          "Photo Opportunities - Instagram-perfect city views"
+        ],
+        "visitingInfo": "Open daily 8:00-24:00. Weather-dependent rooftop seating. Reservations recommended for weekend brunch. Dress code: smart casual. Elevator access available.",
+        "bestTimeToVisit": "Clear mornings (9:00-11:00) for best views and coffee. Sunset hours (18:00-20:00) for spectacular lighting.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Crown+Rooftop+Dining+Tirana+Albania"
+      },
+      {
+        "id": "le-district",
+        "name": "Le District (Pedonale)",
+        "shortDescription": "French-inspired café on the pedestrian street offering authentic pastries, coffee, and Parisian café culture.",
+        "location": "Rruga Pedonale, Tirana Center",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8E4wGajFMmVOk-W3kWAM5i4MbkaRM2L_oBbJCGTFgErXqV-CSpMDsLJJoMGuHT14cE4uNOIKTtcS623aZA1dONYakdcERz6e2feb4DMe7gh1ZNstmuxMh2CMBBG29Vzj_bhs6Tg=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Le District brings a touch of Parisian café culture to Tirana's main pedestrian street. This French-inspired establishment is renowned for its authentic croissants, pain au chocolat, and other traditional pastries made by French-trained bakers. The sidewalk seating provides perfect people-watching opportunities along the bustling pedestrian zone, while the interior maintains classic café bistro aesthetics.",
+        "keyFeatures": [
+          "French Pastries - Authentic croissants and pain au chocolat",
+          "Pedestrian Street - Prime people-watching location",
+          "Parisian Atmosphere - Classic French café aesthetics",
+          "Professional Baking - French-trained pastry chefs",
+          "Central Location - Heart of Tirana's shopping district"
+        ],
+        "visitingInfo": "Open daily 7:00-23:00. Busy pedestrian location - limited parking. French breakfast served until 12:00. Sidewalk seating popular but limited.",
+        "bestTimeToVisit": "Early morning (7:00-9:00) for freshest pastries. Evening aperitif time (18:00-20:00) for bustling street atmosphere.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+District+Pedonale+Tirana+Albania"
+      },
+      {
+        "id": "stephen-center",
+        "name": "Stephen Center Café",
+        "shortDescription": "Multi-level cultural center café combining excellent coffee with art exhibitions, bookstore, and events.",
+        "location": "Rruga Ibrahim Rugova, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJXamTV4dA46Nw_jPy_jq8isc5dPO5m9JCdgjW=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Stephen Center Café operates within a vibrant cultural center that includes art galleries, a bookstore, and event spaces. The café serves as a meeting point for Tirana's intellectual and artistic community, offering quality coffee alongside cultural programming. The multi-level space provides different atmospheres, from quiet reading areas to collaborative workspaces and exhibition viewing areas.",
+        "keyFeatures": [
+          "Cultural Hub - Art exhibitions, bookstore, and events",
+          "Multi-Level Space - Different areas for various activities",
+          "Intellectual Community - Popular with artists, writers, and academics",
+          "Event Programming - Regular cultural events and book launches",
+          "Book Collection - Curated selection of literature and art books"
+        ],
+        "visitingInfo": "Open Tuesday-Sunday 9:00-20:00, closed Mondays. Event schedule varies - check website. Art exhibitions change monthly. Book browsing encouraged while enjoying coffee.",
+        "bestTimeToVisit": "Afternoon (14:00-17:00) for art viewing and quiet coffee. Evening events (18:00-20:00) for cultural programming.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stephen+Center+Cafe+Tirana+Albania"
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "golosa-pizzeria",
+        "name": "Golosa Pizzeria Ristorante",
+        "shortDescription": "Authentic Italian restaurant just 4 minutes from apartment, offering excellent food at great prices with traditional recipes.",
+        "location": "4-minute walk from apartment, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOMw7jvaV98Qcmwmm0gXMQwpoOQ5DCRgMi2DUun=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Golosa Pizzeria Ristorante combines the convenience of being just 4 minutes from the apartment with the authenticity of traditional Italian cuisine. This family-run establishment has built a loyal following through their commitment to quality ingredients, traditional preparation methods, and exceptional value for money. Their wood-fired pizza oven and homemade pasta make it a standout choice for both casual dining and special occasions.",
+        "keyFeatures": [
+          "Close Location - Just 4-minute walk from apartment",
+          "Authentic Italian - Traditional recipes and preparation methods",
+          "Excellent Value - Great food at reasonable prices",
+          "Wood-Fired Pizza - Traditional oven for authentic flavor",
+          "Homemade Pasta - Fresh preparation daily"
+        ],
+        "visitingInfo": "Open daily 12:00-24:00. Reservations recommended for dinner. English menu available. Cards and cash accepted. Popular with both locals and tourists.",
+        "bestTimeToVisit": "Lunch hours (12:00-15:00) for quieter atmosphere. Dinner service (19:00-22:00) for full menu and ambiance.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golosa+Pizzeria+Ristorante+Tirana+Albania"
+      },
+      {
+        "id": "era-vila",
+        "name": "Era Vila",
+        "shortDescription": "Elegant restaurant in a beautiful villa setting offering refined Albanian and international cuisine with garden dining.",
+        "location": "Rruga e Elbasanit, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolkrmljmRGPYGZXyjsncFMeMjZy0BWjqkWSxoH-z2uLgvyiOWz71D7Rhrsevg5po6J7BBkLTJzP1lPG0Ndgs4pTVc0XFLMQdyVE32gaXtt-mrS37y4P3iwjZ8tlhWf-ZQbs1lSAg=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Era Vila transforms dining into an elegant experience within a beautifully restored villa surrounded by lush gardens. The restaurant specializes in refined Albanian cuisine alongside international favorites, all prepared with premium ingredients and artistic presentation. The romantic garden setting and sophisticated interior make it ideal for special occasions, business dinners, and memorable evenings.",
+        "keyFeatures": [
+          "Villa Setting - Beautiful historic building with character",
+          "Garden Dining - Outdoor seating in landscaped gardens",
+          "Refined Cuisine - Elevated Albanian and international dishes",
+          "Elegant Atmosphere - Sophisticated interior and service",
+          "Special Occasions - Perfect for romantic dinners and celebrations"
+        ],
+        "visitingInfo": "Open Tuesday-Sunday 12:00-23:00, closed Mondays. Reservations highly recommended. Higher price point. Dress code: smart casual. Garden seating weather-dependent.",
+        "bestTimeToVisit": "Evening (19:00-21:00) for romantic garden dining. Sunday lunch (13:00-15:00) for peaceful garden atmosphere.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Era+Vila+restaurant+Tirana+Albania"
+      },
+      {
+        "id": "artigiano-vila",
+        "name": "Artigiano at Vila",
+        "shortDescription": "Artisanal Italian restaurant in a charming villa, focusing on handcrafted pasta and traditional Italian techniques.",
+        "location": "Vila area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNcSTD_gVrW45qoZ2YNdyqlcp9NaeniUu48GGJk=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Artigiano at Vila embodies the artisanal spirit of Italian cuisine, housed in a charming villa that provides an intimate dining environment. The restaurant specializes in handcrafted pasta made daily by skilled Italian chefs, using traditional techniques and imported Italian ingredients. Their commitment to authenticity extends to their wine selection, featuring carefully chosen Italian vintages that complement their artisanal menu.",
+        "keyFeatures": [
+          "Artisanal Focus - Handcrafted pasta and traditional techniques",
+          "Villa Location - Intimate, charming dining environment",
+          "Italian Authenticity - Imported ingredients and Italian chefs",
+          "Wine Selection - Curated Italian wine list",
+          "Small Batch - Limited production ensuring quality"
+        ],
+        "visitingInfo": "Open Wednesday-Monday 18:00-23:00, closed Tuesdays. Reservations essential. Italian wine pairings available. Higher price point for artisanal quality.",
+        "bestTimeToVisit": "Early dinner (18:00-20:00) for intimate atmosphere. Weekend evenings (20:00-22:00) for full Italian dining experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Artigiano+at+Vila+restaurant+Tirana+Albania"
+      },
+      {
+        "id": "oda-traditional",
+        "name": "Oda - Traditional Albanian Restaurant",
+        "shortDescription": "Authentic Albanian dining experience featuring traditional recipes, cultural décor, and live folk music performances.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnYVjmjkUPSsx34ZC_6j9-GUKlS2tea-M0FQHaay0UkxbbGD-iLIAuoHp1RfAnIWuTk0s_21h0W5U0ETxKmJewNv_FlCNKmR08ZMAjd084epk5Dprhc-4LAHptksyCfMr4HrzDEehqYJ9x=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Oda provides the most authentic Albanian dining experience in Tirana, featuring traditional recipes passed down through generations and served in an environment that celebrates Albanian culture. The restaurant's décor includes traditional Albanian artifacts, and they regularly host live folk music performances. Their menu focuses on regional specialties from all parts of Albania, offering visitors a comprehensive taste of the country's culinary heritage.",
+        "keyFeatures": [
+          "Authentic Albanian - Traditional recipes and cultural experience",
+          "Cultural Décor - Traditional Albanian artifacts and design",
+          "Live Folk Music - Regular traditional music performances",
+          "Regional Specialties - Dishes from all parts of Albania",
+          "Cultural Education - Menu includes dish history and significance"
+        ],
+        "visitingInfo": "Open daily 12:00-24:00. Folk music performances Friday-Saturday evenings. English explanations of traditional dishes available. Reservations recommended for cultural nights.",
+        "bestTimeToVisit": "Friday-Saturday evenings (20:00-22:00) for live folk music. Lunch (13:00-15:00) for peaceful cultural dining.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oda+Traditional+Albanian+Restaurant+Tirana"
+      },
+      {
+        "id": "bati-restaurant",
+        "name": "Bati Restaurant 1",
+        "shortDescription": "Seafood specialist offering fresh fish and traditional Albanian coastal dishes at excellent prices with harbor atmosphere.",
+        "location": "Near Artificial Lake, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWvykB-oRr7NsFy4wXYdxwPHLBmGu-cgCb8fuE=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Bati Restaurant 1 specializes in fresh seafood and traditional Albanian coastal cuisine, bringing the flavors of Albania's beautiful coastline to Tirana. Located near the Artificial Lake, the restaurant creates a harbor-like atmosphere while maintaining excellent prices for high-quality seafood. Their daily fresh fish selection and traditional preparation methods make it a favorite among seafood enthusiasts and those seeking authentic coastal Albanian flavors.",
+        "keyFeatures": [
+          "Seafood Specialist - Fresh fish and coastal Albanian dishes",
+          "Excellent Prices - High quality at affordable rates",
+          "Harbor Atmosphere - Nautical décor and lakeside location",
+          "Daily Fresh Selection - Fish and seafood delivered daily",
+          "Coastal Traditions - Authentic Albanian seaside cooking methods"
+        ],
+        "visitingInfo": "Open daily 11:00-23:00. Daily fresh fish selection varies. Located near Artificial Lake with parking available. Popular lunch spot for seafood lovers.",
+        "bestTimeToVisit": "Lunch hours (12:00-15:00) for freshest fish selection. Evening (18:00-20:00) for lakeside atmosphere.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bati+Restaurant+1+Tirana+Albania"
+      },
+      {
+        "id": "mullixhiu",
+        "name": "Mullixhiu",
+        "shortDescription": "Award-winning fine dining restaurant showcasing modern Albanian cuisine with foraged ingredients and innovative techniques.",
+        "location": "Rruga Pjeter Budi, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRQ0aDqfdH-K8yDMail0GbbOJg6CYICO8wc2PD=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Mullixhiu represents the pinnacle of Albanian culinary innovation, led by renowned chef Bledar Kola who combines traditional Albanian ingredients with modern cooking techniques. The restaurant focuses on foraged ingredients, local sourcing, and creative presentations that tell the story of Albanian terroir. This award-winning establishment has gained international recognition for elevating Albanian cuisine to fine dining standards.",
+        "keyFeatures": [
+          "Award-Winning Chef - Internationally recognized culinary excellence",
+          "Foraged Ingredients - Wild herbs and plants from Albanian mountains",
+          "Modern Albanian Cuisine - Innovative techniques with traditional ingredients",
+          "Local Sourcing - Supporting Albanian farmers and producers",
+          "Fine Dining Experience - Artistic presentation and professional service"
+        ],
+        "visitingInfo": "Open Wednesday-Sunday 19:00-23:00, closed Monday-Tuesday. Reservations essential, often booked weeks in advance. Tasting menu format. Higher price point for fine dining experience.",
+        "bestTimeToVisit": "Dinner service (19:00-21:00) for full tasting menu experience. Special occasion dinners and celebrations.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mullixhiu+restaurant+Tirana+Albania"
+      },
+      {
+        "id": "padam-boutique",
+        "name": "Padam Boutique Restaurant",
+        "shortDescription": "Intimate boutique restaurant offering Mediterranean fusion cuisine with emphasis on fresh seafood and seasonal ingredients.",
+        "location": "Rruga Sulejman Delvina, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGl8gsZ1FC1EJ8u7gSXcHt3YcxtKmE2v5rFN61F82NUv_6ySvzXC6rxpOlg895o_LcA1KCdEgyGdyWdZMY5jc551U4oF_oukWreAFxLNUEnkkyCxmyWp5GAu9Bk6pzZ2JNcSWk=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Padam Boutique Restaurant creates an intimate dining experience with Mediterranean fusion cuisine that emphasizes fresh seafood and seasonal ingredients. The small, elegantly designed space provides personalized service and allows the kitchen to focus on quality over quantity. Their menu changes regularly based on seasonal availability and chef inspiration, ensuring each visit offers something new.",
+        "keyFeatures": [
+          "Boutique Experience - Intimate setting with personalized service",
+          "Mediterranean Fusion - Creative combinations of regional flavors",
+          "Fresh Seafood Focus - Daily selection of premium fish and shellfish",
+          "Seasonal Menu - Regular changes based on ingredient availability",
+          "Quality over Quantity - Small space allowing focus on excellence"
+        ],
+        "visitingInfo": "Open Tuesday-Saturday 18:00-23:00, closed Sunday-Monday. Limited seating - reservations required. Menu changes seasonally. Wine pairings available.",
+        "bestTimeToVisit": "Early dinner (18:00-20:00) for intimate atmosphere. Special occasions requiring personalized attention.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Padam+Boutique+Restaurant+Tirana+Albania"
+      },
+      {
+        "id": "serendipity-restaurant",
+        "name": "Serendipity Restaurant",
+        "shortDescription": "Romantic fine dining restaurant specializing in Mexican cuisine with Albanian influences and extensive drinks selection.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIr1rIEB8gqI0wy4dvPflJAIdpaTvN52QgASL79p5YgwwFVZybLsQZKIsihu2rZEVu4hh5s7Ff_Z5uU0qXY9b9V5hbcsOXkRhgATm4PYcK2dWNtHCKzxFj4SP5mpJOLyETFMlF=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Serendipity Restaurant creates relaxed dining experiences through carefully crafted Mexican cuisine with subtle Albanian influences. The warm interior features soft lighting, comfortable seating, and an atmosphere designed for intimate conversations and special occasions. Their extensive wine selection includes both international favorites and premium Albanian wines, curated to complement their refined menu.",
+        "keyFeatures": [
+          "Relaxed Atmosphere - Intimate lighting and elegant design",
+          "Mexican Cuisine - Classic techniques with Albanian touches",
+          "Extensive Wine List - International and premium Albanian selections",
+          "Special Occasions - Perfect for anniversaries and celebrations",
+          "Professional Service - Attentive staff trained in fine dining standards"
+        ],
+        "visitingInfo": "Open daily 18:00-24:00. Reservations recommended for weekend dinners.Dress code:casual.",
+        "bestTimeToVisit": "Quick lunch (12:00-15:00) Dinner time (19:00-21:00).",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Serendipity+Restaurant+Tirana+Albania"
+      },
+      {
+        "id": "salt-restaurant",
+        "name": "Salt Restaurant",
+        "shortDescription": "Contemporary steakhouse and grill specializing in premium cuts, innovative sides, and sophisticated meat-focused dining.",
+        "location": "Rruga e Kavajës, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrP_xd3LgzDCEutbDrXG2EgKHgcTqNvwhJyPqlrf7UD0RxOki2PJINnqGuGsOrpltO7kK5IYJ7t7vj-sIPhg8RC0JjAeG_eDrLCKDVieFprpUD_j4pRaiWhzVhVyFOtuIawiwhlrg=s1360-w1360-h1020-rw",
+        "type": "restaurant",
+        "detailedDescription": "Salt Restaurant elevates the steakhouse concept with contemporary design and innovative approaches to meat-focused dining. They source premium cuts from both local and international suppliers, preparing them using both traditional grilling techniques and modern cooking methods. The restaurant's sophisticated atmosphere and expert preparation make it a destination for serious meat enthusiasts and special occasions.",
+        "keyFeatures": [
+          "Premium Steaks - High-quality local and imported cuts",
+          "Contemporary Design - Modern steakhouse aesthetics",
+          "Expert Preparation - Traditional and modern cooking techniques",
+          "Innovative Sides - Creative accompaniments to complement meats",
+          "Sophisticated Atmosphere - Upscale dining environment"
+        ],
+        "visitingInfo": "Open daily 17:00-24:00. Reservations recommended for prime dinner hours. Premium price point for quality cuts. Wine list focused on bold reds.",
+        "bestTimeToVisit": "Dinner service (19:00-22:00) for full steakhouse experience. Business dinners and celebrations.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt+Restaurant+Tirana+Albania"
+      }
+    ],
+    "bars": [
+      {
+        "id": "hemingway-bar",
+        "name": "Hemingway Bar",
+        "shortDescription": "Literary-themed cocktail bar on Rruga Kont Urani offering classic cocktails in a sophisticated writer's atmosphere.",
+        "location": "Rruga Kont Urani, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npY82Cm6RJlE66si-fPjoRuNgZXoVyQLA6n0lXs2I8g7O6EilbKpUfoU3DzCfl0YcdpHB8tIwsYXXySVokaGJs4qqbnKaa28nrK9-6EjkEx1wKby1oKDbJWGOV5wFL9Ae5OOdgY=s1360-w1360-h1020-rw",
+        "type": "cocktail",
+        "detailedDescription": "Hemingway Bar pays homage to the legendary American writer with a sophisticated atmosphere filled with literary references and classic cocktail traditions. Located on Rruga Kont Urani, this intimate bar specializes in timeless cocktail recipes that Hemingway himself might have enjoyed. The décor features vintage books, classic furniture, and an ambiance that encourages conversation and contemplation over expertly crafted drinks.",
+        "keyFeatures": [
+          "Literary Theme - Hemingway-inspired décor and atmosphere",
+          "Classic Cocktails - Traditional recipes and expert preparation",
+          "Intimate Setting - Perfect for conversation and relaxation",
+          "Book Collection - Vintage literature and writing memorabilia",
+          "Cultural Atmosphere - Appeals to intellectuals and book lovers"
+        ],
+        "visitingInfo": "Open Tuesday-Saturday 19:00-02:00, closed Sunday-Monday. Limited seating - reservations recommended. Cash and cards accepted. Quiet, conversation-friendly environment.",
+        "bestTimeToVisit": "Early evening (19:00-21:00) for intimate atmosphere. Late night (22:00-24:00) for literary discussions and classic cocktails.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hemingway+Bar+Rruga+Kont+Urani+Tirana+Albania"
+      },
+      {
+        "id": "colonial-cocktails",
+        "name": "Colonial Cocktails Academy Tirana",
+        "shortDescription": "Educational cocktail bar offering mixology classes, premium drinks, and interactive bartending experiences.",
+        "location": "City Center, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrXELJ3wCe2JyWJXrbkjo68jL8CdR1D8WXQXdirmAmbHICSlFYZ5Hc4Krh9RgyqJCoX-lvd5xpsgJmO9m_rPrD6EuIa59SkFoV2DETdxu5c-daq9XOriT5h0e9Ypy6wb1BtQSU=s1360-w1360-h1020-rw",
+        "type": "cocktail",
+        "detailedDescription": "Colonial Cocktails Academy Tirana combines exceptional cocktail service with educational experiences, offering both expertly crafted drinks and hands-on mixology classes. This unique establishment features colonial-era décor and teaches the history and technique behind classic cocktails. Visitors can enjoy premium drinks while learning about spirits, techniques, and cocktail culture from professional instructors.",
+        "keyFeatures": [
+          "Mixology Classes - Hands-on cocktail making instruction",
+          "Educational Experience - Learn cocktail history and techniques",
+          "Colonial Theme - Historical décor and atmosphere",
+          "Professional Instruction - Expert bartenders as teachers",
+          "Interactive Experience - Participatory cocktail creation"
+        ],
+        "visitingInfo": "Open Wednesday-Sunday 18:00-01:00. Mixology classes require advance booking. Higher price point for educational experience. Group classes available for events.",
+        "bestTimeToVisit": "Class times (18:00-20:00) for educational experience. Evening service (20:00-23:00) for cocktails after classes.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colonial+Cocktails+Academy+Tirana+Albania"
+      },
+      {
+        "id": "nouvelle-vague",
+        "name": "Nouvelle Vague Tirana",
+        "shortDescription": "French-inspired cocktail bar with nouvelle vague cinema theme, offering creative drinks and artistic atmosphere.",
+        "location": "Rruga e Kavajës, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCWFn7XfIAK6fASfIYMyqvuh09EMdiULLnN6IRD_Ku-X8I6e0_cgiA8HhLq1b06-ZH3NfzGYk-0Bh-wOYZoBOIUOdkGJEGS40g_GtkJdPRmHEpcnmovJEkT4nq9J4IerS7aJBsHg=s1360-w1360-h1020-rw",
+        "type": "cocktail",
+        "detailedDescription": "Nouvelle Vague Tirana draws inspiration from the French New Wave cinema movement, creating a unique cocktail experience that combines film culture with innovative mixology. The bar features black and white photography, film memorabilia, and an artistic atmosphere reminiscent of 1960s French cinema. Their cocktail menu reflects this creative spirit with innovative drinks that are both visually stunning and expertly crafted.",
+        "keyFeatures": [
+          "Cinema Theme - French New Wave film-inspired atmosphere",
+          "Creative Cocktails - Innovative and visually artistic drinks",
+          "Artistic Décor - Black and white photography and film memorabilia",
+          "Cultural Experience - Blend of cinema and cocktail culture",
+          "Instagram Worthy - Photogenic drinks and atmospheric setting"
+        ],
+        "visitingInfo": "Open Monday-Saturday 19:00-02:00, closed Sundays. Artistic atmosphere with film screenings occasionally. Creative cocktail menu changes seasonally. Popular with artists and film enthusiasts.",
+        "bestTimeToVisit": "Evening (19:00-21:00) for artistic atmosphere. Late night (22:00-01:00) for creative cocktails and film discussions.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nouvelle+Vague+Tirana+Albania"
+      },
+      {
+        "id": "mimoza-bar",
+        "name": "Mimoza Bar & Cocktails",
+        "shortDescription": "Elegant cocktail lounge offering premium drinks, sophisticated atmosphere, and professional mixology service.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYj1IWogHzV4iN_KaUqDNWv-3HxjO6_aT4nBAE=s1360-w1360-h1020-rw",
+        "type": "cocktail",
+        "detailedDescription": "Mimoza Bar & Cocktails represents the pinnacle of cocktail culture in Tirana, offering an elegant lounge atmosphere with expertly crafted drinks and impeccable service. The bar features a carefully curated selection of premium spirits, fresh ingredients, and classic cocktail techniques elevated to modern standards. The sophisticated interior and professional staff create an atmosphere perfect for intimate conversations and special occasions.",
+        "keyFeatures": [
+          "Elegant Lounge - Sophisticated interior and upscale atmosphere",
+          "Premium Spirits - Carefully curated selection of top-shelf liquors",
+          "Expert Mixology - Professional bartenders with advanced skills",
+          "Intimate Setting - Perfect for dates and special occasions",
+          "Classic Techniques - Traditional cocktail methods with modern presentation"
+        ],
+        "visitingInfo": "Open daily 18:00-03:00. Upscale establishment with higher prices. Reservations recommended for weekend evenings. Dress code: smart casual to formal.",
+        "bestTimeToVisit": "Cocktail hour (18:00-20:00) for elegant atmosphere. Late evening (21:00-24:00) for sophisticated nightlife experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mimoza+Bar+Cocktails+Tirana+Albania"
+      },
+      {
+        "id": "sky-tower-lounge",
+        "name": "Sky Tower Lounge",
+        "shortDescription": "Rooftop cocktail lounge offering panoramic city views, premium spirits, and sophisticated atmosphere high above Tirana.",
+        "location": "Sky Tower, Tirana Center",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-z2IU0r31naTMHV3pHlDZIUGNY8EhiEaslUbOH9vkijeqV1ynyp4TxBiftlVuIMSb4VZQl2FsET3Q7dxDY_bMS16cPd5S4O8XYNWDygIHt09QW2O19AKEveV8qb0lnijMOjRc=s1360-w1360-h1020-rw",
+        "type": "cocktail",
+        "detailedDescription": "Sky Tower Lounge provides Tirana's most elevated cocktail experience, literally perched high above the city with breathtaking 360-degree views. The sophisticated lounge offers premium cocktails crafted with top-shelf spirits while guests enjoy unparalleled panoramic vistas of Tirana, the surrounding mountains, and beyond. The modern interior design complements the spectacular views, creating an unforgettable atmosphere for special occasions.",
+        "keyFeatures": [
+          "Panoramic Views - 360-degree vistas of Tirana and mountains",
+          "High-Altitude Experience - Elevated above the city skyline",
+          "Premium Cocktails - Top-shelf spirits and expert mixology",
+          "Modern Design - Sophisticated interior matching the views",
+          "Special Occasions - Perfect for celebrations and memorable evenings"
+        ],
+        "visitingInfo": "Open daily 17:00-02:00. Elevator access to upper floors. Reservations recommended for window seating. Higher price point for premium location and views.",
+        "bestTimeToVisit": "Sunset hours (18:00-20:00) for spectacular views. Clear evenings for optimal visibility and city lights.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky+Tower+Lounge+Tirana+Albania"
+      },
+      {
+        "id": "radio-bar",
+        "name": "Radio Bar Tirana",
+        "shortDescription": "Retro-themed bar with vintage music equipment, craft cocktails, and nostalgic atmosphere celebrating radio culture.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://tripalbania.wordpress.com/wp-content/uploads/2020/02/radio-bar.jpg",
+        "type": "bar",
+        "detailedDescription": "Radio Bar Tirana is a unique themed establishment that pays homage to the golden age of radio broadcasting. The bar features vintage radio equipment, retro furniture, and a carefully curated playlist that spans decades of music history. Known for their creative cocktails with radio-inspired names and a warm, nostalgic atmosphere that attracts both locals and music enthusiasts.",
+        "keyFeatures": [
+          "Vintage Theme - Authentic radio equipment and retro décor",
+          "Music Focus - Curated playlists spanning multiple decades",
+          "Creative Cocktails - Radio-themed drink names and presentations",
+          "Nostalgic Atmosphere - Warm, cozy environment",
+          "Local Favorite - Popular with Tirana's creative community"
+        ],
+        "visitingInfo": "Open Monday-Saturday 18:00-02:00, closed Sundays. Cash and cards accepted. Limited seating - arrive early on weekends. Live DJ sets on weekends.",
+        "bestTimeToVisit": "Early evening (18:00-20:00) for quieter atmosphere and conversation. Weekend nights (22:00-24:00) for full energy and music.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radio+Bar+Tirana+Albania"
+      },
+      {
+        "id": "kino-bar",
+        "name": "KINO",
+        "shortDescription": "Cinema-themed cocktail bar featuring film memorabilia, craft drinks, and screenings in a vintage movie theater setting.",
+        "location": "Rruga Abdyl Frashëri, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrTJq0ex9IenDw335k4DPe0Mqc7bmfCV_t2RUpuxMCk1qznit9U7fNbpPgIX8EZmHz8nlU-8VaEaI6XfUnun-MSVX9tD1B-CoGRQyF1U68KFu-C8VYkdT-5rdgVc5hAe8jNGY0B=s1360-w1360-h1020-rw",
+        "type": "bar",
+        "detailedDescription": "KINO transforms the classic movie theater experience into an innovative cocktail bar. The venue features authentic cinema seating, vintage film equipment, and movie memorabilia from Albanian and international cinema. Their cocktail menu is inspired by classic films, and they regularly host film screenings, creating a unique entertainment experience that combines drinks with cinema culture.",
+        "keyFeatures": [
+          "Cinema Theme - Authentic movie theater seating and décor",
+          "Film-Inspired Cocktails - Drinks named after classic movies",
+          "Movie Screenings - Regular film events and premieres",
+          "Vintage Equipment - Original cinema projection equipment",
+          "Cultural Hub - Supporting Albanian and international cinema"
+        ],
+        "visitingInfo": "Open Tuesday-Sunday 19:00-02:00, closed Mondays. Film screening schedule available online. Cocktail service during screenings. Reservations recommended for special events.",
+        "bestTimeToVisit": "Film screening nights for full experience. Weekend evenings (20:00-22:00) for cocktails and cinema atmosphere.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KINO+bar+Tirana+Albania"
+      },
+      {
+        "id": "komiteti-bar",
+        "name": "Komiteti Bar - Tiranë",
+        "shortDescription": "Historic communist-era themed bar serving traditional Albanian raki and creating an authentic socialist atmosphere.",
+        "location": "Rruga Pjeter Budi, Tirana Old Town",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/25/ee/a0/caption.jpg",
+        "type": "bar",
+        "detailedDescription": "Komiteti Bar offers a fascinating journey into Albania's communist past, housed in an authentic setting with original propaganda posters, vintage furniture, and historical artifacts. The bar specializes in traditional Albanian raki and local spirits, providing visitors with both cultural education and quality drinks. This unique establishment has become a must-visit for those interested in Albanian history and culture.",
+        "keyFeatures": [
+          "Historical Theme - Authentic communist-era décor and artifacts",
+          "Traditional Spirits - Extensive raki and local alcohol selection",
+          "Cultural Experience - Educational insight into Albanian history",
+          "Authentic Setting - Original propaganda and vintage items",
+          "Tourist Attraction - Popular with visitors seeking unique experiences"
+        ],
+        "visitingInfo": "Open daily 18:00-01:00. Cash preferred. English-speaking staff available. Historical explanations provided. Popular with tour groups - expect crowds.",
+        "bestTimeToVisit": "Early evening (18:00-20:00) for cultural discussion and history. Later evening (21:00-23:00) for authentic Albanian drinking culture.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Komiteti+Bar+Tirana+Albania"
+      },
+      {
+        "id": "soma-vinyl",
+        "name": "Soma Vinyl Station",
+        "shortDescription": "Record store and bar combination featuring extensive vinyl collection, craft beers, and live music performances.",
+        "location": "Rruga e Kavajës, Tirana",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c5/17/1c/caption.jpg",
+        "type": "bar",
+        "detailedDescription": "Soma Vinyl Station uniquely combines a record store with a bar, creating a haven for music lovers and vinyl enthusiasts. The venue features an extensive collection of vinyl records spanning all genres, craft beer selection, and regular live acoustic performances. The atmosphere encourages music discovery, with customers able to browse records while enjoying drinks and often purchasing albums from their evening's playlist.",
+        "keyFeatures": [
+          "Vinyl Collection - Extensive record store with rare finds",
+          "Music Discovery - Listen before you buy concept",
+          "Craft Beer Focus - Curated selection of local and international beers",
+          "Live Performances - Regular acoustic sets and music events",
+          "Community Hub - Meeting place for Tirana's music scene"
+        ],
+        "visitingInfo": "Open daily 16:00-24:00. Record store and bar operate simultaneously. Live music schedule varies - check social media. Vinyl purchases can be made during bar hours.",
+        "bestTimeToVisit": "Afternoon (16:00-18:00) for record browsing in quieter setting. Evening live music events typically start at 21:00.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Soma+Vinyl+Station+Tirana+Albania"
+      },
+      {
+        "id": "spy-speakeasy",
+        "name": "Spy Speakeasy",
+        "shortDescription": "Hidden speakeasy bar with secret entrance, premium cocktails, and mysterious espionage-themed atmosphere.",
+        "location": "Hidden location in Bllok area, Tirana",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/2d/2a/98/33/caption.jpg",
+        "type": "bar",
+        "detailedDescription": "Spy Speakeasy maintains the mystery and exclusivity of the prohibition era with its hidden entrance and secretive atmosphere. This upscale cocktail bar requires insider knowledge to find, featuring dim lighting, leather furnishings, and a menu of expertly crafted cocktails with espionage-themed names. The bartenders are skilled mixologists who create both classic and innovative drinks in an atmosphere of sophisticated intrigue.",
+        "keyFeatures": [
+          "Hidden Location - Secret entrance adds to mystique",
+          "Premium Cocktails - Expert mixology and high-quality spirits",
+          "Espionage Theme - Spy-inspired décor and drink names",
+          "Exclusive Atmosphere - Limited seating and intimate setting",
+          "Professional Service - Skilled bartenders and attentive staff"
+        ],
+        "visitingInfo": "Open Wednesday-Saturday 20:00-03:00. Reservation recommended. Higher price point. Dress code: smart casual to formal. Location details provided upon reservation.",
+        "bestTimeToVisit": "Weeknight (Wednesday-Thursday) for intimate experience. Weekend nights for full atmosphere but expect crowds.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spy+Speakeasy+Bllok+Tirana+Albania"
+      },
+      {
+        "id": "hemingway-garden",
+        "name": "Hemingway Garden Bar",
+        "shortDescription": "Outdoor garden bar extension of Hemingway Bar, offering alfresco dining and drinks in green oasis setting.",
+        "location": "Behind Hemingway Bar, Tirana",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/63/ac/0f/hemingway-tirana.jpg?w=900&h=500&s=1",
+        "type": "bar",
+        "detailedDescription": "Hemingway Garden Bar extends the literary atmosphere of the main Hemingway Bar into a beautiful outdoor garden setting. Surrounded by lush greenery and ambient lighting, this seasonal venue offers the perfect escape from urban intensity. The garden maintains the same commitment to classic cocktails while providing a more relaxed, nature-focused environment ideal for warm evenings and intimate conversations.",
+        "keyFeatures": [
+          "Garden Setting - Lush outdoor space with natural ambiance",
+          "Seasonal Operation - Open during warm weather months",
+          "Literary Atmosphere - Extension of Hemingway Bar concept",
+          "Intimate Seating - Small tables perfect for conversation",
+          "Classic Cocktails - Same high-quality drinks in outdoor setting"
+        ],
+        "visitingInfo": "Seasonal operation April-October, weather permitting. Open daily 18:00-24:00 during season. Garden seating fills quickly - arrive early or make reservations.",
+        "bestTimeToVisit": "Sunset hours (18:00-20:00) for magical garden lighting. Late spring and early autumn for perfect weather.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hemingway+Garden+Bar+Tirana+Albania"
+      }
+    ],
+    "bakeries-qsr": [
+      {
+        "id": "le-bon-tirana",
+        "name": "Le Bon Tirana",
+        "shortDescription": "French-style bakery offering authentic croissants, pastries, and artisanal bread with Parisian bakery standards.",
+        "location": "Rruga e Kavajës, Tirana",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2c/6d/86/le-bon-tirana-bakery.jpg?w=500&h=400&s=1",
+        "type": "bakery",
+        "detailedDescription": "Le Bon Tirana brings authentic French bakery traditions to Albania's capital. Their team of French-trained bakers produces daily fresh croissants, pain au chocolat, and artisanal breads using traditional techniques and imported French flour. The bakery maintains strict Parisian standards, offering both classic French pastries and seasonal specialties throughout the year.",
+        "keyFeatures": [
+          "Authentic French Baking - Traditional techniques and recipes",
+          "Daily Fresh Production - Baked fresh every morning",
+          "Imported Ingredients - French flour and premium materials",
+          "Seasonal Specialties - Rotating menu based on French calendar",
+          "Professional Standards - French-trained baking team"
+        ],
+        "visitingInfo": "Open daily 7:00-19:00. Best selection available 8:00-12:00. Pre-orders accepted for special occasions. Higher price point for premium quality.",
+        "bestTimeToVisit": "Early morning (7:00-9:00) for warmest, freshest pastries. Mid-morning (10:00-12:00) for full selection availability.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Bon+Tirana+bakery+Albania"
+      },
+      {
+        "id": "zio-peppe",
+        "name": "Zio Peppe - Pizza al Metro",
+        "shortDescription": "24/7 pizza by the meter concept just 7 minutes from the apartment, offering quick service and authentic Italian pizza.",
+        "location": "7-minute walk from apartment, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noq5nOXRp9Xzo1cRZRDmOsRwj8yaUrJK80THHA7WoGqxTHuTEADOUhPwT4_O-rZXYmE6eD3Wk4FR8T7b3nFqXMW-3uJCxi3frmWyj8GjyJaRwUqZM5IUlf7DqkwVpMrRJKul1M=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "Zio Peppe revolutionizes pizza service with their innovative 'pizza al metro' concept, where pizzas are made in long rectangular shapes and sold by length. Open 24/7 and located just 7 minutes from the apartment, it's the perfect solution for quick, quality meals at any hour. Their authentic Italian recipes and quick service make it a local favorite for both tourists and residents.",
+        "keyFeatures": [
+          "24/7 Operation - Always open for convenience",
+          "Pizza al Metro - Unique serving concept by length",
+          "Close Location - Just 7-minute walk from apartment",
+          "Quick Service - Fast preparation and minimal wait times",
+          "Authentic Italian - Traditional pizza recipes and techniques"
+        ],
+        "visitingInfo": "Open 24/7, 365 days a year. Cash and cards accepted. No reservations needed. Popular late-night spot. Multiple pizza varieties always available.",
+        "bestTimeToVisit": "Late night (22:00-02:00) when most other places are closed. Lunch hours (12:00-14:00) for quick meal option.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zio+Peppe+pizza+al+metro+Tirana+Albania"
+      },
+      {
+        "id": "laguna-pizza",
+        "name": "Laguna Pizza & Ice Cream",
+        "shortDescription": "Family-friendly establishment combining quality pizza with artisanal ice cream, perfect for casual dining.",
+        "location": "Rruga Myslym Shyri, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKPRT0XvB40nw0BAMJwzILb1HVU86buUPoRwBHoR-Yw5x2eRMK4M3y6FU9OAl2-lwOPMuWQJZxOWF5-28GQGs-sVSxjq1fpaYrJtzJq1wOIxCnmnkCuKuYZZAFvV4c9qz6efqyTg=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "Laguna Pizza & Ice Cream offers the perfect combination for family dining, featuring quality pizza alongside homemade ice cream. This casual establishment has built a reputation for consistent quality, generous portions, and a welcoming atmosphere that makes it popular with both locals and families. Their ice cream selection changes seasonally, featuring both classic and innovative flavors.",
+        "keyFeatures": [
+          "Dual Concept - Pizza and ice cream in one location",
+          "Family Friendly - Welcoming atmosphere for all ages",
+          "Homemade Ice Cream - Artisanal preparation with seasonal flavors",
+          "Quality Pizza - Consistent preparation and generous toppings",
+          "Casual Dining - Relaxed environment for comfortable meals"
+        ],
+        "visitingInfo": "Open daily 11:00-23:00. Family portions available. Ice cream selection varies by season. Takeaway and delivery options available.",
+        "bestTimeToVisit": "Lunch hours (12:00-14:00) for pizza. Afternoon (15:00-17:00) for ice cream. Family dinner time (18:00-20:00).",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laguna+Pizza+Ice+Cream+Tirana+Albania"
+      },
+      {
+        "id": "opa-greek-food",
+        "name": "OPA - Greek Street Food (Bllok)",
+        "shortDescription": "Authentic Greek street food spot in Bllok offering gyros, souvlaki, and traditional Greek quick-service options.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5NXHb7adR-UNdO_l_JfLCyuwKygbEiyK9WwGCjYSFHxnV6hyiLwETOFGt5wLhj2RZxFarM3T-HqGXBuYo1S0skueaVN488NlQLOll7_GK5zVOeJz7jybG0Gm0NhiaPbx5uR8FvLwn4qiI=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "OPA brings authentic Greek street food culture to Tirana's trendy Bllok area. Specializing in traditional gyros, souvlaki, and Greek wraps, the restaurant uses imported Greek ingredients and traditional preparation methods. The casual, energetic atmosphere reflects genuine Greek taverna culture, making it a popular spot for quick, satisfying meals with Mediterranean flair.",
+        "keyFeatures": [
+          "Authentic Greek Food - Traditional recipes and imported ingredients",
+          "Street Food Focus - Quick service, casual dining experience",
+          "Bllok Location - Heart of Tirana's trendy district",
+          "Mediterranean Flavors - Fresh herbs, olive oil, and quality meats",
+          "Energetic Atmosphere - Lively Greek taverna vibe"
+        ],
+        "visitingInfo": "Open daily 11:00-24:00. No reservations needed. Popular lunch and late-night spot. Takeaway available. Greek music and atmosphere.",
+        "bestTimeToVisit": "Lunch hours (12:00-15:00) for quick meals. Evening (19:00-21:00) for authentic Greek dining experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OPA+Greek+Street+Food+Bllok+Tirana+Albania"
+      },
+      {
+        "id": "te-met-kodra",
+        "name": "Te Met Kodra",
+        "shortDescription": "Traditional Albanian fast food specializing in local quick-service dishes with authentic flavors and affordable prices.",
+        "location": "Various locations, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofxoeF0sytsnNr3NuOvWytMhr3LpfXbDKZoQ7-OQX1p4KxrkOA2Hm-802Jln1JhHNSg4qG71c3hCqxKmn7mJ5ZNi2lmmYSz32nZkvYOC2TnIG_sa5DJ65HHkUdW3WjkyMsdTUK=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "Te Met Kodra represents authentic Albanian fast food culture, offering traditional quick-service dishes that locals have enjoyed for generations. Their menu features byrek (Albanian pastry), qofte (meatballs), and other traditional dishes prepared quickly but maintaining authentic flavors. This local chain provides an affordable way to experience genuine Albanian cuisine in a casual setting.",
+        "keyFeatures": [
+          "Traditional Albanian - Authentic local fast food culture",
+          "Affordable Prices - Budget-friendly options for daily meals",
+          "Quick Service - Fast preparation maintaining quality",
+          "Local Favorites - Byrek, qofte, and traditional dishes",
+          "Multiple Locations - Convenient access throughout Tirana"
+        ],
+        "visitingInfo": "Open daily 7:00-22:00. Very affordable prices. Cash preferred. No English menu but staff often speaks basic English. Popular with locals.",
+        "bestTimeToVisit": "Breakfast time (7:00-10:00) for fresh byrek. Lunch hours (12:00-14:00) for traditional Albanian quick meals.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Te+Met+Kodra+Tirana+Albania"
+      },
+      {
+        "id": "morsi-tirana",
+        "name": "Morsi Tirana (Bllok)",
+        "shortDescription": "Modern quick-service restaurant in Bllok offering fresh sandwiches, salads, and healthy fast-casual options.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPxG2WXDUn0Ojjk7NCSpc2JUJlqAaADBHUAErIf=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "Morsi Tirana brings modern fast-casual dining to the Bllok area, focusing on fresh, healthy options without sacrificing speed or convenience. Their menu features gourmet sandwiches, fresh salads, and innovative wraps made with high-quality ingredients. The contemporary design and efficient service model appeal to young professionals and health-conscious diners looking for quick, nutritious meals.",
+        "keyFeatures": [
+          "Healthy Fast-Casual - Fresh ingredients and nutritious options",
+          "Gourmet Sandwiches - Creative combinations and quality meats",
+          "Modern Design - Contemporary interior and efficient layout",
+          "Bllok Location - Convenient spot in trendy district",
+          "Quick Service - Fast preparation without compromising quality"
+        ],
+        "visitingInfo": "Open Monday-Saturday 8:00-22:00, Sunday 10:00-20:00. Cards and cash accepted. Healthy options clearly marked. Popular lunch spot for office workers.",
+        "bestTimeToVisit": "Lunch hours (12:00-14:00) for business lunch crowd. Afternoon (15:00-17:00) for quieter service.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Morsi+Tirana+Bllok+Albania"
+      },
+      {
+        "id": "haburger",
+        "name": "Haburger",
+        "shortDescription": "Gourmet burger joint offering premium beef patties, creative toppings, and artisanal burger creations.",
+        "location": "Rruga e Kavajës, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAeRN974gP0rRdHW8oR3Vb8VOMtBefVM50AKl0d6xQaCGJqVJcxwcsq6i9_YD-HS8b9WayoSyOD5RxBZHgRvSxKn4ZXMKxX8L4_Mx0Zis8zB8wDWJN3OeJyOObhWhLqJkf8HgCWw=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "Haburger elevates the burger experience in Tirana with premium beef patties, artisanal buns, and creative topping combinations. This gourmet burger joint focuses on quality ingredients, including locally sourced beef and imported specialty items. Their menu balances classic American burger styles with innovative creations that reflect local tastes and international influences.",
+        "keyFeatures": [
+          "Premium Beef - High-quality, locally sourced meat",
+          "Artisanal Buns - Freshly baked daily for perfect texture",
+          "Creative Toppings - Innovative combinations and local influences",
+          "Gourmet Quality - Restaurant-level ingredients in fast-casual format",
+          "American Style - Classic burger culture with modern execution"
+        ],
+        "visitingInfo": "Open daily 11:00-23:00. Made-to-order preparation may take 10-15 minutes. Higher price point for premium quality. Delivery available.",
+        "bestTimeToVisit": "Lunch hours (12:00-14:00) for fresh preparation. Dinner time (19:00-21:00) for full menu experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haburger+Tirana+Albania"
+      },
+      {
+        "id": "smash-burger-tirana",
+        "name": "Smash Burger Tirana",
+        "shortDescription": "American-style smash burger specialist using the signature smashing technique for maximum flavor and crispy edges.",
+        "location": "Bllok area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAZvyVO_6QcTk72GgRX0Yc6bbc2UCF_ZMaNF5y=s1360-w1360-h1020-rw",
+        "type": "qsr",
+        "detailedDescription": "Smash Burger Tirana specializes in the authentic American smash burger technique, where beef patties are literally smashed on the grill to create crispy, caramelized edges while maintaining juicy centers. This cooking method, combined with quality ingredients and classic American-style preparations, delivers the authentic burger experience that has made smash burgers famous worldwide.",
+        "keyFeatures": [
+          "Smash Technique - Authentic American cooking method for maximum flavor",
+          "Crispy Edges - Signature caramelized burger texture",
+          "Quality Beef - Fresh, never frozen patties",
+          "American Authentic - True to original smash burger traditions",
+          "Quick Service - Fast cooking method maintains efficiency"
+        ],
+        "visitingInfo": "Open daily 11:30-23:30. Fresh beef smashed to order. Popular with burger enthusiasts. Casual dining atmosphere. Takeaway available.",
+        "bestTimeToVisit": "Lunch hours (12:00-14:00) for fresh, hot burgers. Early dinner (18:00-20:00) before evening rush.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smash+Burger+Tirana+Albania"
+      },
+      {
+        "id": "mulliri-vjeter",
+        "name": "Mulliri i Vjetër",
+        "shortDescription": "Traditional Albanian bakery specializing in authentic byrek, fresh bread, and time-honored baking methods.",
+        "location": "Pazari i Ri area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbYfG43mrC7IKPKFtiZ0949PKLeDDlDID6UvBi9_S5LHP61VFNJQ3muhql2HwfV2-HFDzn_FG9vO9vz1QHE-lMPt5Lv6q5UDLWAPd-zBzMmV0st69eGnoGyok_UCyln3JhnMo=s1360-w1360-h1020-rw",
+        "type": "bakery",
+        "detailedDescription": "Mulliri i Vjetër (The Old Mill) represents traditional Albanian baking at its finest, maintaining recipes and techniques passed down through generations. Their specialty byrek comes in numerous varieties, and their fresh bread is baked multiple times daily using traditional stone ovens. This authentic bakery attracts locals who appreciate genuine Albanian flavors and time-honored preparation methods.",
+        "keyFeatures": [
+          "Traditional Albanian - Authentic recipes and preparation methods",
+          "Byrek Specialist - Multiple varieties of traditional Albanian pastry",
+          "Stone Oven Baking - Traditional baking techniques for superior flavor",
+          "Multiple Daily Batches - Fresh bread and pastries throughout the day",
+          "Local Institution - Beloved by generations of Tirana families"
+        ],
+        "visitingInfo": "Open daily 6:00-20:00. Peak times 7:00-9:00 and 17:00-19:00. Cash only. Albanian language primarily spoken but friendly service for tourists.",
+        "bestTimeToVisit": "Early morning (6:00-8:00) for warmest, freshest byrek. Evening (17:00-19:00) for second batch of fresh bread.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mulliri+i+Vjeter+Tirana+Albania"
+      }
+    ]
+  }
+}

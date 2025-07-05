@@ -1,0 +1,1834 @@
+{
+  "pageConfig": {
+    "title": "Albania Travel Companion",
+    "subtitle": "Essential info, language help, and insider secrets for Albania",
+    "tabs": [
+      {
+        "id": "overview",
+        "name": "Overview",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "dashboard"
+        }
+      },
+      {
+        "id": "language",
+        "name": "Language",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "translate"
+        }
+      },
+      {
+        "id": "transport",
+        "name": "Transport",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "directions-bus"
+        }
+      },
+      {
+        "id": "money",
+        "name": "Money",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "attach-money"
+        }
+      },
+      {
+        "id": "parking",
+        "name": "Driving",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "directions-car"
+        }
+      },
+      {
+        "id": "secrets",
+        "name": "Local Secrets",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "explore"
+        }
+      },
+      {
+        "id": "safety",
+        "name": "Safety",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "security"
+        }
+      },
+      {
+        "id": "ferry",
+        "name": "Ferry",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "directions-boat"
+        }
+      },
+      {
+        "id": "esim",
+        "name": "eSIM",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "sim-card"
+        }
+      },
+      {
+        "id": "economy",
+        "name": "Economy",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "trending-up"
+        }
+      },
+      {
+        "id": "history",
+        "name": "History",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "account-balance"
+        }
+      }
+    ]
+  },
+  "data": {
+    "transport": {
+      "taxiCompanies": [
+        {
+          "name": "Auto Holiday Albania (Official Airport Taxi)",
+          "phone": "+355 67 601 23 93",
+          "website": "www.tiataxi.al",
+          "rating": "⭐ Official licensed",
+          "price": "€23-28 (city center/periphery)",
+          "details": "Yellow taxis with airport logo, 24/7 service, metered fares ~2200 LEK"
+        },
+        {
+          "name": "Speed Taxi",
+          "phone": "+355 69 60 60 600",
+          "rating": "⭐ 4.0",
+          "price": "€10-12 to city center",
+          "details": "App-based booking available, cheaper than official airport taxis"
+        },
+        {
+          "name": "Merr Taxi",
+          "phone": "+355 4 2380 380",
+          "rating": "⭐ 4.2",
+          "price": "€18-20 to city center"
+        },
+        {
+          "name": "Green Taxi",
+          "phone": "+355 4 2273 273",
+          "rating": "⭐ 4.1",
+          "price": "€15-18 to city center"
+        }
+      ],
+      "airportTransport": [
+        {
+          "type": "Luna Airport Bus",
+          "route": "Airport → Skanderbeg Square",
+          "price": "~€4 (400 LEK)",
+          "duration": "30 minutes",
+          "frequency": "24/7 - every hour on the hour",
+          "details": "Accepts cash, card, and euros. Luggage storage available."
+        },
+        {
+          "type": "Official Airport Taxi",
+          "route": "Airport → City Center",
+          "price": "€23-28 (2200 LEK)",
+          "duration": "20-25 minutes",
+          "frequency": "Always available",
+          "details": "Auto Holiday Albania - yellow taxis with airport logo"
+        },
+        {
+          "type": "App-based Taxis",
+          "route": "Airport → City Center",
+          "price": "€10-20",
+          "duration": "20-25 minutes",
+          "frequency": "Usually available",
+          "details": "Speed Taxi, Patoko, Bee Taxi apps available. Uber NOT available in Albania"
+        },
+        {
+          "type": "Private Transfer",
+          "route": "Airport → City Center",
+          "price": "€28-33",
+          "duration": "20-25 minutes",
+          "frequency": "Pre-booking required",
+          "details": "Door-to-door service, English-speaking drivers"
+        }
+      ],
+      "carRentals": [
+        {
+          "company": "Europcar Albania",
+          "location": "Airport Terminal",
+          "contact": "+355 4 2381 051",
+          "details": "Counter in terminal, flexible rental options"
+        },
+        {
+          "company": "Hertz Albania",
+          "location": "Airport Terminal",
+          "contact": "+355 4 2381 718",
+          "details": "Located in terminal building"
+        },
+        {
+          "company": "Avis Albania",
+          "location": "Airport Terminal",
+          "contact": "+355 4 2274 947",
+          "details": "Terminal location, international brand"
+        },
+        {
+          "company": "Enterprise Rent-A-Car",
+          "location": "Airport Terminal",
+          "contact": "+355 67 600 0900",
+          "details": "24/7 service, after-hours pickup available (€15 fee)"
+        },
+        {
+          "company": "SIXT",
+          "location": "Airport Terminal",
+          "contact": "Available at terminal",
+          "details": "Like-new vehicles, accepts debit cards and Amex"
+        },
+        {
+          "company": "Albania Airport Rent A Car",
+          "location": "Airport Terminal & Parking",
+          "contact": "Available at terminal",
+          "details": "Local company, 1200+ vehicle fleet, established 2013"
+        }
+      ],
+      "importantNotes": {
+        "currency": "Prices can be paid in EUR or Albanian LEK (1 EUR ≈ 100 LEK)",
+        "uberStatus": "Uber is NOT available in Albania as of 2025",
+        "alternativeApps": ["Patoko", "Speed Taxi", "Bee Taxi", "Clust"],
+        "busSchedule": "Luna bus runs 24/7, departing every hour on the hour",
+        "officialTaxiNote": "Only use licensed yellow taxis with Auto Holiday Albania logo at airport",
+        "trafficWarning": "Allow extra time during rush hours (7-9:30am, 4-6:30pm)"
+      }
+    },
+    "driving": {
+      "drivingTips": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "directions-car"},
+          "title": "Speed Limits",
+          "tip": "Speed limits: 50 km/h city, 90 km/h highway, 130 km/h motorway"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "local-gas-station"},
+          "title": "Gas Stations",
+          "tip": "Gas stations: Kastrati, Tamoil, Shell - around 160-180 ALL/liter"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "toll"},
+          "title": "Tolls",
+          "tip": "Tolls: None currently, but new highway sections may introduce them"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "navigation"},
+          "title": "Navigation",
+          "tip": "GPS: Google Maps works well, offline maps recommended for mountains"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "construction"},
+          "title": "Road Conditions",
+          "tip": "Road conditions: Good in cities, be cautious in rural/mountain areas"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "security"},
+          "title": "Police Checks",
+          "tip": "Police: Random checks common, always carry license, registration, insurance"
+        }
+      ],
+      "trafficRules": [
+        {
+          "area": "International Driving Permit",
+          "type": "Required",
+          "price": "Must have IDP + home license",
+          "availability": "Essential"
+        },
+        {
+          "area": "Insurance",
+          "type": "Third Party Minimum",
+          "price": "€15-30/day",
+          "availability": "Mandatory"
+        },
+        {
+          "area": "Seatbelts",
+          "type": "All Passengers",
+          "price": "Fine: 2000 ALL",
+          "availability": "Always Required"
+        },
+        {
+          "area": "Mobile Phones",
+          "type": "Hands-free Only",
+          "price": "Fine: 5000 ALL",
+          "availability": "Strictly Enforced"
+        }
+      ],
+      "roadTips": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "warning"},
+          "title": "Defensive Driving",
+          "tip": "Albanian drivers can be aggressive - maintain safe distances and drive defensively"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "traffic"},
+          "title": "Rush Hours",
+          "tip": "Avoid 7-9am and 5-7pm in Tirana - traffic gets very congested"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "landscape"},
+          "title": "Mountain Roads",
+          "tip": "Mountain roads are narrow and winding - honk before blind curves"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "pets"},
+          "title": "Animals on Roads",
+          "tip": "Watch for livestock and stray dogs, especially on rural roads"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "wb-sunny"},
+          "title": "Weather Conditions",
+          "tip": "Roads can be slippery when wet - reduce speed during rain"
+        }
+      ],
+      "parkingZones": [
+        {
+          "area": "Tirana Center",
+          "type": "Blue Zone",
+          "price": "100 ALL/hour",
+          "availability": "Limited, very busy"
+        },
+        {
+          "area": "Blloku District",
+          "type": "Paid Parking",
+          "price": "150-200 ALL/hour",
+          "availability": "Moderate"
+        },
+        {
+          "area": "Shopping Malls",
+          "type": "Free/Paid",
+          "price": "First 2h free",
+          "availability": "Good"
+        },
+        {
+          "area": "Hotels",
+          "type": "Private",
+          "price": "500-1000 ALL/night",
+          "availability": "Reserved"
+        }
+      ],
+      "carRentalCompanies": [
+        {
+          "name": "Sixt",
+          "type": "International",
+          "locations": ["Airports", "City centers"],
+          "contact": "Available nationwide"
+        },
+        {
+          "name": "Europcar",
+          "type": "International",
+          "locations": ["Airports", "City centers"],
+          "contact": "Available nationwide"
+        },
+        {
+          "name": "Avis",
+          "type": "International",
+          "locations": ["Airports", "City centers"],
+          "contact": "Available nationwide"
+        }
+      ],
+      "carRentalPlatforms": [
+        {
+          "name": "Discover Cars",
+          "type": "Booking Platform",
+          "advantage": "Price comparison"
+        },
+        {
+          "name": "Rental Cars",
+          "type": "Booking Platform",
+          "advantage": "Wide selection"
+        },
+        {
+          "name": "Booking Cars",
+          "type": "Booking Platform",
+          "advantage": "Integrated booking"
+        },
+        {
+          "name": "Rent from Locals",
+          "type": "Peer-to-peer",
+          "advantage": "Local options"
+        }
+      ],
+      "rentalRequirements": [
+        {
+          "requirement": "Driver's License",
+          "details": "Valid driver's license from home country",
+          "mandatory": true
+        },
+        {
+          "requirement": "International Driving Permit",
+          "details": "Strongly recommended for easier processing",
+          "mandatory": false
+        },
+        {
+          "requirement": "Credit Card",
+          "details": "Required for security deposit",
+          "mandatory": true
+        },
+        {
+          "requirement": "Age Requirement",
+          "details": "Minimum age varies by company",
+          "mandatory": true
+        }
+      ],
+      "rentalPricing": [
+        {
+          "category": "Economy/Compact",
+          "priceRange": "$25-50 USD/day",
+          "recommendation": "Best for city and coastal driving"
+        },
+        {
+          "category": "Mid-size",
+          "priceRange": "$40-70 USD/day",
+          "recommendation": "Good balance of comfort and efficiency"
+        },
+        {
+          "category": "SUV",
+          "priceRange": "$60-100 USD/day",
+          "recommendation": "Recommended for mountain regions and rough terrain"
+        }
+      ],
+      "rentalTips": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "schedule"},
+          "title": "Book in Advance",
+          "tip": "Better rates and availability, especially during summer season"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "compare"},
+          "title": "Compare Prices",
+          "tip": "Use comparison sites to find best deals across different companies"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "settings"},
+          "title": "Choose Right Vehicle",
+          "tip": "Compact for cities, SUV for mountains - automatic transmission limited"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "location-on"},
+          "title": "Pickup Locations",
+          "tip": "Available at airports, seaports like Saranda, and city centers"
+        }
+      ],
+      "localDrivingStyle": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "speed"},
+          "title": "Enthusiastic Drivers",
+          "tip": "Local driving style can be aggressive - stay alert and defensive"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "traffic"},
+          "title": "Expect Assertiveness",
+          "tip": "Albanian drivers are confident and may drive more aggressively than tourists expect"
+        }
+      ]
+    },
+    "parking": {
+      "parkingZones": [
+        {
+          "area": "Tirana Center",
+          "type": "Blue Zone (SMS Payment)",
+          "price": "100 ALL/hour (Zone A), 40 ALL/hour (Zone B), 20 ALL/hour (Zone C)",
+          "availability": "Very limited, extremely busy",
+          "notes": "Payment via SMS to 50500. Paid Mon-Fri 7:30 AM-8:00 PM. Free evenings, weekends often free"
+        },
+        {
+          "area": "Underground Parking Skanderbeg Square",
+          "type": "Municipal Parking",
+          "price": "500 ALL/24 hours (approximately €5)",
+          "availability": "Good capacity",
+          "notes": "Secure underground parking, central location"
+        },
+        {
+          "area": "Blloku District",
+          "type": "Street Parking",
+          "price": "100 ALL/hour (blue zones)",
+          "availability": "Limited",
+          "notes": "Mostly paid parking during business hours"
+        },
+        {
+          "area": "Shopping Malls - TEG",
+          "type": "Free/Paid",
+          "price": "0-2h FREE, 2-4h: 200 ALL, 4-8h: 400 ALL, 8-12h: 500 ALL",
+          "availability": "Very good (3,300 spaces)",
+          "notes": "Free weekends & holidays. Monthly: 10,000 ALL"
+        },
+        {
+          "area": "Shopping Malls - Toptani",
+          "type": "Underground Paid",
+          "price": "Paid parking (rates vary)",
+          "availability": "Good (600 spaces)",
+          "notes": "4 underground levels, some free hours with purchases"
+        },
+        {
+          "area": "Hotels",
+          "type": "Private",
+          "price": "500-1500 ALL/night",
+          "availability": "Reserved for guests",
+          "notes": "Some hotels allow non-guests for small fee"
+        }
+      ],
+      "drivingTips": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "directions-car" },
+          "title": "Speed Limits",
+          "tip": "40-50 km/h in cities, 80-90 km/h on main roads, 110 km/h on motorways (A1: 130 km/h)"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-gas-station" },
+          "title": "Gas Stations",
+          "tip": "Prices around 173 ALL/liter for diesel, ~200-220 ALL/liter for gasoline (2025 prices)"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "toll" },
+          "title": "Tolls",
+          "tip": "Only A1 highway (Durres-Kosovo) has tolls - one toll booth near Kalimash Tunnel"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "navigation" },
+          "title": "Navigation",
+          "tip": "Google Maps works well in 2025, offline maps recommended for remote mountain areas"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "construction" },
+          "title": "Road Conditions",
+          "tip": "Excellent on main highways, yellow roads good, avoid white roads (dirt tracks)"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "security" },
+          "title": "Police Checks",
+          "tip": "Frequent speed cameras and traffic police. Always carry license, registration, insurance"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "warning" },
+          "title": "Driving Style",
+          "tip": "Locals drive aggressively, use horns frequently. Be defensive, expect animals on roads"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "attach-money" },
+          "title": "Payment Methods",
+          "tip": "Parking SMS payments require Albanian phone number. Carry cash for tolls and parking"
+        }
+      ],
+      "secretSpots": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "train" },
+          "title": "Park & Ride",
+          "tip": "Use TEG mall parking (free weekends) + bus Line 8A or 2 to city center"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "schedule" },
+          "title": "Early Bird",
+          "tip": "Arrive before 9am for better city center spots, paid parking starts 7:30 AM"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "home" },
+          "title": "Residential Streets",
+          "tip": "Look for white parking lines (free), avoid blue lines (paid). Respect private markers"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "hotel" },
+          "title": "Hotel Lobbies",
+          "tip": "Many allow non-guests to park for 500-1000 ALL fee - ask nicely at reception"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "restaurant" },
+          "title": "Underground Municipal",
+          "tip": "3 municipal underground parkings: Skanderbeg, Bajram Curri/Rruga Elbasanit, Zogu I"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "weekend" },
+          "title": "Weekend Strategy",
+          "tip": "Most paid zones free on weekends/holidays. TEG mall always free Sat-Sun"
+        }
+      ],
+      "importantNotes": [
+        {
+          "title": "SMS Parking Payment",
+          "note": "Send SMS to 50500 with car number and zone. Requires Albanian phone number and credit."
+        },
+        {
+          "title": "Blue vs White Lines",
+          "note": "Blue lines = paid parking, White lines = free parking. Yellow = no parking (disabled/taxi)."
+        },
+        {
+          "title": "Tirana Parking Crisis",
+          "note": "Severe parking shortage in city center. Consider staying outside center or using public transport."
+        },
+        {
+          "title": "Weekend Advantage",
+          "note": "Most parking free on weekends and public holidays - best time to visit city center by car."
+        }
+      ]
+    },
+    "language": {
+      "phrases": [
+        {
+          "id": "1",
+          "category": "greetings",
+          "english": "Hello",
+          "albanian": "Përshëndetje",
+          "audioFile": "49004001_1_prshndetje.mp3"
+        },
+        {
+          "id": "2",
+          "category": "greetings",
+          "english": "Good morning",
+          "albanian": "Mirëmëngjes",
+          "audioFile": "49004001_2_mirmngjes.mp3"
+        },
+        {
+          "id": "3",
+          "category": "greetings",
+          "english": "Good evening",
+          "albanian": "Mirëmbrëma",
+          "audioFile": "49004001_3_mirmbrma.mp3"
+        },
+        {
+          "id": "4",
+          "category": "greetings",
+          "english": "Thank you",
+          "albanian": "Faleminderit",
+          "audioFile": "49004001_4_faleminderit.mp3"
+        },
+        {
+          "id": "5",
+          "category": "greetings",
+          "english": "Please",
+          "albanian": "Ju lutem",
+          "audioFile": "49004001_5_ju-lutem.mp3"
+        },
+        {
+          "id": "6",
+          "category": "greetings",
+          "english": "Goodbye",
+          "albanian": "Mirupafshim",
+          "audioFile": "49004001_6_mirupafshim.mp3"
+        },
+        {
+          "id": "7",
+          "category": "travel",
+          "english": "Where is the bathroom?",
+          "albanian": "Ku është tualeti?",
+          "audioFile": "49004001_7_ku-sht-tualeti.mp3"
+        },
+        {
+          "id": "8",
+          "category": "travel",
+          "english": "How much does this cost?",
+          "albanian": "Sa kushton kjo?",
+          "audioFile": "49004001_8_sa-kushton-kjo.mp3"
+        },
+        {
+          "id": "9",
+          "category": "travel",
+          "english": "I don't speak Albanian",
+          "albanian": "Unë nuk flas shqip",
+          "audioFile": "49004001_9_un-nuk-flas-shqip.mp3"
+        },
+        {
+          "id": "10",
+          "category": "travel",
+          "english": "Where is the train station?",
+          "albanian": "Ku është stacioni i trenave?",
+          "audioFile": "49004001_10_ku-sht-stacioni-i-tr.mp3"
+        },
+        {
+          "id": "11",
+          "category": "travel",
+          "english": "I'm lost",
+          "albanian": "Jam i humbur",
+          "audioFile": "49004001_11_jam-i-humbur.mp3"
+        },
+        {
+          "id": "12",
+          "category": "travel",
+          "english": "Can you help me?",
+          "albanian": "A mund të më ndihmoni?",
+          "audioFile": "49004001_12_a-mund-t-m-ndihmoni.mp3"
+        },
+        {
+          "id": "13",
+          "category": "emergency",
+          "english": "I need help",
+          "albanian": "Më duhet ndihmë",
+          "audioFile": "49004001_13_m-duhet-ndihm.mp3"
+        },
+        {
+          "id": "14",
+          "category": "emergency",
+          "english": "Call the police",
+          "albanian": "Thirr policinë",
+          "audioFile": "49004001_14_thirr-policin.mp3"
+        },
+        {
+          "id": "15",
+          "category": "emergency",
+          "english": "Where is the hospital?",
+          "albanian": "Ku është spitali?",
+          "audioFile": "49004001_15_ku-sht-spitali.mp3"
+        },
+        {
+          "id": "16",
+          "category": "emergency",
+          "english": "I'm hurt",
+          "albanian": "Jam i lënduar",
+          "audioFile": "49004001_16_jam-i-lnduar.mp3"
+        },
+        {
+          "id": "17",
+          "category": "food",
+          "english": "I'm hungry",
+          "albanian": "Kam uri",
+          "audioFile": "49004001_17_kam-uri.mp3"
+        },
+        {
+          "id": "18",
+          "category": "food",
+          "english": "The bill, please",
+          "albanian": "Faturën, ju lutem",
+          "audioFile": "49004001_18_faturn-ju-lutem.mp3"
+        },
+        {
+          "id": "19",
+          "category": "food",
+          "english": "Water",
+          "albanian": "Ujë",
+          "audioFile": "49004001_19_uj.mp3"
+        },
+        {
+          "id": "20",
+          "category": "food",
+          "english": "Coffee",
+          "albanian": "Kafe",
+          "audioFile": "49004001_20_kafe.mp3"
+        },
+        {
+          "id": "21",
+          "category": "food",
+          "english": "Beer",
+          "albanian": "Birrë",
+          "audioFile": "49004001_21_birr.mp3"
+        },
+        {
+          "id": "22",
+          "category": "food",
+          "english": "Menu",
+          "albanian": "Menu",
+          "audioFile": "49004001_22_menu.mp3"
+        },
+        {
+          "id": "23",
+          "category": "numbers",
+          "english": "One",
+          "albanian": "Një",
+          "audioFile": "49004001_23_nj.mp3"
+        },
+        {
+          "id": "24",
+          "category": "numbers",
+          "english": "Two",
+          "albanian": "Dy",
+          "audioFile": "49004001_24_dy.mp3"
+        },
+        {
+          "id": "25",
+          "category": "numbers",
+          "english": "Three",
+          "albanian": "Tre",
+          "audioFile": "49004001_25_tre.mp3"
+        },
+        {
+          "id": "26",
+          "category": "numbers",
+          "english": "Ten",
+          "albanian": "Dhjetë",
+          "audioFile": "49004001_26_dhjet.mp3"
+        },
+        {
+          "id": "27",
+          "category": "numbers",
+          "english": "Hundred",
+          "albanian": "Njëqind",
+          "audioFile": "49004001_27_njqind.mp3"
+        },
+        {
+          "id": "28",
+          "category": "shopping",
+          "english": "How much?",
+          "albanian": "Sa kushton?",
+          "audioFile": "49004001_28_sa-kushton.mp3"
+        },
+        {
+          "id": "29",
+          "category": "shopping",
+          "english": "Too expensive",
+          "albanian": "Shumë shtrenjtë",
+          "audioFile": "49004001_29_shum-shtrenjt.mp3"
+        },
+        {
+          "id": "30",
+          "category": "shopping",
+          "english": "I'll take it",
+          "albanian": "Do ta marr",
+          "audioFile": "49004001_30_do-ta-marr.mp3"
+        },
+        {
+          "id": "31",
+          "category": "shopping",
+          "english": "Do you accept cards?",
+          "albanian": "A pranoni karta?",
+          "audioFile": "49004001_31_a-pranoni-karta.mp3"
+        },
+        {
+          "id": "32",
+          "category": "directions",
+          "english": "Where is...?",
+          "albanian": "Ku është...?",
+          "audioFile": "49004001_32_ku-sht.mp3"
+        },
+        {
+          "id": "33",
+          "category": "directions",
+          "english": "Turn left",
+          "albanian": "Kthehu majtas",
+          "audioFile": "49004001_33_kthehu-majtas.mp3"
+        },
+        {
+          "id": "34",
+          "category": "directions",
+          "english": "Turn right",
+          "albanian": "Kthehu djathtas",
+          "audioFile": "49004001_34_kthehu-djathtas.mp3"
+        },
+        {
+          "id": "35",
+          "category": "directions",
+          "english": "Straight ahead",
+          "albanian": "Drejt përpara",
+          "audioFile": "49004001_35_drejt-prpara.mp3"
+        },
+        {
+          "id": "36",
+          "category": "accommodation",
+          "english": "Do you have rooms?",
+          "albanian": "A keni dhoma të lira?",
+          "audioFile": "49004001_36_a-keni-dhoma-t-lira.mp3"
+        },
+        {
+          "id": "37",
+          "category": "accommodation",
+          "english": "One night",
+          "albanian": "Një natë",
+          "audioFile": "49004001_37_nj-nat.mp3"
+        },
+        {
+          "id": "38",
+          "category": "accommodation",
+          "english": "Check out",
+          "albanian": "Të dal",
+          "audioFile": "49004001_38_t-dal.mp3"
+        },
+        {
+          "id": "39",
+          "category": "transportation",
+          "english": "Bus station",
+          "albanian": "Stacioni i autobusëve",
+          "audioFile": "49004001_39_stacioni-i-autobusve.mp3"
+        },
+        {
+          "id": "40",
+          "category": "transportation",
+          "english": "Airport",
+          "albanian": "Aeroporti",
+          "audioFile": "49004001_40_aeroporti.mp3"
+        },
+        {
+          "id": "41",
+          "category": "transportation",
+          "english": "Taxi",
+          "albanian": "Taksi",
+          "audioFile": "49004001_41_taksi.mp3"
+        },
+        {
+          "id": "42",
+          "category": "social",
+          "english": "What's your name?",
+          "albanian": "Si ju quani?",
+          "audioFile": "49004001_42_si-ju-quani.mp3"
+        },
+        {
+          "id": "43",
+          "category": "social",
+          "english": "My name is...",
+          "albanian": "Më quajnë...",
+          "audioFile": "49004001_43_m-quajn.mp3"
+        },
+        {
+          "id": "44",
+          "category": "social",
+          "english": "Nice to meet you",
+          "albanian": "Gëzohem që ju takova",
+          "audioFile": "49004001_44_gzohem-q-ju-takova.mp3"
+        },
+        {
+          "id": "45",
+          "category": "social",
+          "english": "How are you?",
+          "albanian": "Si jeni?",
+          "audioFile": "49004001_45_si-jeni.mp3"
+        }
+      ],
+      "categories": [
+        { "id": "greetings", "name": "Greetings", "icon": {"family": "MaterialIcons", "name": "waving-hand"} },
+        { "id": "travel", "name": "Travel", "icon": {"family": "MaterialIcons", "name": "flight"} },
+        { "id": "emergency", "name": "Emergency", "icon": {"family": "MaterialIcons", "name": "emergency"} },
+        { "id": "food", "name": "Food & Drinks", "icon": {"family": "MaterialIcons", "name": "restaurant-menu"} },
+        { "id": "numbers", "name": "Numbers", "icon": {"family": "MaterialIcons", "name": "numbers"} },
+        { "id": "shopping", "name": "Shopping", "icon": {"family": "MaterialIcons", "name": "shopping-cart"} },
+        { "id": "directions", "name": "Directions", "icon": {"family": "MaterialIcons", "name": "map"} },
+        { "id": "accommodation", "name": "Hotels", "icon": {"family": "MaterialIcons", "name": "hotel"} },
+        { "id": "transportation", "name": "Transport", "icon": {"family": "MaterialIcons", "name": "directions-bus"} },
+        { "id": "social", "name": "Social", "icon": {"family": "MaterialIcons", "name": "people"} }
+      ]
+    },
+    "money": {
+      "currency": {
+        "name": "Albanian Lek",
+        "code": "ALL",
+        "symbol": "L",
+        "banknotes": [100, 200, 500, 1000, 2000, 5000, 10000],
+        "coins": [1, 5, 10, 20, 50, 100],
+        "historicalNote": "Currency was revalued: 10 new Lek = 100 old Lek. Some vendors may still quote in old Lek."
+      },
+      "exchangeOffices": [
+        {
+          "name": "Union Exchange",
+          "location": "Skanderbeg Square",
+          "rate": "Best rates in city",
+          "hours": "8:00-20:00"
+        },
+        {
+          "name": "Western Union",
+          "location": "Multiple locations",
+          "rate": "Standard + transfers",
+          "hours": "9:00-18:00"
+        },
+        {
+          "name": "Credins Bank",
+          "location": "Banking centers",
+          "rate": "Official bank rates",
+          "hours": "8:30-16:00"
+        }
+      ],
+      "exchangeGuidelines": {
+        "bestPlaces": "Banks and licensed exchange offices",
+        "recommendedCurrencies": ["EUR", "USD", "GBP"],
+        "avoidLocations": ["Airports", "Hotels", "Street vendors"],
+        "importantNote": "Lek can only be exchanged within Albania"
+      },
+      "atmInformation": {
+        "availability": "Common in larger cities like Tirana, Durrës, Vlorë",
+        "ruralAccess": "Limited in smaller towns and rural areas",
+        "recommendation": "Withdraw Lek directly from ATMs for best rates",
+        "bankingTip": "Check international transaction fees with your bank before traveling"
+      },
+      "paymentMethods": {
+        "cashUsage": "Preferred payment method, especially outside major city centers",
+        "creditCards": {
+          "acceptance": "Limited, mainly in tourist areas and larger establishments",
+          "ruralAreas": "Very limited acceptance in rural areas"
+        },
+        "practicalAdvice": "Always carry a mix of smaller and larger denominations"
+      },
+      "paymentTips": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "credit-card"},
+          "title": "Card Acceptance",
+          "tip": "Cards accepted in most restaurants, hotels, and shops in cities"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "payments"},
+          "title": "Cash Priority",
+          "tip": "Cash still king in rural areas, markets, and small businesses"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "local-atm"},
+          "title": "ATM Access",
+          "tip": "ATMs everywhere in Tirana, Durrës, Vlorë - withdraw ALL directly"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "attach-money"},
+          "title": "Tipping Guide",
+          "tip": "Tipping: 10% restaurants, round up taxis, 100-200 ALL housekeeping"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "warning"},
+          "title": "Exchange Safety",
+          "tip": "Avoid exchanging money on the street - use official exchange offices"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "info"},
+          "title": "Currency Confusion",
+          "tip": "Ask if prices are quoted in 'new' or 'old' Lek to avoid confusion"
+        }
+      ],
+      "travelTips": [
+        "Cash is king, especially outside major city centers",
+        "Carry cash when visiting smaller towns or rural areas",
+        "Always confirm whether prices are in new or old Lek",
+        "Check international transaction fees with your bank",
+        "Exchange money only at banks or licensed exchange offices"
+      ]
+    },
+    "secrets": {
+      "touristTraps": [
+        {
+          "trap": "Overpriced restaurants near Skanderbeg Square",
+          "alternative": "Try Pazari i Ri (New Bazaar) for authentic & cheaper food - renovated in 2017 with quality vendors and reasonable prices"
+        },
+        {
+          "trap": "Expensive souvenir shops in city center",
+          "alternative": "Visit local markets for genuine crafts, or shop at Pazari i Ri for local products"
+        },
+        {
+          "trap": "Tourist-targeted taxi drivers at airport and lack of Uber/Bolt",
+          "alternative": "Use Speed Taxi App, UPs Taxi App, or pre-booked hotel transfers - Uber and Bolt don't operate in Albania"
+        },
+        {
+          "trap": "Beach club fees in Saranda/Durrës and private beaches",
+          "alternative": "Many free public sections available on most beaches, or budget around €5-20 for sunbed rentals"
+        }
+      ],
+      "localSecrets": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "restaurant" },
+          "secret": "Best burek spots in Tirana",
+          "location": "Byrek Special 'Luani' near InterContinental or Byrek te Çastit - locals queue here daily for fresh traditional pastries"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-cafe" },
+          "secret": "Historic coffee culture",
+          "location": "Kafe Flora - one of Albania's oldest coffee shops from 1972, immortalized in song, authentic atmosphere"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "beach-access" },
+          "secret": "Hidden beach access in Himara",
+          "location": "Livadhi Beach - 45-minute scenic hike from Himara village or drive down dirt road from SH8 highway"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "museum" },
+          "secret": "Free museum days",
+          "location": "National museums have specific free weekdays - ask at reception for current schedule"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "event" },
+          "secret": "Local cultural events",
+          "location": "Check Oda Theater & Tirana Art Gallery for free cultural events and performances"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "wb-sunny" },
+          "secret": "Best sunset viewpoint",
+          "location": "Dajti Express cable car - go 1 hour before sunset for stunning views with fewer crowds"
+        }
+      ],
+      "priceSecrets": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "restaurant-menu" },
+          "tip": "Daily menu specials",
+          "detail": "Many restaurants offer 'menu dite' (daily menu) for 500-800 ALL (€4-7) - great value for full meals"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-bar" },
+          "tip": "Happy hour culture",
+          "detail": "Bars offer 2-for-1 drinks typically 17:00-19:00, especially in Blloku district"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "shopping-cart" },
+          "tip": "Smart grocery shopping",
+          "detail": "Conad and Carrefour offer better prices than small shops, open until 22:00"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "directions-bus" },
+          "tip": "Local transport savings",
+          "detail": "City buses cost 40 ALL (€0.35), much cheaper than taxis. Use Speed Taxi App for fair taxi pricing when needed"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "account-balance-wallet" },
+          "tip": "ATM fees warning",
+          "detail": "All Albanian banks charge foreign card fees - ABI Bank has lowest at 500 LEK (€5), others charge 650-1190 LEK"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "euro" },
+          "tip": "Cash is essential",
+          "detail": "Bring cash for accommodation, markets, and buses. Many places don't accept cards, especially outside Tirana"
+        }
+      ]
+    },
+    "safety": {
+      "emergencyContacts": [
+        { "service": "General Emergency", "number": "112" },
+        { "service": "Police", "number": "129" },
+        { "service": "Fire", "number": "128" },
+        { "service": "Medical Emergency", "number": "127" }
+      ],
+      "safetyStatistics": {
+        "usDeptRating": "Level 2 - Exercise Increased Caution",
+        "globalPeaceIndex": "41st worldwide",
+        "gallupSafetyScore": "80/100",
+        "homicideRate": "1.2 per 100,000 people (2023)",
+        "totalCrimes2023": 33845,
+        "roadDeaths2022": "59 per million"
+      },
+      "safetyTips": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "nights-stay" },
+          "title": "Night Safety",
+          "detail": "Tirana city center safe at night, but avoid poorly lit areas"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "shopping-bag" },
+          "title": "Pickpockets",
+          "detail": "Rare but watch belongings in crowded areas like markets"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "directions-car" },
+          "title": "Road Safety",
+          "detail": "Driving is hazardous and often aggressive. Avoid night driving in rural areas"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-taxi" },
+          "title": "Transportation",
+          "detail": "Use marked taxis and exercise caution with road quality variations"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "water-drop" },
+          "title": "Water Safety",
+          "detail": "Drink bottled water to avoid potential health issues"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "security" },
+          "title": "Valuables",
+          "detail": "Secure valuables against pickpocketing, especially in crowded areas"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "terrain" },
+          "title": "Mountain Hiking",
+          "detail": "Always inform someone of your route, weather changes quickly"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "pool" },
+          "title": "Beach Safety",
+          "detail": "Some beaches lack lifeguards - swim with caution"
+        }
+      ],
+      "healthInfo": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-hospital" },
+          "title": "Major Hospitals",
+          "detail": "Mother Teresa Hospital (+355 4 2362778), American Hospital (+355 4 2747500)"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-pharmacy" },
+          "title": "Pharmacies",
+          "detail": "Many open 24/7 in city centers, look for \"Farmaci\" signs"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "health-and-safety" },
+          "title": "Health Insurance",
+          "detail": "EU health cards accepted, travel insurance with medical evacuation recommended"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "medication" },
+          "title": "Medications",
+          "detail": "Carry prescription medications. Limited medical facilities outside Tirana"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "vaccines" },
+          "title": "Vaccinations",
+          "detail": "No mandatory special vaccinations required for Albania"
+        }
+      ],
+      "naturalHazards": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "earthquake" },
+          "title": "Earthquakes",
+          "detail": "Occasional earthquakes occur. Follow local safety protocols"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "flood" },
+          "title": "Flooding",
+          "detail": "Winter flooding possible in some areas"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "local-fire-department" },
+          "title": "Wildfires",
+          "detail": "Summer wildfire potential in forested areas"
+        }
+      ]
+    },
+    "ferry": {
+      "ferryRoutes": [
+        {
+          "route": "Ancona - Durrës",
+          "origin": "Ancona, Italy",
+          "destination": "Durrës, Albania",
+          "duration": "16-20 hours",
+          "operators": ["Adria Ferries"],
+          "frequency": "2-3 times per week",
+          "season": "Year-round"
+        },
+        {
+          "route": "Bari - Durrës",
+          "origin": "Bari, Italy",
+          "destination": "Durrës, Albania",
+          "duration": "9 hours",
+          "operators": ["GNV", "Ventouris Ferries", "Agemar"],
+          "frequency": "Daily",
+          "season": "Year-round",
+          "prices": {
+            "passenger": "€60",
+            "car": "€90-€110"
+          }
+        },
+        {
+          "route": "Brindisi - Vlora",
+          "origin": "Brindisi, Italy",
+          "destination": "Vlora, Albania",
+          "duration": "4.5-7 hours",
+          "operators": ["Agoudimos Line"],
+          "frequency": "3-4 times per week",
+          "season": "Seasonal (April-October)",
+          "prices": {
+            "passenger": "€40"
+          }
+        },
+        {
+          "route": "Trieste - Durrës",
+          "origin": "Trieste, Italy",
+          "destination": "Durrës, Albania",
+          "duration": "22-24 hours",
+          "operators": ["GNV"],
+          "frequency": "2-3 times per week",
+          "season": "Year-round"
+        },
+        {
+          "route": "Corfu - Sarandë",
+          "origin": "Corfu, Greece",
+          "destination": "Sarandë, Albania",
+          "duration": "30 minutes",
+          "operators": ["Finikas Lines", "Petrakis Lines"],
+          "frequency": "Multiple daily",
+          "season": "Year-round",
+          "prices": {
+            "passenger": "€15"
+          }
+        },
+        {
+          "route": "Corfu - Himarë",
+          "origin": "Corfu, Greece",
+          "destination": "Himarë, Albania",
+          "duration": "45 minutes",
+          "operators": ["Finikas Lines"],
+          "frequency": "Daily (summer)",
+          "season": "Seasonal (May-September)"
+        }
+      ],
+      "ports": [
+        {
+          "name": "Durrës",
+          "type": "Main port",
+          "facilities": "Car loading, passenger terminal, restaurants",
+          "location": "Central Albania coast"
+        },
+        {
+          "name": "Vlora",
+          "type": "Regional port",
+          "facilities": "Passenger terminal, limited parking",
+          "location": "Southwest Albania"
+        },
+        {
+          "name": "Sarandë",
+          "type": "Tourist port",
+          "facilities": "Small terminal, close to city center",
+          "location": "South Albania, near Greek border"
+        }
+      ],
+      "operators": [
+        {
+          "name": "Adria Ferries",
+          "routes": ["Ancona - Durrës"],
+          "type": "Italian operator",
+          "website": "https://adriaferries.com"
+        },
+        {
+          "name": "GNV (Grandi Navi Veloci)",
+          "routes": ["Bari - Durrës", "Trieste - Durrës"],
+          "type": "Italian operator",
+          "website": "https://gnv.it"
+        },
+        {
+          "name": "Ventouris Ferries",
+          "routes": ["Bari - Durrës"],
+          "type": "Greek operator",
+          "website": "https://ventouris.gr"
+        },
+        {
+          "name": "Agemar",
+          "routes": ["Bari - Durrës"],
+          "type": "Italian operator",
+          "website": "https://agemar.it"
+        },
+        {
+          "name": "Skenderbeg Lines",
+          "routes": ["Brindisi - Vlora"],
+          "type": "Albanian operator",
+          "website": "https://skenderbeglines.com"
+        },
+        {
+          "name": "Agoudimos Line",
+          "routes": ["Brindisi - Vlora"],
+          "type": "Greek operator",
+          "website": "https://agoudimos-lines.com"
+        },
+        {
+          "name": "Finikas Lines",
+          "routes": ["Corfu - Sarandë", "Corfu - Himarë"],
+          "type": "Greek operator",
+          "website": "https://finikaslines.com"
+        },
+        {
+          "name": "Petrakis Lines",
+          "routes": ["Corfu - Sarandë"],
+          "type": "Greek operator",
+          "website": "https://petrakislines.gr"
+        }
+      ],
+      "bookingTips": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "book-online" },
+          "title": "Book in Advance",
+          "tip": "Reserve tickets early, especially during peak tourist season (June-August)"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "schedule" },
+          "title": "Check Schedules",
+          "tip": "Ferry schedules change seasonally - always verify current timetables with operators"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "directions-car" },
+          "title": "Vehicle Transport",
+          "tip": "Car transportation costs €90-110 additional and requires advance booking"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "calendar-today" },
+          "title": "Seasonal Variations",
+          "tip": "More frequent crossings in summer, reduced schedules in off-peak seasons"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "payment" },
+          "title": "Pricing Factors",
+          "tip": "Prices vary by season, route, vehicle type, and cabin class selection"
+        }
+      ],
+      "generalInfo": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "access-time" },
+          "title": "Journey Times",
+          "tip": "Short routes: 30min-7hrs | Long routes: 9-24hrs depending on departure port"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "euro" },
+          "title": "Budget Planning",
+          "tip": "Budget €15-60 for passenger tickets, plus €90-110 for vehicle transport"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "info" },
+          "title": "Peak Season",
+          "tip": "Summer months have the most options but require advance booking"
+        }
+      ]
+    },
+    "esim": {
+      "providers": [
+        {
+          "name": "eSIM.sm",
+          "category": "Budget Choice",
+          "price": "$3.90 per GB",
+          "priceEuro": "€3.60 per GB",
+          "website": "https://esim.sm",
+          "features": [
+            "No speed throttling",
+            "Instant QR code activation",
+            "Full-speed data throughout usage"
+          ],
+          "plans": [
+            {
+              "data": "1GB",
+              "price": "$3.90",
+              "duration": "7 days"
+            },
+            {
+              "data": "5GB",
+              "price": "$19.50",
+              "duration": "30 days"
+            },
+            {
+              "data": "50GB",
+              "price": "$195.00",
+              "duration": "30 days"
+            }
+          ],
+          "pros": ["Best price point", "No speed reduction", "Instant activation"],
+          "cons": ["Data-only plan", "Limited customer support"],
+          "bestFor": "Budget-conscious travelers"
+        },
+        {
+          "name": "Voyafly",
+          "category": "Unlimited Data",
+          "price": "$21 unlimited",
+          "priceEuro": "€19.90 unlimited",
+          "website": "https://voyafly.com",
+          "features": [
+            "Unlimited 4G/5G data",
+            "Instant QR code activation",
+            "Strong nationwide coverage"
+          ],
+          "plans": [
+            {
+              "data": "Unlimited",
+              "price": "$21.00",
+              "duration": "7 days"
+            },
+            {
+              "data": "Unlimited",
+              "price": "$35.99",
+              "duration": "30 days"
+            }
+          ],
+          "pros": [
+            "Unlimited data allowance",
+            "Excellent nationwide coverage",
+            "Fast activation"
+          ],
+          "cons": [
+            "Speeds may slow after 2GB daily limit",
+            "Higher cost for light users"
+          ],
+          "bestFor": "Heavy data users and streamers"
+        },
+        {
+          "name": "ByteSIM",
+          "category": "Global Coverage",
+          "price": "$5.80 per plan",
+          "priceEuro": "€5.50 per plan",
+          "website": "https://bytesim.com",
+          "features": [
+            "200+ country coverage",
+            "24/7 WhatsApp support",
+            "Unlimited low-speed data after cap"
+          ],
+          "plans": [
+            {
+              "data": "300MB/day",
+              "price": "$5.80",
+              "duration": "7 days"
+            },
+            {
+              "data": "1GB/day",
+              "price": "$12.99",
+              "duration": "30 days"
+            },
+            {
+              "data": "Unlimited",
+              "price": "$29.99",
+              "duration": "30 days"
+            }
+          ],
+          "pros": ["Global coverage", "Continuous connectivity", "24/7 support"],
+          "cons": [
+            "Reduced speed after high-speed limit",
+            "Daily data caps on some plans"
+          ],
+          "bestFor": "Multi-country travelers"
+        },
+        {
+          "name": "Breeze",
+          "category": "Flexible Plans",
+          "price": "$4.75 per GB",
+          "priceEuro": "€4.50 per GB",
+          "website": "https://breezesim.com",
+          "features": [
+            "Flexible 1-30 day plans",
+            "4G/5G connectivity",
+            "Easy 3-step installation"
+          ],
+          "plans": [
+            {
+              "data": "1GB",
+              "price": "$4.75",
+              "duration": "7 days"
+            },
+            {
+              "data": "5GB",
+              "price": "$23.75",
+              "duration": "30 days"
+            }
+          ],
+          "pros": ["Flexible plan durations", "Fast activation", "Simple setup"],
+          "cons": ["Data-only plans", "Slightly higher costs"],
+          "bestFor": "Short-term visitors"
+        },
+        {
+          "name": "Saily",
+          "category": "Secure Connection",
+          "price": "$3.99 per GB",
+          "priceEuro": "€3.75 per GB",
+          "website": "https://saily.com",
+          "features": [
+            "Developed by NordVPN creators",
+            "4G/5G connection",
+            "Flexible data options"
+          ],
+          "plans": [
+            {
+              "data": "1GB",
+              "price": "$3.99",
+              "duration": "7 days"
+            },
+            {
+              "data": "5GB",
+              "price": "$19.95",
+              "duration": "30 days"
+            }
+          ],
+          "pros": ["Affordable pricing", "Secure browsing", "Trusted brand"],
+          "cons": ["Data-only plan", "Limited plan variety"],
+          "bestFor": "Privacy-conscious users"
+        },
+        {
+          "name": "Airalo",
+          "category": "Multi-Country",
+          "price": "$4.50 per GB",
+          "priceEuro": "€4.25 per GB",
+          "website": "https://airalo.com",
+          "features": [
+            "Multi-country coverage",
+            "Established provider",
+            "Wide device compatibility"
+          ],
+          "plans": [
+            {
+              "data": "1GB",
+              "price": "$4.50",
+              "duration": "7 days"
+            },
+            {
+              "data": "5GB",
+              "price": "$22.50",
+              "duration": "30 days"
+            }
+          ],
+          "pros": ["Multi-country plans", "Reliable service", "Wide compatibility"],
+          "cons": ["Higher pricing", "Limited Albania-specific features"],
+          "bestFor": "Multi-destination travelers"
+        }
+      ],
+      "setupInstructions": [
+        {
+          "step": 1,
+          "title": "Check Device Compatibility",
+          "description": "Ensure your device supports eSIM technology",
+          "details": "Check your phone specifications for eSIM support before purchasing"
+        },
+        {
+          "step": 2,
+          "title": "Choose Your Provider",
+          "description": "Select from recommended providers based on your needs",
+          "details": "Consider data requirements, budget, and trip duration"
+        },
+        {
+          "step": 3,
+          "title": "Purchase and Download",
+          "description": "Buy your plan and receive QR code or app download",
+          "details": "Complete purchase before traveling for instant activation"
+        },
+        {
+          "step": 4,
+          "title": "Install eSIM",
+          "description": "Scan QR code or use provider's app to install",
+          "details": "Follow provider-specific installation instructions"
+        },
+        {
+          "step": 5,
+          "title": "Activate Upon Arrival",
+          "description": "Enable your eSIM when you land in Albania",
+          "details": "Your eSIM will automatically connect to local networks"
+        }
+      ],
+      "coverage": {
+        "networks": ["Telekom Albania", "Vodafone Albania", "ALBtelecom"],
+        "technology": "4G/5G",
+        "regions": [
+          "Tirana",
+          "Durrës",
+          "Vlorë",
+          "Shkodër",
+          "Korçë",
+          "Fier",
+          "Elbasan"
+        ],
+        "ruralCoverage": "Good coverage in most areas, limited in remote mountainous regions"
+      },
+      "tips": [
+        {
+          "title": "Purchase Before Travel",
+          "description": "Buy your eSIM before departure to avoid connectivity issues upon arrival"
+        },
+        {
+          "title": "Check Data Needs",
+          "description": "Estimate your usage - browsing uses much less data than streaming"
+        },
+        {
+          "title": "Keep Physical SIM",
+          "description": "Maintain your home SIM for emergency calls and important communications"
+        },
+        {
+          "title": "Download Offline Maps",
+          "description": "Pre-download maps and translations to save data while exploring"
+        }
+      ],
+      "troubleshooting": [
+        {
+          "issue": "QR Code Won't Scan",
+          "solution": "Ensure code is clear and well-lit, try different angles"
+        },
+        {
+          "issue": "Activation Fails",
+          "solution": "Restart your device and try again, or contact provider support"
+        },
+        {
+          "issue": "No Network Connection",
+          "solution": "Check if eSIM is enabled in settings, verify network selection"
+        },
+        {
+          "issue": "Slow Speeds",
+          "solution": "Check if daily data limit reached, try different network if available"
+        }
+      ]
+    },
+    "economy": {
+      "countryOverview": {
+        "population": 2800000,
+        "area": 28748,
+        "capital": "Tirana",
+        "currency": "Albanian Lek (ALL)",
+        "gdpPerCapita": 6494,
+        "unescoSites": 4,
+        "coastlineLength": 476,
+        "highestPeak": "Korab (2764m)"
+      },
+      "tourismGrowth": {
+        "years": ["2018", "2019", "2020", "2021", "2022", "2023"],
+        "visitors": [5900000, 6400000, 2100000, 3200000, 5800000, 7100000],
+        "growth": [12.8, 8.5, -67.2, 52.4, 81.3, 22.4]
+      },
+      "economicData": {
+        "gdpGrowth": {
+          "years": ["2019", "2020", "2021", "2022", "2023"],
+          "percentage": [2.2, -3.3, 8.9, 4.8, 3.5]
+        },
+        "tourismRevenue": {
+          "years": ["2019", "2020", "2021", "2022", "2023"],
+          "billions": [2.4, 0.8, 1.2, 2.1, 2.8]
+        }
+      },
+      "industryGrowth": {
+        "restaurants": {
+          "2019": 12500,
+          "2020": 11200,
+          "2021": 13800,
+          "2022": 15600,
+          "2023": 17200
+        },
+        "cafes": {
+          "2019": 8900,
+          "2020": 8100,
+          "2021": 9500,
+          "2022": 11200,
+          "2023": 12800
+        },
+        "hotels": {
+          "2019": 1245,
+          "2020": 1180,
+          "2021": 1320,
+          "2022": 1580,
+          "2023": 1820
+        }
+      },
+      "geographyStats": {
+        "beaches": 385,
+        "nationalParks": 14,
+        "mountainPeaks": {
+          "above2000m": 45,
+          "above1000m": 278
+        },
+        "rivers": 152,
+        "lakes": 247
+      },
+      "priceComparison": {
+        "countries": ["Albania", "Greece", "Italy", "Croatia", "Montenegro"],
+        "averageMealPrice": [8, 15, 18, 12, 10],
+        "averageHotelNight": [45, 85, 95, 70, 55],
+        "averageCoffee": [1.2, 2.8, 3.2, 2.1, 1.8],
+        "dailyBudget": [35, 65, 75, 55, 45]
+      },
+      "culturalHeritage": {
+        "unescoSites": [
+          {
+            "name": "Butrint",
+            "type": "Archaeological site",
+            "year": 1992
+          },
+          {
+            "name": "Historic Centres of Berat and Gjirokastër",
+            "type": "Cultural landscape",
+            "year": 2005
+          },
+          {
+            "name": "Ancient and Primeval Beech Forests",
+            "type": "Natural heritage",
+            "year": 2017
+          },
+          {
+            "name": "Lake Ohrid",
+            "type": "Natural and Cultural heritage",
+            "year": 1979
+          }
+        ],
+        "museums": 42,
+        "castles": 68,
+        "churches": 350,
+        "mosques": 568
+      },
+      "funFacts": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "castle"},
+          "title": "Bunker Paradise",
+          "description": "Albania has over 700,000 concrete bunkers built during communist era - that's 1 bunker for every 4 people!"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "handshake"},
+          "title": "Sacred Hospitality",
+          "description": "Albanians follow 'Besa' - a code of honor that makes harming a guest the ultimate dishonor. Your safety is literally sacred."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "pets"},
+          "title": "Land of Eagles",
+          "description": "Albania means 'Land of Eagles' in Albanian. The double-headed eagle on their flag represents the north and south of the country."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "public"},
+          "title": "Religious Harmony",
+          "description": "Albania is the only European country with a Muslim majority, yet it's one of the most religiously tolerant nations in the world."
+        }
+      ]
+    },
+    "history": [
+      {
+        "year": "4th century BC",
+        "title": "Illyrian Kingdoms",
+        "description": "The Illyrians, ancestors of modern Albanians, establish powerful kingdoms across the western Balkans. These ancient tribes are known for their warrior culture and strategic coastal settlements.",
+        "icon": "gavel",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Illyrians"
+      },
+      {
+        "year": "167 BC",
+        "title": "Roman Conquest",
+        "description": "Romans conquer Illyrian territories after defeating Queen Teuta and King Gentius. The region becomes part of the Roman Empire, bringing Latin influence and infrastructure development.",
+        "icon": "account-balance",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_conquest_of_the_Illyrians"
+      },
+      {
+        "year": "395 AD",
+        "title": "Byzantine Period",
+        "description": "Albania becomes part of the Byzantine Empire after the division of Rome. Orthodox Christianity spreads, and the region experiences significant cultural and architectural development.",
+        "icon": "church",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Byzantine_Albania"
+      },
+      {
+        "year": "1190",
+        "title": "Principality of Arbër",
+        "description": "The first Albanian state is established by Progon in Krujë. This marks the beginning of Albanian medieval kingdoms and the development of distinct Albanian identity.",
+        "icon": "star",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Principality_of_Arb%C3%ABr"
+      },
+      {
+        "year": "1443-1479",
+        "title": "Skanderbeg's Resistance",
+        "description": "Gjergj Kastrioti (Skanderbeg) leads a 25-year resistance against Ottoman expansion, becoming Albania's national hero. His victories at Krujë inspire European resistance against Ottoman rule.",
+        "icon": "shield",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Skanderbeg"
+      },
+      {
+        "year": "1479-1912",
+        "title": "Ottoman Rule",
+        "description": "Albania becomes part of the Ottoman Empire for over 400 years. Many Albanians convert to Islam, and the period sees significant cultural and architectural influence from Ottoman civilization.",
+        "icon": "mosque",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Ottoman_Albania"
+      },
+      {
+        "year": "1878",
+        "title": "League of Prizren",
+        "description": "Albanian leaders form the League of Prizren to defend Albanian territories and promote autonomy. This marks the beginning of the Albanian National Awakening movement.",
+        "icon": "description",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/League_of_Prizren"
+      },
+      {
+        "year": "1912",
+        "title": "Independence Declaration",
+        "description": "Albania declares independence from the Ottoman Empire in Vlorë on November 28. Ismail Qemali raises the Albanian flag, establishing the first sovereign Albanian state in modern times.",
+        "icon": "flag",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Albanian_Declaration_of_Independence"
+      },
+      {
+        "year": "1939-1944",
+        "title": "World War II",
+        "description": "Albania endures Italian and German occupations during WWII. Albanian partisans, led by communists, conduct fierce resistance operations throughout the mountainous country.",
+        "icon": "flash-on",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Albania_during_World_War_II"
+      },
+      {
+        "year": "1944-1991",
+        "title": "Communist Era",
+        "description": "Enver Hoxha establishes a strict communist regime, isolating Albania from both East and West. The period features massive industrialization but severe political repression and economic isolation.",
+        "icon": "lock",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/People%27s_Socialist_Republic_of_Albania"
+      },
+      {
+        "year": "1991",
+        "title": "Democratic Transition",
+        "description": "Communist rule ends with student protests and democratic reforms. Albania begins its transition to democracy and market economy, opening to the world after decades of isolation.",
+        "icon": "how-to-vote",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Albanian_democratic_revolution"
+      },
+      {
+        "year": "2009",
+        "title": "NATO Membership",
+        "description": "Albania joins NATO, marking its full integration into Western security structures. This represents a major milestone in Albania's Euro-Atlantic integration process.",
+        "icon": "handshake",
+        "wikipediaUrl": "https://en.wikipedia.org/wiki/Albania_and_NATO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1426 @@
+{
+  "pageConfig": {
+    "title": "Experiences",
+    "subtitle": "Discover amazing activities, entertainment, and shopping",
+    "categories": [
+      {
+        "id": "entertainment",
+        "name": "Entertainment",
+        "icon": "",
+        "description": "Movies, pools, escape rooms, and unique experiences",
+        "dataSource": "entertainment",
+        "backgroundImageUrl": "https://images.unsplash.com/photo-1489599162163-c067394c35d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"],
+        "count": 0
+      },
+      {
+        "id": "activities",
+        "name": "Activities",
+        "icon": "",
+        "description": "Rock climbing, rafting, cycling, and outdoor experiences",
+        "dataSource": "experiences",
+        "backgroundImageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"],
+        "count": 0
+      },
+      {
+        "id": "shopping",
+        "name": "Shopping",
+        "icon": "",
+        "description": "Malls, markets, and unique shopping experiences",
+        "dataSource": "shopping",
+        "backgroundImageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"],
+        "count": 0
+      }
+    ],
+    "defaultMessage": {
+      "title": "Select a category to get started",
+      "description": "Choose from entertainment, activities, and shopping to discover amazing experiences in Albania"
+    }
+  },
+  "data": {
+    "entertainment": [
+      {
+        "id": "ent_1",
+        "name": "Cineplexx Albania",
+        "category": "Cinema",
+        "description": "The largest cinema complex in Albania with seven screening rooms",
+        "highlights": [
+          "Seven screening rooms",
+          "Latest blockbuster films",
+          "Modern facilities",
+          "Largest cinema in Albania"
+        ],
+        "location": "TEG Shopping Mall and QTU Mall",
+        "address": "TEG Shopping Mall, Autostrada Tiranë-Durrës",
+        "operatingHours": "Daily screenings from 10:00 to 23:00",
+        "pricing": "Tickets from 400-600 lek",
+        "shortDescription": "Albania's premier cinema chain with state-of-the-art facilities",
+        "detailedDescription": "Cineplexx is Austria-based cinema company that operates the largest cinema complex in Albania. With seven screening rooms, it shows mostly blockbuster films in their original languages with Albanian subtitles. Located in both TEG and QTU shopping malls, it offers modern cinema experience with comfortable seating and advanced sound systems.",
+        "keyFeatures": [
+          "Seven modern screening rooms",
+          "Original language films with Albanian subtitles",
+          "Advanced sound and projection systems",
+          "Comfortable seating",
+          "Concession stand with snacks and drinks"
+        ],
+        "ageRange": "All ages",
+        "groupSize": "Individual to large groups",
+        "bookingRequired": "Recommended for evening and weekend shows",
+        "additionalInfo": "Founded in 1993, offers the best sound and image quality in Albania"
+      },
+      {
+        "id": "ent_2",
+        "name": "Kinema Millennium",
+        "category": "Cinema",
+        "description": "Historic cinema near Skanderbeg Square offering affordable movie experience",
+        "highlights": [
+          "Central location",
+          "Affordable tickets",
+          "Air-conditioned comfort",
+          "Original language films"
+        ],
+        "location": "Near Skanderbeg Square",
+        "address": "Rruga Murat Toptani, Tirana",
+        "operatingHours": "Daily screenings, check schedule",
+        "pricing": "Around 700 lek per ticket",
+        "shortDescription": "Affordable cinema experience in the heart of Tirana",
+        "detailedDescription": "Kinema Millennium is located near Skanderbeg Square and offers a comfortable, affordable cinema experience. Known for showing recent American films in their original language with Albanian subtitles, it provides a cool, comfortable environment perfect for escaping the heat of Tirana.",
+        "keyFeatures": [
+          "Central location near main square",
+          "Affordable ticket prices",
+          "Air-conditioned theater",
+          "Original language films with subtitles",
+          "Comfortable seating"
+        ],
+        "ageRange": "All ages",
+        "groupSize": "Individual to medium groups",
+        "bookingRequired": "Advance booking recommended for popular films",
+        "additionalInfo": "Staff speaks English, making it convenient for international visitors"
+      },
+      {
+        "id": "ent_3",
+        "name": "Aquadrom Swimming Complex",
+        "category": "Swimming Pool",
+        "description": "Albania's largest aquatic center with Olympic-sized pool and multiple facilities",
+        "highlights": [
+          "Olympic-sized swimming pool",
+          "Multiple pool categories",
+          "Water slides",
+          "Bar-restaurant"
+        ],
+        "location": "Near Artificial Lake of Tirana",
+        "address": "Rruga Anton Ashta, Tirana",
+        "operatingHours": "9:00 - 18:00 (June-September)",
+        "pricing": "1,000 lek per person",
+        "shortDescription": "Largest aquatic center in Tirana with Olympic facilities",
+        "detailedDescription": "Aquadrom is the largest swimming complex in Albania's capital, strategically located near the Artificial Lake of Tirana. It features one of the country's few Olympic-sized pools (50m long, 8 lanes) and is divided into five categories: Olympic swimming pool, VIP swimming pool, family swimming pool, and trampoline swimming pool.",
+        "keyFeatures": [
+          "Olympic-sized pool (50m, 8 lanes)",
+          "VIP swimming area",
+          "Family-friendly pools",
+          "Trampoline swimming pool",
+          "Water slides (additional fee)",
+          "On-site bar-restaurant"
+        ],
+        "ageRange": "All ages, children's areas available",
+        "groupSize": "Individual to large groups",
+        "bookingRequired": "No reservation needed",
+        "additionalInfo": "Some facilities may be closed or require additional fees for access"
+      },
+      {
+        "id": "ent_4",
+        "name": "Select Hill Resort Pool",
+        "category": "Swimming Pool",
+        "description": "Modern resort with indoor and outdoor swimming pools offering mountain views",
+        "highlights": [
+          "Indoor heated pool",
+          "Outdoor pool with views",
+          "Glass-walled fitness center",
+          "Pool parties and events"
+        ],
+        "location": "Tirana-Dajt National Road",
+        "address": "Rruga Nacionale Tirane-Dajt km5, Dajt, Tirana",
+        "operatingHours": "Daily access for subscribers",
+        "pricing": "20 Euro/day, 200 Euro/month, 1000 Euro/year",
+        "shortDescription": "Premium resort pools with stunning mountain views",
+        "detailedDescription": "Select Hill Resort features both indoor heated and outdoor swimming pools with spectacular mountain views. The indoor pool maintains urban aesthetic with glass walls, while outdoor pool hosts weekend pool parties with Albanian singers and foam parties.",
+        "keyFeatures": [
+          "Heated indoor swimming pool",
+          "Large outdoor pool with mountain views",
+          "Weekend pool parties and events",
+          "Glass-walled fitness center",
+          "Various subscription options",
+          "Family-friendly environment"
+        ],
+        "ageRange": "All ages (children under 14 must be supervised)",
+        "groupSize": "Individual to groups",
+        "bookingRequired": "Subscription or day pass required",
+        "additionalInfo": "Weekend events feature famous Albanian singers and themed parties"
+      },
+      {
+        "id": "ent_5",
+        "name": "Tirana Escape Room",
+        "category": "Escape Room",
+        "description": "The first and only escape room experience in Tirana with multiple themed rooms",
+        "highlights": [
+          "Multiple themed rooms",
+          "60-minute challenges",
+          "Medium to hard difficulty",
+          "Team-building experience"
+        ],
+        "location": "Central Tirana",
+        "address": "Contact for specific location",
+        "operatingHours": "Daily, booking required",
+        "pricing": "Contact for current pricing",
+        "shortDescription": "Albania's premier escape room experience with challenging puzzles",
+        "detailedDescription": "Tirana Escape Room offers the only authentic escape room experience in Albania. With multiple themed rooms including spy missions and art gallery heists, players have 60 minutes to solve puzzles and escape. The facility features hand-made wooden puzzles and strong Albanian character themes.",
+        "keyFeatures": [
+          "Multiple themed escape rooms",
+          "60-minute game duration",
+          "Hand-made wooden puzzles",
+          "Team collaboration required",
+          "Albanian historical themes",
+          "Medium to hard difficulty levels"
+        ],
+        "ageRange": "Suitable for everyone, family-friendly",
+        "groupSize": "2-6 people per room",
+        "bookingRequired": "Yes, advance booking essential",
+        "additionalInfo": "No physical effort required, only wit and observation skills"
+      },
+      {
+        "id": "ent_6",
+        "name": "VR Games Lounge",
+        "category": "Virtual Reality Arcade",
+        "description": "Albania's first and only Virtual Reality gaming center with HTC Vive headsets",
+        "highlights": [
+          "HTC Vive headsets",
+          "Multiplayer options",
+          "Wide game library",
+          "Cafe on first floor"
+        ],
+        "location": "Central Tirana",
+        "address": "Rruga Adem Jashari 1, Tirana",
+        "operatingHours": "Daily, check for specific hours",
+        "pricing": "300-500 lek single player, 500-750 lek multiplayer",
+        "shortDescription": "First VR gaming center in Albania with comprehensive game library",
+        "detailedDescription": "VR Games Lounge is the first Virtual Reality gaming center in Albania, featuring dedicated VR rooms equipped with HTC Vive headsets. The facility offers a comprehensive game library suitable for all ages above 12, with options for both single-player and multiplayer experiences.",
+        "keyFeatures": [
+          "State-of-the-art HTC Vive headsets",
+          "Dedicated VR gaming rooms",
+          "Multiplayer gaming options",
+          "Wide variety of games (dancing to action)",
+          "Cafe area for relaxation",
+          "Experience games (3-4 minutes)"
+        ],
+        "ageRange": "12+ years",
+        "groupSize": "1-2 players per session",
+        "bookingRequired": "Recommended, especially for groups",
+        "additionalInfo": "First VR center opened in Tirana and Albania"
+      },
+      {
+        "id": "ent_7",
+        "name": "VR Labs Tirana",
+        "category": "Virtual Reality Arcade",
+        "description": "Albania's largest virtual reality venue with top VR headsets and multiplayer games",
+        "highlights": [
+          "Largest VR venue in Albania",
+          "Best VR headsets available",
+          "Top gaming titles",
+          "Multiplayer experiences"
+        ],
+        "location": "Tirana",
+        "address": "Contact for location details",
+        "operatingHours": "Daily operations",
+        "pricing": "Contact for pricing details",
+        "shortDescription": "Albania's largest VR gaming destination with premium equipment",
+        "detailedDescription": "VR Labs Tirana positions itself as Albania's largest virtual reality venue, featuring the very best VR headsets and all the top gaming titles. The facility specializes in multiplayer VR experiences and offers cutting-edge virtual reality technology.",
+        "keyFeatures": [
+          "Largest VR facility in Albania",
+          "Premium VR headset technology",
+          "Comprehensive gaming library",
+          "Multiplayer gaming focus",
+          "Top-tier gaming titles",
+          "Modern facility design"
+        ],
+        "ageRange": "Suitable for teens and adults",
+        "groupSize": "Individual to group experiences",
+        "bookingRequired": "Contact venue for booking",
+        "additionalInfo": "Focuses on providing the most advanced VR technology available"
+      },
+      {
+        "id": "ent_8",
+        "name": "Cooking Class Tirana",
+        "category": "Cooking Class",
+        "description": "Hands-on Albanian cooking experience led by founder Dervis",
+        "highlights": [
+          "Traditional Albanian dishes",
+          "Expert instruction by Dervis",
+          "Hands-on experience",
+          "Cultural immersion"
+        ],
+        "location": "Central Tirana",
+        "address": "Rruga Bardhok Biba, Tirana",
+        "operatingHours": "Mon-Fri 10:00-17:00, Sat 10:00-15:00",
+        "pricing": "Contact for current pricing",
+        "shortDescription": "Authentic Albanian cooking classes with traditional dishes",
+        "detailedDescription": "Founded by Dervis, Cooking Class Tirana offers hands-on cooking experiences focusing on traditional Albanian cuisine. Participants learn to make dishes like byrek and tavë kosi while gaining insights into Albanian culture and culinary traditions.",
+        "keyFeatures": [
+          "Traditional Albanian dish preparation",
+          "Expert guidance from founder Dervis",
+          "Cultural storytelling included",
+          "Hands-on cooking experience",
+          "Small class sizes for personal attention",
+          "Take home recipes and skills"
+        ],
+        "ageRange": "All ages welcome",
+        "groupSize": "Small groups preferred",
+        "bookingRequired": "Yes, advance booking required",
+        "additionalInfo": "Uses only the best local produce and traditional techniques"
+      },
+      {
+        "id": "ent_9",
+        "name": "Go As Local Cooking Class",
+        "category": "Cooking Class",
+        "description": "Traditional Albanian cooking experience with host Sindi featuring authentic dishes",
+        "highlights": [
+          "Three traditional dishes",
+          "Homemade wine tasting",
+          "Raki sampling",
+          "Cultural exchange"
+        ],
+        "location": "Tirana",
+        "address": "Contact for specific location",
+        "operatingHours": "By appointment",
+        "pricing": "Check current rates",
+        "shortDescription": "Immersive cooking class with traditional Albanian hospitality",
+        "detailedDescription": "Led by experienced host Sindi with nearly a decade of culinary expertise, this cooking class combines traditional Albanian cooking with cultural immersion. Participants learn to prepare Lakror, Tave Kosi, and traditional desserts while enjoying homemade wine and raki.",
+        "keyFeatures": [
+          "Learn three traditional Albanian dishes",
+          "Homemade wine and raki tasting",
+          "Cultural storytelling and traditions",
+          "Hands-on preparation from scratch",
+          "Traditional Albanian hospitality",
+          "Small group intimate setting"
+        ],
+        "ageRange": "Adults and supervised children",
+        "groupSize": "Small groups up to 8 people",
+        "bookingRequired": "Yes, advance booking essential",
+        "additionalInfo": "Host has nearly a decade of culinary experience and focuses on authentic techniques"
+      },
+      {
+        "id": "ent_10",
+        "name": "Rogner Hotel Pool",
+        "category": "Swimming Pool",
+        "description": "Luxury hotel pool in city center surrounded by palm trees",
+        "highlights": [
+          "Largest pool in city center",
+          "Heated for winter use",
+          "Palm tree surroundings",
+          "Luxury hotel amenities"
+        ],
+        "location": "Central Tirana",
+        "address": "Rogner Hotel Tirana, city center",
+        "operatingHours": "Hotel guest access, day passes available",
+        "pricing": "Hotel guests included, day pass rates vary",
+        "shortDescription": "Luxury hotel pool experience in the heart of Tirana",
+        "detailedDescription": "Located in the heart of Tirana's lush hotel gardens, the Rogner Hotel pool is the largest within the city center. Surrounded by palm trees, it offers a refreshing escape and is heated during colder months for year-round enjoyment.",
+        "keyFeatures": [
+          "Largest pool in Tirana city center",
+          "Beautiful palm tree garden setting",
+          "Heated pool for winter swimming",
+          "Luxury hotel amenities access",
+          "Professional pool maintenance",
+          "Poolside service available"
+        ],
+        "ageRange": "All ages",
+        "groupSize": "Individual to families",
+        "bookingRequired": "Day passes may require advance booking",
+        "additionalInfo": "Pool is heated during colder months making it usable year-round"
+      },
+      {
+        "id": "ent_11",
+        "name": "Workshop Experiences - Cooking Class Tirana",
+        "category": "Classes & Workshops",
+        "description": "Diverse workshop offerings including wine tasting, pottery, and creative arts",
+        "highlights": [
+          "Wine tasting events",
+          "Pottery sessions",
+          "Drawing workshops",
+          "Pizza making classes"
+        ],
+        "location": "Central Tirana",
+        "address": "Rruga Bardhok Biba, Tirana",
+        "operatingHours": "Scheduled workshops, check calendar",
+        "pricing": "Varies by workshop type",
+        "shortDescription": "Diverse creative and culinary workshops beyond traditional cooking",
+        "detailedDescription": "In addition to cooking classes, this venue offers a wide array of workshops designed to cater to various interests. From wine tasting events and pottery sessions to drawing workshops and pizza making, these experiences provide engaging and enriching activities in a welcoming environment.",
+        "keyFeatures": [
+          "Wine tasting with expert guidance",
+          "Hands-on pottery workshops",
+          "Creative drawing and art sessions",
+          "Pizza making from dough to toppings",
+          "Learn Your Spices workshops",
+          "Collaborative partner specialists"
+        ],
+        "ageRange": "Varies by workshop (adults for wine tasting)",
+        "groupSize": "Small to medium groups",
+        "bookingRequired": "Yes, advance booking required",
+        "additionalInfo": "Workshops conducted in collaboration with specialists in respective fields"
+      },
+      {
+        "id": "ent_12",
+        "name": "Ring Center Entertainment",
+        "category": "Entertainment Complex",
+        "description": "Shopping center with unique entertainment including skating rink and special cinemas",
+        "highlights": [
+          "Ice skating rink",
+          "5D and 7D cinemas",
+          "Gaming areas",
+          "Family entertainment"
+        ],
+        "location": "Central Tirana",
+        "address": "Near former Pyramid building, Tirana",
+        "operatingHours": "10:00 - 22:00 daily",
+        "pricing": "Varies by activity",
+        "shortDescription": "Multi-level entertainment complex with unique attractions",
+        "detailedDescription": "Ring Center offers more than shopping with its impressive entertainment options on upper floors. The complex features an ice skating rink, 5D and 7D cinema experiences, and various games that make it a hit with families and kids seeking unique entertainment experiences.",
+        "keyFeatures": [
+          "Ice skating rink facility",
+          "5D and 7D cinema experiences",
+          "Variety of gaming options",
+          "Family-friendly entertainment",
+          "Multiple entertainment levels",
+          "Restaurants with city views"
+        ],
+        "ageRange": "All ages, family-oriented",
+        "groupSize": "Individual to large groups",
+        "bookingRequired": "Not required for most activities",
+        "additionalInfo": "Entertainment options are located on upper floors of the shopping center"
+      },
+      {
+        "id": "ent_13",
+        "name": "Arka Rooftop Pool",
+        "category": "Swimming Pool",
+        "description": "Mosaic pool with panoramic city views in Residence Kodra e Diellit",
+        "highlights": [
+          "Best views in Tirana",
+          "Mosaic design with natural stone",
+          "Rooftop location",
+          "Animal and bird motifs"
+        ],
+        "location": "Residence Kodra e Diellit",
+        "address": "Residence Kodra e Diellit, Tirana",
+        "operatingHours": "Seasonal operation",
+        "pricing": "Contact for access details",
+        "shortDescription": "Rooftop pool with the best panoramic views of Tirana",
+        "detailedDescription": "Arka Rooftop Pool offers the best views in Tirana from the Residence Kodra e Diellit. The mosaic pool features natural stone with bird and animal motifs reminiscent of Noah's Ark, providing a unique and artistic swimming experience above the city.",
+        "keyFeatures": [
+          "Panoramic city views",
+          "Artistic mosaic design",
+          "Natural stone construction",
+          "Bird and animal motifs",
+          "Rooftop location",
+          "Unique architectural design"
+        ],
+        "ageRange": "All ages",
+        "groupSize": "Limited capacity",
+        "bookingRequired": "Contact residence for access",
+        "additionalInfo": "Pool design inspired by Noah's Ark with artistic animal motifs"
+      },
+      {
+        "id": "ent_14",
+        "name": "Tirana International Film Festival",
+        "category": "Cinema",
+        "description": "Annual international film festival qualifying for Academy Awards",
+        "highlights": [
+          "Academy Awards qualifying",
+          "European Film Awards qualifying",
+          "International competition",
+          "Independent cinema focus"
+        ],
+        "location": "Various venues in Tirana",
+        "address": "Multiple cinema venues throughout Tirana",
+        "operatingHours": "September annually",
+        "pricing": "Varies by screening and events",
+        "shortDescription": "Albania's premier international film festival with global recognition",
+        "detailedDescription": "The Tirana International Film Festival (TIFF), established in 2003, is Albania's first international film festival and now one of Europe's most important cinematic events. It's officially approved as Academy Awards and European Film Awards qualifying festival, focusing on worldwide alternative and independent cinema.",
+        "keyFeatures": [
+          "Academy Awards qualifying status",
+          "European Film Awards recognition",
+          "International film competition",
+          "Independent and alternative cinema",
+          "Multiple venue screenings",
+          "Cultural exchange platform"
+        ],
+        "ageRange": "Film enthusiasts of all ages",
+        "groupSize": "Individual to cinema capacity",
+        "bookingRequired": "Yes, for specific screenings",
+        "additionalInfo": "Created in 2003, aims to create cultural center for worldwide alternative cinema"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "act_1",
+        "name": "Rock Climbing in Albanian Alps",
+        "category": "Rock Climbing",
+        "description": "Multi-pitch climbing and sport climbing on limestone cliffs in the Accursed Mountains",
+        "highlights": [
+          "Limestone cliffs",
+          "Multi-pitch routes",
+          "Dramatic mountain scenery",
+          "Various difficulty levels"
+        ],
+        "location": "Albanian Alps (Theth, Valbona)",
+        "duration": "Half-day to multi-day",
+        "difficulty": "Beginner to Expert",
+        "bestSeason": "April to October",
+        "pricing": "Guided tours from €50-100 per day",
+        "shortDescription": "World-class climbing on pristine limestone in the Accursed Mountains",
+        "detailedDescription": "The Albanian Alps offer over 80 rock climbing routes across six sectors with vast potential for new adventures. The limestone cliffs provide smooth vertical walls demanding precision, while overhanging caves test strength and agility. Areas like Theth and Valbona Valley offer climbing opportunities catering to different skill levels, from beginners to experienced climbers seeking adrenaline-filled ascents.",
+        "keyFeatures": [
+          "Over 80 established climbing routes",
+          "Limestone and granite formations",
+          "Multi-pitch and sport climbing options",
+          "Spectacular mountain scenery",
+          "Professional guide services available",
+          "Equipment rental possible"
+        ],
+        "requirements": "Basic climbing experience recommended for advanced routes",
+        "includedServices": "Guide, safety equipment, route planning",
+        "bookingAdvance": "2-3 days recommended",
+        "groupSize": "2-6 climbers per guide",
+        "equipment": "Climbing gear provided, bring personal harness if preferred"
+      },
+      {
+        "id": "act_2",
+        "name": "Bovilla Reservoir Climbing",
+        "category": "Rock Climbing",
+        "description": "Sport climbing at Albania's largest crag with stunning lake views near Tirana",
+        "highlights": [
+          "25km from Tirana",
+          "Stunning reservoir views",
+          "Six different sectors",
+          "Routes for all levels"
+        ],
+        "location": "Bovilla Reservoir, 25km from Tirana",
+        "duration": "Half-day to full day",
+        "difficulty": "Beginner to Advanced (F5a to F8b+)",
+        "bestSeason": "Year-round, best April-June and September-October",
+        "pricing": "Day trips from €40-80",
+        "shortDescription": "Albania's largest climbing crag with lake views and diverse routes",
+        "detailedDescription": "Located just 25 kilometers from Tirana, Bovilla Reservoir is Albania's largest climbing destination. The limestone crag is split into six sectors scattered around the reservoir, allowing climbers to chase sun or shade all day. The climbing style offers something for everyone from delicate slabs to funky tufas, with grades ranging from F5a to F8b+.",
+        "keyFeatures": [
+          "Six distinct climbing sectors",
+          "Routes from beginner to expert level",
+          "Stunning mountain and lake views",
+          "Easy access from Tirana",
+          "All-day climbing possibilities",
+          "Well-bolted sport routes"
+        ],
+        "requirements": "No prior experience needed for beginner routes",
+        "includedServices": "Guide, safety equipment, route recommendations",
+        "bookingAdvance": "1-2 days",
+        "groupSize": "2-8 climbers",
+        "equipment": "Full climbing gear provided"
+      },
+      {
+        "id": "act_3",
+        "name": "Vjosa River Rafting",
+        "category": "River Rafting",
+        "description": "Class II-III rafting on Europe's last free-flowing river through pristine wilderness",
+        "highlights": [
+          "Last wild river in Europe",
+          "Class II-III rapids",
+          "270km untamed course",
+          "UNESCO Biosphere Reserve"
+        ],
+        "location": "Vjosa River, starting from Përmet",
+        "duration": "2.5-3 hours rafting + transfers",
+        "difficulty": "Beginner to Intermediate",
+        "bestSeason": "Year-round activity",
+        "pricing": "€35-55 per person",
+        "shortDescription": "Adventure rafting on Europe's last wild river with pristine nature",
+        "detailedDescription": "The Vjosa River, known as Europe's last free-flowing river, offers class II rafting with some class III rapids. Prepare for waves up to four feet and narrow passages. The entire 270km course is wild and untamed, adorned with beautiful canyons, braided river sections, islands and oxbows. The experience includes exploration of nature and opportunities to jump from cliffs and swim in crystal-clear waters.",
+        "keyFeatures": [
+          "Europe's last wild river experience",
+          "Class II-III rapids suitable for beginners",
+          "Cliff jumping opportunities",
+          "Swimming in pristine waters",
+          "Professional guide expertise",
+          "Transport from base included"
+        ],
+        "requirements": "Basic swimming ability, minimum age 8",
+        "includedServices": "Professional guide, safety equipment, wetsuit, transfers",
+        "bookingAdvance": "24 hours, same-day possible",
+        "groupSize": "6-8 people per raft",
+        "equipment": "All rafting equipment, life jackets, helmets provided"
+      },
+      {
+        "id": "act_4",
+        "name": "Osumi Canyon Rafting",
+        "category": "River Rafting",
+        "description": "Spectacular rafting through Albania's largest canyon with waterfalls and unique geology",
+        "highlights": [
+          "Albania's largest canyon",
+          "13km long gorge",
+          "Multiple waterfalls",
+          "Unique rock formations"
+        ],
+        "location": "Osumi Canyon, Corovoda-Hambull section",
+        "duration": "3-5 hours including canyon exploration",
+        "difficulty": "Beginner to Intermediate",
+        "bestSeason": "March to September",
+        "pricing": "€50-70 per person",
+        "shortDescription": "Navigate Albania's spectacular canyon with towering walls and waterfalls",
+        "detailedDescription": "Osumi Canyon is Albania's largest canyon, 13km long with width varying from 4-35 meters and over 80 meters high. The rafting tour provides opportunities to see more than 4 waterfalls and interesting rock formations. From April to mid-June, the canyon welcomes rafting enthusiasts from across Europe. The experience combines adventure with natural beauty in this unique geological formation.",
+        "keyFeatures": [
+          "Albania's largest and most spectacular canyon",
+          "Multiple waterfall sightings",
+          "Unique geological formations",
+          "Expert guide commentary",
+          "Photography opportunities",
+          "Transport from Berat included"
+        ],
+        "requirements": "Basic swimming ability, suitable for families",
+        "includedServices": "Guide, rafting equipment, transport, lunch option",
+        "bookingAdvance": "1-2 days recommended",
+        "groupSize": "4-8 people per raft",
+        "equipment": "Complete rafting gear, safety equipment provided"
+      },
+      {
+        "id": "act_5",
+        "name": "Cycling Tour of Albania",
+        "category": "Cycling",
+        "description": "Multi-day cycling adventure from Lake Ohrid to the Mediterranean coast",
+        "highlights": [
+          "Lake Ohrid to Mediterranean",
+          "Llogara Pass climb",
+          "Three UNESCO sites",
+          "E-bike support available"
+        ],
+        "location": "Lake Ohrid to Albanian Riviera",
+        "duration": "7-10 days",
+        "difficulty": "Moderate to Challenging",
+        "bestSeason": "April-May and September-October",
+        "pricing": "€1,550-1,595 for 9-day tour",
+        "shortDescription": "Epic cycling journey across Albania's diverse landscapes and UNESCO sites",
+        "detailedDescription": "This cycling tour stretches from Lake Ohrid's shoreline to the Mediterranean coast, with E-bike support throughout Albania's diverse terrain. Cyclists climb the majestic Llogara Pass, wind through Vjosa River valleys, and glide through Përmet's mountain scenery. The journey includes three UNESCO sites: Butrint's ancient ruins, Gjirokastra's Ottoman buildings, and Berat's historic district.",
+        "keyFeatures": [
+          "Daily distances 35-72km with varied terrain",
+          "Elevation changes from 200m to 1600m climbs",
+          "E-bike options with Giant Explore E+1 GTS",
+          "UNESCO World Heritage site visits",
+          "3-4 star hotels and guesthouses",
+          "Support vehicle with backup batteries"
+        ],
+        "requirements": "Moderate fitness level, cycling experience helpful",
+        "includedServices": "Guide, bike rental, accommodation, meals, support vehicle",
+        "bookingAdvance": "2-4 weeks recommended",
+        "groupSize": "8-16 cyclists",
+        "equipment": "Quality bikes provided, bring personal gear"
+      },
+      {
+        "id": "act_6",
+        "name": "Dajti Mountain Cycling",
+        "category": "Cycling",
+        "description": "Mountain biking adventure on Tirana's backyard mountain with cable car access",
+        "highlights": [
+          "Mountain bike trails",
+          "Cable car access",
+          "Panoramic city views",
+          "Varied difficulty levels"
+        ],
+        "location": "Dajti Mountain National Park, 26km from Tirana",
+        "duration": "Half-day to full day",
+        "difficulty": "Beginner to Advanced",
+        "bestSeason": "April to November",
+        "pricing": "€25-45 per person including bike",
+        "shortDescription": "Mountain biking on Tirana's natural balcony with spectacular views",
+        "detailedDescription": "Dajti Mountain offers excellent mountain biking opportunities in Albania's first national park. Access via the famous Dajti Ekspres cable car or drive up for various trail options. The mountain provides trails for all skill levels with panoramic views of Tirana and the Adriatic Sea from the 'Natural Balcony of Tirana.'",
+        "keyFeatures": [
+          "Cable car access option",
+          "Trails for all skill levels",
+          "Panoramic views of Tirana",
+          "National park setting",
+          "Adventure park nearby",
+          "Traditional restaurant options"
+        ],
+        "requirements": "Basic cycling ability, helmet mandatory",
+        "includedServices": "Mountain bike rental, basic maintenance, trail maps",
+        "bookingAdvance": "1 day",
+        "groupSize": "2-10 cyclists",
+        "equipment": "Mountain bikes, helmets, protective gear provided"
+      },
+      {
+        "id": "act_7",
+        "name": "Albanian Wine Tasting Tours",
+        "category": "Wine Tasting",
+        "description": "Explore Albania's emerging wine regions with tastings at family vineyards",
+        "highlights": [
+          "Native grape varieties",
+          "Family-run wineries",
+          "Traditional food pairings",
+          "Vineyard tours"
+        ],
+        "location": "Berat region and Central Albania",
+        "duration": "Half-day to full day",
+        "difficulty": "Easy",
+        "bestSeason": "Year-round, best April-October",
+        "pricing": "€35-65 per person including transport",
+        "shortDescription": "Discover Albanian wines with tastings at authentic family vineyards",
+        "detailedDescription": "Albania's wine industry blends ancient traditions with modern innovations. Tours take visitors to family vineyards in the Berat region where native grape varieties like Shesh i Bardhe and Kallmet are cultivated. Experience includes guided vineyard walks, cellar tours, wine tastings, and traditional Albanian food pairings.",
+        "keyFeatures": [
+          "Native Albanian grape varieties",
+          "Family vineyard experiences",
+          "Traditional food pairings",
+          "Cellar and vineyard tours",
+          "Meet local winemakers",
+          "Regional specialties tasting"
+        ],
+        "requirements": "18+ for alcohol consumption",
+        "includedServices": "Transport, wine tastings, food pairings, guide",
+        "bookingAdvance": "2 days required",
+        "groupSize": "4-12 people",
+        "equipment": "None required"
+      },
+      {
+        "id": "act_8",
+        "name": "DUKA Winery Experience",
+        "category": "Wine Tasting",
+        "description": "Premium winery experience with kayaking and lakeside dining",
+        "highlights": [
+          "6-hectare vineyard",
+          "Kayak adventures",
+          "Lakeside dining",
+          "Sustainable farming"
+        ],
+        "location": "DUKA Winery & Vineyard",
+        "duration": "4-6 hours",
+        "difficulty": "Easy",
+        "bestSeason": "April to October",
+        "pricing": "€40-80 per person",
+        "shortDescription": "Unique winery experience combining wine tasting with outdoor activities",
+        "detailedDescription": "DUKA Winery offers one of Albania's best wine tour experiences, featuring guided tours of 6-hectare vineyards where grapes are grown using environmentally friendly methods. The experience includes wine tastings of special blends like Rose Tempranilo and Reserva Superior, traditional Albanian raki, and unique activities like kayaking and lakeside dining.",
+        "keyFeatures": [
+          "Sustainable farming practices showcase",
+          "Premium wine collection tastings",
+          "Kayak adventures on lake",
+          "Fine dining restaurant",
+          "Beautiful natural setting",
+          "Expert sommelier guidance"
+        ],
+        "requirements": "None, suitable for all ages (non-alcoholic options available)",
+        "includedServices": "Vineyard tour, wine tasting, kayak rental, restaurant dining",
+        "bookingAdvance": "1-2 days",
+        "groupSize": "2-20 people",
+        "equipment": "All equipment provided"
+      },
+      {
+        "id": "act_9",
+        "name": "Theth to Valbona Hike",
+        "category": "Hiking & Trekking",
+        "description": "Epic day hike through Albanian Alps connecting two pristine mountain villages",
+        "highlights": [
+          "Valbona Pass at 1,795m",
+          "Accursed Mountains",
+          "Traditional guesthouses",
+          "Pristine wilderness"
+        ],
+        "location": "Theth to Valbona National Parks",
+        "duration": "7-10 hours hiking + 3-day trip",
+        "difficulty": "Moderate to Challenging",
+        "bestSeason": "June to October",
+        "pricing": "€150-200 for 3-day experience",
+        "shortDescription": "Albania's most famous trek through the heart of the Accursed Mountains",
+        "detailedDescription": "This legendary 17km trek connects Theth and Valbona villages through the heart of the Albanian Alps. The route crosses Valbona Pass at 1,795m elevation, offering spectacular views of the Accursed Mountains. Since there's no road connecting the two villages, hiking is the only way to travel between them, making this a unique wilderness experience.",
+        "keyFeatures": [
+          "17km mountain trail",
+          "Valbona Pass crossing at 1,795m",
+          "Two national parks experience",
+          "Traditional mountain guesthouses",
+          "Authentic Albanian hospitality",
+          "Mountain cafe stops available"
+        ],
+        "requirements": "Good fitness level, mountain hiking experience helpful",
+        "includedServices": "Guesthouse accommodation, meals, local transport arrangements",
+        "bookingAdvance": "1-2 weeks in summer",
+        "groupSize": "Individual to small groups",
+        "equipment": "Proper hiking boots, layers, rain gear essential"
+      },
+      {
+        "id": "act_10",
+        "name": "Albanian Alps Multi-Day Trekking",
+        "category": "Hiking & Trekking",
+        "description": "Extended trekking adventure exploring multiple peaks and valleys in the Accursed Mountains",
+        "highlights": [
+          "Multiple peak ascents",
+          "Remote valleys exploration",
+          "Traditional villages",
+          "Peaks of the Balkans trail"
+        ],
+        "location": "Albanian Alps (Theth, Valbona, Kelmend)",
+        "duration": "5-10 days",
+        "difficulty": "Challenging",
+        "bestSeason": "June to September",
+        "pricing": "€300-600 for 5-7 day trek",
+        "shortDescription": "Extended wilderness trekking through Albania's most remote mountains",
+        "detailedDescription": "Multi-day trekking adventures in the Albanian Alps offer access to remote valleys and challenging peaks. Routes include the Peaks of the Balkans trail section, ascents of peaks like Jezerca (2,694m), and exploration of pristine valleys. Experience includes camping or mountain hut accommodation and traditional mountain culture.",
+        "keyFeatures": [
+          "Multiple peak ascent options",
+          "Remote wilderness camping",
+          "Traditional shepherd encounters",
+          "Challenging mountain terrain",
+          "Professional mountain guides",
+          "All camping equipment provided"
+        ],
+        "requirements": "Excellent fitness, previous trekking experience essential",
+        "includedServices": "Professional guide, camping equipment, meals, permits",
+        "bookingAdvance": "3-4 weeks",
+        "groupSize": "4-8 trekkers",
+        "equipment": "Personal hiking gear, camping equipment provided"
+      },
+      {
+        "id": "act_11",
+        "name": "Blue Eye and Waterfalls Hiking",
+        "category": "Hiking & Trekking",
+        "description": "Day hikes to Albania's most spectacular natural springs and waterfalls",
+        "highlights": [
+          "Crystal-clear blue springs",
+          "Grunas Waterfall",
+          "Emerald pools",
+          "Easy family-friendly trails"
+        ],
+        "location": "Theth and Syri i Kalter (Blue Eye)",
+        "duration": "2-5 hours per hike",
+        "difficulty": "Easy to Moderate",
+        "bestSeason": "April to October",
+        "pricing": "€15-35 per person including transport",
+        "shortDescription": "Discover Albania's most beautiful natural springs and waterfalls",
+        "detailedDescription": "Albania features numerous spectacular natural springs and waterfalls perfect for day hiking. The famous Blue Eye (Syri i Kalter) near Sarandë offers crystal-clear spring waters, while Theth's Blue Eye and Grunas Waterfall provide mountain spring experiences. These hikes are perfect for families and nature photographers.",
+        "keyFeatures": [
+          "Multiple blue spring locations",
+          "Waterfall photography opportunities",
+          "Swimming in natural pools",
+          "Easy access trails",
+          "Family-friendly options",
+          "Scenic mountain settings"
+        ],
+        "requirements": "Basic walking ability, swimming optional",
+        "includedServices": "Transport, guide, trail maps",
+        "bookingAdvance": "Same day possible",
+        "groupSize": "2-15 people",
+        "equipment": "Comfortable walking shoes, swimwear optional"
+      },
+      {
+        "id": "act_12",
+        "name": "Komani Lake Ferry and Hiking",
+        "category": "Hiking & Trekking",
+        "description": "Scenic ferry journey through Albanian fjords combined with hiking opportunities",
+        "highlights": [
+          "Albanian fjords scenery",
+          "Scenic ferry journey",
+          "Remote hiking access",
+          "Pristine wilderness"
+        ],
+        "location": "Komani Lake, Northern Albania",
+        "duration": "Full day with ferry and hiking",
+        "difficulty": "Easy to Moderate",
+        "bestSeason": "May to October",
+        "pricing": "€25-45 including ferry and transfers",
+        "shortDescription": "Experience Albania's most scenic ferry ride through mountain fjords",
+        "detailedDescription": "The Komani Lake ferry journey is often called the highlight of visiting Northern Albania. The 2-3 hour ferry ride through narrow gorges and turquoise waters provides access to remote hiking areas and connects to the Albanian Alps. Combined with short hikes, it offers spectacular mountain and lake scenery.",
+        "keyFeatures": [
+          "3-hour scenic ferry journey",
+          "Fjord-like mountain scenery",
+          "Access to remote hiking areas",
+          "Photography opportunities",
+          "Connection to Albanian Alps",
+          "Traditional boat experience"
+        ],
+        "requirements": "No special requirements, suitable for all ages",
+        "includedServices": "Ferry ticket, transfers to/from Shkodër, basic guide",
+        "bookingAdvance": "1-2 days recommended",
+        "groupSize": "Individual to large groups",
+        "equipment": "Camera, comfortable clothing, light hiking shoes"
+      },
+      {
+        "id": "act_13",
+        "name": "Via Ferrata Adventures",
+        "category": "Rock Climbing",
+        "description": "Iron road climbing experiences suitable for beginners with professional guidance",
+        "highlights": [
+          "Steel cable assistance",
+          "Suitable for beginners",
+          "Spectacular views",
+          "Professional safety equipment"
+        ],
+        "location": "Various locations in Albanian Alps",
+        "duration": "2-4 hours per route",
+        "difficulty": "Beginner to Intermediate",
+        "bestSeason": "May to October",
+        "pricing": "€55-85 per person",
+        "shortDescription": "Accessible mountain climbing with steel cable assistance and safety gear",
+        "detailedDescription": "Via Ferrata (Italian for 'iron road') allows people without climbing experience to safely navigate mountain routes using steel cables and ladders. Professional guides provide safety equipment and instruction, making this accessible to beginners while still offering thrilling mountain exposure and spectacular views.",
+        "keyFeatures": [
+          "Steel cable and ladder assistance",
+          "No prior climbing experience needed",
+          "Professional safety equipment",
+          "Certified guide instruction",
+          "Spectacular mountain views",
+          "Safe introduction to mountain climbing"
+        ],
+        "requirements": "Basic physical fitness, no climbing experience needed",
+        "includedServices": "Guide, all safety equipment, instruction, helmet",
+        "bookingAdvance": "2-3 days",
+        "groupSize": "4-8 participants",
+        "equipment": "All specialized equipment provided"
+      }
+    ],
+    "shopping": [
+      {
+        "id": "shop_1",
+        "name": "Tirana East Gate (TEG)",
+        "category": "Shopping Mall",
+        "description": "Albania's largest shopping mall with over 150 stores, entertainment, and dining",
+        "highlights": [
+          "Over 150 stores",
+          "Multiplex cinema",
+          "Large food court",
+          "Children's play area"
+        ],
+        "location": "Outside city center, towards airport",
+        "address": "Autostrada Tiranë-Durrës",
+        "operatingHours": "10:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Bus connections available",
+        "shortDescription": "Largest shopping destination in Albania with international brands",
+        "detailedDescription": "Tirana East Gate (TEG) is Albania's largest shopping mall, offering a vast array of shops, entertainment options, and dining experiences. Located just a short drive from the city center, TEG boasts over 150 stores, including renowned international brands and local boutiques. The mall also features a multiplex cinema, a large food court, and a children's play area, ensuring entertainment for visitors of all ages.",
+        "keyFeatures": [
+          "International and local brands",
+          "Multiplex cinema with latest movies",
+          "Extensive food court with various cuisines",
+          "Large free parking area",
+          "Children's entertainment zone"
+        ],
+        "popularStores": [
+          "Zara",
+          "Bershka",
+          "LC Waikiki",
+          "Office",
+          "Various local boutiques"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium to High",
+        "bestForShopping": ["Fashion", "Electronics", "Entertainment", "Dining"]
+      },
+      {
+        "id": "shop_2",
+        "name": "Toptani Shopping Center",
+        "category": "Shopping Mall",
+        "description": "Modern 7-floor shopping center in the heart of Tirana with stylish design",
+        "highlights": [
+          "7 floors of shopping",
+          "Central location",
+          "Underground parking",
+          "Large kids' play area"
+        ],
+        "location": "City center, near Skanderbeg Square",
+        "address": "Rruga Abdi Toptani, Tirana",
+        "operatingHours": "10:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Walking distance from city center",
+        "shortDescription": "Stylish shopping center in the heart of Tirana",
+        "detailedDescription": "Toptani Shopping Center is known for its stylish and contemporary design, hosting a variety of shops, including fashion, electronics, and lifestyle stores. Located near Tirana's center, it offers excellent accessibility and features underground parking. The mall also offers several dining options and one of the largest kids' play areas in the city.",
+        "keyFeatures": [
+          "Seven floors of diverse shopping",
+          "Underground parking facility",
+          "Food court with city views",
+          "Large children's play area",
+          "Gallery 70 art space"
+        ],
+        "popularStores": [
+          "Italian clothing brands",
+          "Electronics stores",
+          "Coffee shops",
+          "Supermarket"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium to High",
+        "bestForShopping": ["Fashion", "Electronics", "Lifestyle", "Art"]
+      },
+      {
+        "id": "shop_3",
+        "name": "QTU Shopping Center",
+        "category": "Shopping Mall",
+        "description": "One of Tirana's oldest and most established shopping destinations",
+        "highlights": [
+          "Long-established mall",
+          "Large supermarket",
+          "Wide range of stores",
+          "Multiple dining options"
+        ],
+        "location": "Central Tirana",
+        "address": "Central Tirana",
+        "operatingHours": "09:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Easily accessible by public transport",
+        "shortDescription": "Established shopping destination with comprehensive amenities",
+        "detailedDescription": "QTU is one of the oldest and most well-known shopping malls in Tirana. It has been a favorite shopping destination for years, offering everything from clothing and accessories to electronics and groceries. The mall features a large supermarket and several dining options, making it a one-stop destination for all shopping needs.",
+        "keyFeatures": [
+          "Comprehensive shopping options",
+          "Large integrated supermarket",
+          "Established reputation",
+          "Diverse dining options",
+          "Convenient location"
+        ],
+        "popularStores": [
+          "Clothing stores",
+          "Electronics",
+          "Supermarket",
+          "Accessories"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium",
+        "bestForShopping": [
+          "Groceries",
+          "Fashion",
+          "Electronics",
+          "Daily needs"
+        ]
+      },
+      {
+        "id": "shop_4",
+        "name": "Ring Center",
+        "category": "Shopping Mall",
+        "description": "Modern shopping center with entertainment options including skating rink and cinemas",
+        "highlights": [
+          "Skating rink",
+          "5D and 7D cinemas",
+          "Large hypermarket",
+          "Entertainment area"
+        ],
+        "location": "Central Tirana",
+        "address": "Near former Pyramid building",
+        "operatingHours": "10:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Central location with good access",
+        "shortDescription": "Shopping and entertainment complex with unique attractions",
+        "detailedDescription": "Tirana Ring Center offers a great mix of shops, from international brands to local retailers. The center features a large hypermarket for everyday essentials and standout entertainment options including a skating rink, games, and 5D and 7D cinemas. The top-floor restaurants and cafes provide stunning views of the city.",
+        "keyFeatures": [
+          "Large hypermarket for groceries",
+          "Skating rink facility",
+          "5D and 7D cinema experience",
+          "Games and entertainment area",
+          "Restaurants with city views"
+        ],
+        "popularStores": [
+          "International brands",
+          "Local retailers",
+          "Hypermarket",
+          "Entertainment venues"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium",
+        "bestForShopping": [
+          "Entertainment",
+          "Groceries",
+          "Fashion",
+          "Family activities"
+        ]
+      },
+      {
+        "id": "shop_5",
+        "name": "European Trade Center (ETC)",
+        "category": "Shopping Mall",
+        "description": "Modern shopping mall in central Tirana with international and local brands",
+        "highlights": [
+          "Central location",
+          "International brands",
+          "Cafes and restaurants",
+          "Modern facilities"
+        ],
+        "location": "Heart of Tirana",
+        "address": "Central Tirana",
+        "operatingHours": "10:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Easily accessible",
+        "shortDescription": "Modern shopping destination with diverse brand selection",
+        "detailedDescription": "The European Trade Center (ETC) is a modern shopping mall located in the heart of Tirana. It houses numerous international and local brands, providing a wide range of shopping options for visitors. ETC also features several cafes and restaurants, where shoppers can relax and enjoy a meal or coffee break.",
+        "keyFeatures": [
+          "Prime central location",
+          "Mix of international and local brands",
+          "Dining and cafe options",
+          "Modern shopping environment",
+          "Easy accessibility"
+        ],
+        "popularStores": [
+          "International brands",
+          "Local boutiques",
+          "Cafes",
+          "Restaurants"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium to High",
+        "bestForShopping": [
+          "Fashion",
+          "Accessories",
+          "Dining",
+          "International brands"
+        ]
+      },
+      {
+        "id": "shop_6",
+        "name": "Casa Italia",
+        "category": "Shopping Mall",
+        "description": "Shopping center combining retail with cultural and entertainment spaces",
+        "highlights": [
+          "Cultural spaces",
+          "Italian cuisine focus",
+          "Entertainment areas",
+          "Fashion and electronics"
+        ],
+        "location": "Tirana",
+        "address": "Tirana",
+        "operatingHours": "10:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Accessible by public transport",
+        "shortDescription": "Unique shopping center with cultural and entertainment focus",
+        "detailedDescription": "Casa Italia is a shopping center that combines retail stores with cultural and entertainment spaces. It features a variety of shops, including fashion, beauty, and electronics stores. Casa Italia is known for its excellent food court, offering a range of dining options from Italian cuisine to local Albanian dishes.",
+        "keyFeatures": [
+          "Cultural and entertainment spaces",
+          "Diverse retail options",
+          "Italian cuisine specialties",
+          "Fashion and beauty stores",
+          "Electronics section"
+        ],
+        "popularStores": [
+          "Fashion stores",
+          "Beauty shops",
+          "Electronics",
+          "Italian restaurants"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium",
+        "bestForShopping": [
+          "Fashion",
+          "Beauty",
+          "Electronics",
+          "Italian dining"
+        ]
+      },
+      {
+        "id": "shop_7",
+        "name": "Conad Supermarkets",
+        "category": "Supermarket Chain",
+        "description": "Italian supermarket chain with 22 locations in Tirana offering quality products",
+        "highlights": [
+          "Italian supermarket chain",
+          "22 locations in Tirana",
+          "Online shopping available",
+          "8,000 product SKUs"
+        ],
+        "location": "Multiple locations throughout Tirana",
+        "address": "Various locations - 22 stores in Tirana",
+        "operatingHours": "07:30 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Multiple locations accessible",
+        "shortDescription": "Premium Italian supermarket chain with extensive coverage",
+        "detailedDescription": "Italian supermarket chain Conad has a significant presence in Tirana with 22 supermarkets, plus additional outlets in other Albanian cities. They offer 8,000 SKUs including 2,000 private label products. Conad also provides online shopping with home delivery throughout Tirana, supporting multiple languages and currencies.",
+        "keyFeatures": [
+          "Extensive network of 22 stores in Tirana",
+          "Online shopping with home delivery",
+          "Quality Italian and international products",
+          "Private label product range",
+          "Multilingual online platform"
+        ],
+        "popularStores": [
+          "City Center locations",
+          "Residential area stores",
+          "Shopping mall outlets"
+        ],
+        "websiteUrl": "https://www.conadalbania.al/",
+        "averagePriceRange": "Medium to High",
+        "bestForShopping": [
+          "Groceries",
+          "Italian products",
+          "Fresh produce",
+          "Household items"
+        ]
+      },
+      {
+        "id": "shop_8",
+        "name": "SPAR Supermarkets",
+        "category": "Supermarket Chain",
+        "description": "International supermarket chain with around 90 locations across Albania",
+        "highlights": [
+          "90 supermarket locations",
+          "International brand",
+          "Wide product range",
+          "Rapid expansion"
+        ],
+        "location": "Multiple locations in Tirana and Albania",
+        "address": "Various locations throughout Tirana",
+        "operatingHours": "07:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Widely accessible locations",
+        "shortDescription": "International supermarket chain with extensive Albanian network",
+        "detailedDescription": "SPAR entered the Albanian market in October 2016 and has experienced rapid expansion. The chain currently operates around 90 supermarkets across Albania and achieved significant turnover growth. SPAR is owned by Balfin Group and offers a comprehensive range of products.",
+        "keyFeatures": [
+          "Extensive network of 90+ stores",
+          "International supermarket standards",
+          "Comprehensive product range",
+          "Modern store formats",
+          "Strategic locations"
+        ],
+        "popularStores": [
+          "City locations",
+          "Neighborhood stores",
+          "Large format stores"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium",
+        "bestForShopping": [
+          "Groceries",
+          "Fresh products",
+          "Household items",
+          "International brands"
+        ]
+      },
+      {
+        "id": "shop_9",
+        "name": "New Bazaar (Pazari i Ri)",
+        "category": "Traditional Market",
+        "description": "Historic renovated marketplace for fresh produce, meat, fish, and local products",
+        "highlights": [
+          "Fresh local produce",
+          "Historic significance",
+          "24-hour operation",
+          "Traditional Albanian products"
+        ],
+        "location": "Avni Rustemi Square, 8 minutes walk from city center",
+        "address": "Avni Rustemi Square, Tirana",
+        "operatingHours": "24 hours (peak morning hours)",
+        "parkingAvailable": false,
+        "publicTransport": "8-minute walk from Skanderbeg Square",
+        "shortDescription": "Historic market offering fresh local produce and traditional products",
+        "detailedDescription": "The New Bazaar was established in 1939 and renovated in 2017. Located in one of Tirana's oldest areas, it operates 24 hours with peak activity in morning hours. The market offers fresh fruits, vegetables, meat, fish, regional Albanian wine and raki. It features colorful buildings with Italian architectural style and Albanian motives.",
+        "keyFeatures": [
+          "24-hour operation schedule",
+          "Fresh local produce focus",
+          "Historical significance since 1939",
+          "Recently renovated facilities",
+          "Traditional Albanian products"
+        ],
+        "popularStores": [
+          "Fresh produce vendors",
+          "Meat and fish stalls",
+          "Wine and raki sellers",
+          "Local crafts"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Low to Medium",
+        "bestForShopping": [
+          "Fresh produce",
+          "Local products",
+          "Traditional foods",
+          "Authentic experience"
+        ]
+      },
+      {
+        "id": "shop_10",
+        "name": "Tregu i Çamëve (Çam Market)",
+        "category": "Flea Market",
+        "description": "Main clothing and miscellaneous items market in central Tirana",
+        "highlights": [
+          "Clothing market",
+          "Central location",
+          "Affordable prices",
+          "Daily operation"
+        ],
+        "location": "Central Tirana, near Post Office",
+        "address": "Shyqyri Bërxolli and Reshit Çollaku streets",
+        "operatingHours": "Morning until 13:00-15:00 daily. Sundays closed.",
+        "parkingAvailable": false,
+        "publicTransport": "Central location, easily accessible",
+        "shortDescription": "Central daily market for clothing and miscellaneous items",
+        "detailedDescription": "This long, semi-covered alley is the main clothing and miscellaneous items market in Tirana, filled with stalls selling clothes, underwear, bags, shoes, household items, and toys. The street is pedestrianized every morning for the market, with most stalls operating until approximately 1-2 pm, completely disappearing when the street opens to traffic at 3 pm.",
+        "keyFeatures": [
+          "Daily operation with morning focus",
+          "Wide variety of clothing items",
+          "Affordable pricing",
+          "Central pedestrianized location",
+          "Household items and toys"
+        ],
+        "popularStores": [
+          "Clothing stalls",
+          "Shoe vendors",
+          "Household items",
+          "Toy sellers"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Low",
+        "bestForShopping": [
+          "Affordable clothing",
+          "Household items",
+          "Shoes",
+          "Local market experience"
+        ]
+      },
+      {
+        "id": "shop_11",
+        "name": "Medrese Market",
+        "category": "Flea Market",
+        "description": "Large indoor clothing market with materials and household linens",
+        "highlights": [
+          "Indoor market",
+          "New clothes and materials",
+          "Household linens",
+          "Haggling friendly"
+        ],
+        "location": "Medrese area, Tirana",
+        "address": "Medrese, Tirana",
+        "operatingHours": "Morning until 13:00 daily",
+        "parkingAvailable": false,
+        "publicTransport": "Accessible by city transport",
+        "shortDescription": "Large indoor market for new clothes, materials, and household items",
+        "detailedDescription": "In Medrese you'll find a large indoor clothing market that closes around 1 pm. New clothes and shoes for men, women, and children are stocked in a maze of small stalls. Materials and household linens are also available. The area features numerous material stores on the main street near the market entrance.",
+        "keyFeatures": [
+          "Large indoor market space",
+          "New clothing for all ages",
+          "Materials and fabrics section",
+          "Household linens available",
+          "Haggling is common practice"
+        ],
+        "popularStores": [
+          "Clothing stalls",
+          "Material shops",
+          "Household linen vendors",
+          "Shoe stores"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Low to Medium",
+        "bestForShopping": [
+          "New clothes",
+          "Fabrics",
+          "Household linens",
+          "Affordable fashion"
+        ]
+      },
+      {
+        "id": "shop_12",
+        "name": "Medrese Second-Hand Market",
+        "category": "Flea Market",
+        "description": "Large second-hand clothing market behind the main indoor market",
+        "highlights": [
+          "Second-hand clothing",
+          "Very affordable prices",
+          "Large selection",
+          "Treasure hunting"
+        ],
+        "location": "Behind Medrese indoor market",
+        "address": "Behind main Medrese market, Tirana",
+        "operatingHours": "Morning hours, variable",
+        "parkingAvailable": false,
+        "publicTransport": "Same as main Medrese market",
+        "shortDescription": "Large second-hand market for vintage and used clothing",
+        "detailedDescription": "Behind the large indoor clothing market at Medrese, there's a very large and lively second-hand clothing market. You'll need time to browse through piles of clothing. Pricing is not listed, but you can find wonderful items with patience. Haggling is expected at this market.",
+        "keyFeatures": [
+          "Extensive second-hand selection",
+          "No fixed pricing system",
+          "Haggling is expected",
+          "Vintage and unique finds",
+          "Requires time to browse"
+        ],
+        "popularStores": [
+          "Second-hand clothing vendors",
+          "Vintage item sellers",
+          "Used shoe stalls"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Very Low to Low",
+        "bestForShopping": [
+          "Vintage clothing",
+          "Unique finds",
+          "Very affordable fashion",
+          "Authentic experience"
+        ]
+      },
+      {
+        "id": "shop_13",
+        "name": "Big Market",
+        "category": "Supermarket Chain",
+        "description": "Large supermarket chain with 180 stores across Albania",
+        "highlights": [
+          "180 stores nationwide",
+          "Largest supermarket chain",
+          "Cash and carry options",
+          "Wide product range"
+        ],
+        "location": "Multiple locations in Tirana",
+        "address": "Various locations throughout Tirana",
+        "operatingHours": "07:00 - 22:00 daily",
+        "parkingAvailable": true,
+        "publicTransport": "Multiple accessible locations",
+        "shortDescription": "Albania's largest supermarket chain with extensive coverage",
+        "detailedDescription": "Big Market is Albania's largest supermarket chain with 180 stores across the country. They operate under Big Market and Tirana Cash and Carry banners, offering a comprehensive range of products for both retail and wholesale customers.",
+        "keyFeatures": [
+          "Largest supermarket network in Albania",
+          "Both retail and cash & carry formats",
+          "Comprehensive product range",
+          "Strategic location coverage",
+          "Wholesale and retail options"
+        ],
+        "popularStores": [
+          "Retail supermarkets",
+          "Cash and carry stores",
+          "Neighborhood locations"
+        ],
+        "websiteUrl": null,
+        "averagePriceRange": "Medium",
+        "bestForShopping": [
+          "Bulk shopping",
+          "Groceries",
+          "Household items",
+          "Business supplies"
+        ]
+      },
+      {
+        "id": "shop_14",
+        "name": "Berlin Texx",
+        "category": "Department Store",
+        "description": "Second-hand store chain offering clothing, shoes, bedding, and household items",
+        "highlights": [
+          "Regular sales",
+          "Brand name items",
+          "Fixed pricing",
+          "Household items"
+        ],
+        "location": "Multiple locations in Tirana",
+        "address": "Various locations in Tirana",
+        "operatingHours": "09:00 - 20:00 daily",
+        "parkingAvailable": false,
+        "publicTransport": "Multiple accessible locations",
+        "shortDescription": "Second-hand department store with branded items and fixed prices",
+        "detailedDescription": "Berlin Texx is a second-hand store that regularly has sales and provides a huge range of clothing, shoes, bedding, and household linens. Similar to TKMaxx, Berlin Texx also offers products from recognizable brands that have been deemed defective, but with fixed pricing and no haggling required.",
+        "keyFeatures": [
+          "Fixed pricing system",
+          "Regular sales events",
+          "Branded item selection",
+          "No haggling required",
+          "Wide product variety"
+        ],
+        "popularStores": ["Main Tirana locations", "Neighborhood stores"],
+        "websiteUrl": null,
+        "averagePriceRange": "Low to Medium",
+        "bestForShopping": [
+          "Brand clothing",
+          "Household linens",
+          "Affordable fashion",
+          "Home goods"
+        ]
+      }
+    ]
+  }
+}
