@@ -52,6 +52,14 @@
         }
       },
       {
+        "id": "events",
+        "name": "Events",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "event"
+        }
+      },
+      {
         "id": "safety",
         "name": "Safety",
         "vectorIcon": {
@@ -216,32 +224,32 @@
     "driving": {
       "drivingTips": [
         {
-          "icon": {"family": "MaterialIcons", "name": "directions-car"},
+          "icon": { "family": "MaterialIcons", "name": "directions-car" },
           "title": "Speed Limits",
           "tip": "Speed limits: 50 km/h city, 90 km/h highway, 130 km/h motorway"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "local-gas-station"},
+          "icon": { "family": "MaterialIcons", "name": "local-gas-station" },
           "title": "Gas Stations",
           "tip": "Gas stations: Kastrati, Tamoil, Shell - around 160-180 ALL/liter"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "toll"},
+          "icon": { "family": "MaterialIcons", "name": "toll" },
           "title": "Tolls",
           "tip": "Tolls: None currently, but new highway sections may introduce them"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "navigation"},
+          "icon": { "family": "MaterialIcons", "name": "navigation" },
           "title": "Navigation",
           "tip": "GPS: Google Maps works well, offline maps recommended for mountains"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "construction"},
+          "icon": { "family": "MaterialIcons", "name": "construction" },
           "title": "Road Conditions",
           "tip": "Road conditions: Good in cities, be cautious in rural/mountain areas"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "security"},
+          "icon": { "family": "MaterialIcons", "name": "security" },
           "title": "Police Checks",
           "tip": "Police: Random checks common, always carry license, registration, insurance"
         }
@@ -274,27 +282,27 @@
       ],
       "roadTips": [
         {
-          "icon": {"family": "MaterialIcons", "name": "warning"},
+          "icon": { "family": "MaterialIcons", "name": "warning" },
           "title": "Defensive Driving",
           "tip": "Albanian drivers can be aggressive - maintain safe distances and drive defensively"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "traffic"},
+          "icon": { "family": "MaterialIcons", "name": "traffic" },
           "title": "Rush Hours",
           "tip": "Avoid 7-9am and 5-7pm in Tirana - traffic gets very congested"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "landscape"},
+          "icon": { "family": "MaterialIcons", "name": "landscape" },
           "title": "Mountain Roads",
           "tip": "Mountain roads are narrow and winding - honk before blind curves"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "pets"},
+          "icon": { "family": "MaterialIcons", "name": "pets" },
           "title": "Animals on Roads",
           "tip": "Watch for livestock and stray dogs, especially on rural roads"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "wb-sunny"},
+          "icon": { "family": "MaterialIcons", "name": "wb-sunny" },
           "title": "Weather Conditions",
           "tip": "Roads can be slippery when wet - reduce speed during rain"
         }
@@ -408,34 +416,34 @@
       ],
       "rentalTips": [
         {
-          "icon": {"family": "MaterialIcons", "name": "schedule"},
+          "icon": { "family": "MaterialIcons", "name": "schedule" },
           "title": "Book in Advance",
           "tip": "Better rates and availability, especially during summer season"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "compare"},
+          "icon": { "family": "MaterialIcons", "name": "compare" },
           "title": "Compare Prices",
           "tip": "Use comparison sites to find best deals across different companies"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "settings"},
+          "icon": { "family": "MaterialIcons", "name": "settings" },
           "title": "Choose Right Vehicle",
           "tip": "Compact for cities, SUV for mountains - automatic transmission limited"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "location-on"},
+          "icon": { "family": "MaterialIcons", "name": "location-on" },
           "title": "Pickup Locations",
           "tip": "Available at airports, seaports like Saranda, and city centers"
         }
       ],
       "localDrivingStyle": [
         {
-          "icon": {"family": "MaterialIcons", "name": "speed"},
+          "icon": { "family": "MaterialIcons", "name": "speed" },
           "title": "Enthusiastic Drivers",
           "tip": "Local driving style can be aggressive - stay alert and defensive"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "traffic"},
+          "icon": { "family": "MaterialIcons", "name": "traffic" },
           "title": "Expect Assertiveness",
           "tip": "Albanian drivers are confident and may drive more aggressively than tourists expect"
         }
@@ -898,16 +906,56 @@
         }
       ],
       "categories": [
-        { "id": "greetings", "name": "Greetings", "icon": {"family": "MaterialIcons", "name": "waving-hand"} },
-        { "id": "travel", "name": "Travel", "icon": {"family": "MaterialIcons", "name": "flight"} },
-        { "id": "emergency", "name": "Emergency", "icon": {"family": "MaterialIcons", "name": "emergency"} },
-        { "id": "food", "name": "Food & Drinks", "icon": {"family": "MaterialIcons", "name": "restaurant-menu"} },
-        { "id": "numbers", "name": "Numbers", "icon": {"family": "MaterialIcons", "name": "numbers"} },
-        { "id": "shopping", "name": "Shopping", "icon": {"family": "MaterialIcons", "name": "shopping-cart"} },
-        { "id": "directions", "name": "Directions", "icon": {"family": "MaterialIcons", "name": "map"} },
-        { "id": "accommodation", "name": "Hotels", "icon": {"family": "MaterialIcons", "name": "hotel"} },
-        { "id": "transportation", "name": "Transport", "icon": {"family": "MaterialIcons", "name": "directions-bus"} },
-        { "id": "social", "name": "Social", "icon": {"family": "MaterialIcons", "name": "people"} }
+        {
+          "id": "greetings",
+          "name": "Greetings",
+          "icon": { "family": "MaterialIcons", "name": "waving-hand" }
+        },
+        {
+          "id": "travel",
+          "name": "Travel",
+          "icon": { "family": "MaterialIcons", "name": "flight" }
+        },
+        {
+          "id": "emergency",
+          "name": "Emergency",
+          "icon": { "family": "MaterialIcons", "name": "emergency" }
+        },
+        {
+          "id": "food",
+          "name": "Food & Drinks",
+          "icon": { "family": "MaterialIcons", "name": "restaurant-menu" }
+        },
+        {
+          "id": "numbers",
+          "name": "Numbers",
+          "icon": { "family": "MaterialIcons", "name": "numbers" }
+        },
+        {
+          "id": "shopping",
+          "name": "Shopping",
+          "icon": { "family": "MaterialIcons", "name": "shopping-cart" }
+        },
+        {
+          "id": "directions",
+          "name": "Directions",
+          "icon": { "family": "MaterialIcons", "name": "map" }
+        },
+        {
+          "id": "accommodation",
+          "name": "Hotels",
+          "icon": { "family": "MaterialIcons", "name": "hotel" }
+        },
+        {
+          "id": "transportation",
+          "name": "Transport",
+          "icon": { "family": "MaterialIcons", "name": "directions-bus" }
+        },
+        {
+          "id": "social",
+          "name": "Social",
+          "icon": { "family": "MaterialIcons", "name": "people" }
+        }
       ]
     },
     "money": {
@@ -961,32 +1009,32 @@
       },
       "paymentTips": [
         {
-          "icon": {"family": "MaterialIcons", "name": "credit-card"},
+          "icon": { "family": "MaterialIcons", "name": "credit-card" },
           "title": "Card Acceptance",
           "tip": "Cards accepted in most restaurants, hotels, and shops in cities"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "payments"},
+          "icon": { "family": "MaterialIcons", "name": "payments" },
           "title": "Cash Priority",
           "tip": "Cash still king in rural areas, markets, and small businesses"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "local-atm"},
+          "icon": { "family": "MaterialIcons", "name": "local-atm" },
           "title": "ATM Access",
           "tip": "ATMs everywhere in Tirana, Durrës, Vlorë - withdraw ALL directly"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "attach-money"},
+          "icon": { "family": "MaterialIcons", "name": "attach-money" },
           "title": "Tipping Guide",
           "tip": "Tipping: 10% restaurants, round up taxis, 100-200 ALL housekeeping"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "warning"},
+          "icon": { "family": "MaterialIcons", "name": "warning" },
           "title": "Exchange Safety",
           "tip": "Avoid exchanging money on the street - use official exchange offices"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "info"},
+          "icon": { "family": "MaterialIcons", "name": "info" },
           "title": "Currency Confusion",
           "tip": "Ask if prices are quoted in 'new' or 'old' Lek to avoid confusion"
         }
@@ -1072,7 +1120,10 @@
           "detail": "City buses cost 40 ALL (€0.35), much cheaper than taxis. Use Speed Taxi App for fair taxi pricing when needed"
         },
         {
-          "icon": { "family": "MaterialIcons", "name": "account-balance-wallet" },
+          "icon": {
+            "family": "MaterialIcons",
+            "name": "account-balance-wallet"
+          },
           "tip": "ATM fees warning",
           "detail": "All Albanian banks charge foreign card fees - ABI Bank has lowest at 500 LEK (€5), others charge 650-1190 LEK"
         },
@@ -1179,7 +1230,10 @@
           "detail": "Winter flooding possible in some areas"
         },
         {
-          "icon": { "family": "MaterialIcons", "name": "local-fire-department" },
+          "icon": {
+            "family": "MaterialIcons",
+            "name": "local-fire-department"
+          },
           "title": "Wildfires",
           "detail": "Summer wildfire potential in forested areas"
         }
@@ -1397,7 +1451,11 @@
               "duration": "30 days"
             }
           ],
-          "pros": ["Best price point", "No speed reduction", "Instant activation"],
+          "pros": [
+            "Best price point",
+            "No speed reduction",
+            "Instant activation"
+          ],
           "cons": ["Data-only plan", "Limited customer support"],
           "bestFor": "Budget-conscious travelers"
         },
@@ -1463,7 +1521,11 @@
               "duration": "30 days"
             }
           ],
-          "pros": ["Global coverage", "Continuous connectivity", "24/7 support"],
+          "pros": [
+            "Global coverage",
+            "Continuous connectivity",
+            "24/7 support"
+          ],
           "cons": [
             "Reduced speed after high-speed limit",
             "Daily data caps on some plans"
@@ -1493,7 +1555,11 @@
               "duration": "30 days"
             }
           ],
-          "pros": ["Flexible plan durations", "Fast activation", "Simple setup"],
+          "pros": [
+            "Flexible plan durations",
+            "Fast activation",
+            "Simple setup"
+          ],
           "cons": ["Data-only plans", "Slightly higher costs"],
           "bestFor": "Short-term visitors"
         },
@@ -1547,7 +1613,11 @@
               "duration": "30 days"
             }
           ],
-          "pros": ["Multi-country plans", "Reliable service", "Wide compatibility"],
+          "pros": [
+            "Multi-country plans",
+            "Reliable service",
+            "Wide compatibility"
+          ],
           "cons": ["Higher pricing", "Limited Albania-specific features"],
           "bestFor": "Multi-destination travelers"
         }
@@ -1731,22 +1801,22 @@
       },
       "funFacts": [
         {
-          "icon": {"family": "MaterialIcons", "name": "castle"},
+          "icon": { "family": "MaterialIcons", "name": "castle" },
           "title": "Bunker Paradise",
           "description": "Albania has over 700,000 concrete bunkers built during communist era - that's 1 bunker for every 4 people!"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "handshake"},
+          "icon": { "family": "MaterialIcons", "name": "handshake" },
           "title": "Sacred Hospitality",
           "description": "Albanians follow 'Besa' - a code of honor that makes harming a guest the ultimate dishonor. Your safety is literally sacred."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "pets"},
+          "icon": { "family": "MaterialIcons", "name": "pets" },
           "title": "Land of Eagles",
           "description": "Albania means 'Land of Eagles' in Albanian. The double-headed eagle on their flag represents the north and south of the country."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "public"},
+          "icon": { "family": "MaterialIcons", "name": "public" },
           "title": "Religious Harmony",
           "description": "Albania is the only European country with a Muslim majority, yet it's one of the most religiously tolerant nations in the world."
         }
@@ -1779,7 +1849,12 @@
           ],
           "websiteUrl": "https://www.conadalbania.al/",
           "averagePriceRange": "Medium to High",
-          "bestForShopping": ["Groceries", "Italian products", "Fresh produce", "Household items"]
+          "bestForShopping": [
+            "Groceries",
+            "Italian products",
+            "Fresh produce",
+            "Household items"
+          ]
         },
         {
           "id": "spar",
@@ -1805,7 +1880,12 @@
             "Strategic locations"
           ],
           "averagePriceRange": "Medium",
-          "bestForShopping": ["Groceries", "Fresh products", "Household items", "International brands"]
+          "bestForShopping": [
+            "Groceries",
+            "Fresh products",
+            "Household items",
+            "International brands"
+          ]
         },
         {
           "id": "bigmarket",
@@ -1831,7 +1911,12 @@
             "Wholesale and retail options"
           ],
           "averagePriceRange": "Medium",
-          "bestForShopping": ["Bulk shopping", "Groceries", "Household items", "Business supplies"]
+          "bestForShopping": [
+            "Bulk shopping",
+            "Groceries",
+            "Household items",
+            "Business supplies"
+          ]
         }
       ],
       "localMarkets": [
@@ -1859,7 +1944,12 @@
             "Traditional Albanian products"
           ],
           "averagePriceRange": "Low to Medium",
-          "bestForShopping": ["Fresh produce", "Local products", "Traditional foods", "Authentic experience"]
+          "bestForShopping": [
+            "Fresh produce",
+            "Local products",
+            "Traditional foods",
+            "Authentic experience"
+          ]
         },
         {
           "id": "cam-market",
@@ -1885,7 +1975,12 @@
             "Household items and toys"
           ],
           "averagePriceRange": "Low",
-          "bestForShopping": ["Affordable clothing", "Household items", "Shoes", "Local market experience"]
+          "bestForShopping": [
+            "Affordable clothing",
+            "Household items",
+            "Shoes",
+            "Local market experience"
+          ]
         },
         {
           "id": "medrese-market",
@@ -1911,7 +2006,12 @@
             "Haggling is common practice"
           ],
           "averagePriceRange": "Low to Medium",
-          "bestForShopping": ["New clothes", "Fabrics", "Household linens", "Affordable fashion"]
+          "bestForShopping": [
+            "New clothes",
+            "Fabrics",
+            "Household linens",
+            "Affordable fashion"
+          ]
         },
         {
           "id": "medrese-secondhand",
@@ -1937,7 +2037,12 @@
             "Requires time to browse"
           ],
           "averagePriceRange": "Very Low to Low",
-          "bestForShopping": ["Vintage clothing", "Unique finds", "Very affordable fashion", "Authentic experience"]
+          "bestForShopping": [
+            "Vintage clothing",
+            "Unique finds",
+            "Very affordable fashion",
+            "Authentic experience"
+          ]
         }
       ],
       "departmentStores": [
@@ -1965,37 +2070,42 @@
             "Wide product variety"
           ],
           "averagePriceRange": "Low to Medium",
-          "bestForShopping": ["Brand clothing", "Household linens", "Affordable fashion", "Home goods"]
+          "bestForShopping": [
+            "Brand clothing",
+            "Household linens",
+            "Affordable fashion",
+            "Home goods"
+          ]
         }
       ],
       "practicalTips": [
         {
-          "icon": {"family": "MaterialIcons", "name": "schedule"},
+          "icon": { "family": "MaterialIcons", "name": "schedule" },
           "title": "Shopping Hours",
           "tip": "Most supermarkets open 7:00-22:00. Local markets busiest in mornings until 13:00-15:00."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "payment"},
+          "icon": { "family": "MaterialIcons", "name": "payment" },
           "title": "Payment Methods",
           "tip": "Supermarkets accept cards, but bring cash for local markets and street vendors."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "shopping-bag"},
+          "icon": { "family": "MaterialIcons", "name": "shopping-bag" },
           "title": "Bring Your Own Bags",
           "tip": "Plastic bags cost extra. Bring reusable bags or purchase at checkout."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "translate"},
+          "icon": { "family": "MaterialIcons", "name": "translate" },
           "title": "Language Tip",
           "tip": "Learn basic Albanian: 'Sa kushton?' (How much?), 'Faleminderit' (Thank you)."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "handshake"},
+          "icon": { "family": "MaterialIcons", "name": "handshake" },
           "title": "Market Etiquette",
           "tip": "Haggling expected at flea markets, but not at supermarkets or formal stores."
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "access-time"},
+          "icon": { "family": "MaterialIcons", "name": "access-time" },
           "title": "Best Shopping Times",
           "tip": "Visit markets early (8:00-10:00) for best selection and freshest produce."
         }
@@ -2011,17 +2121,17 @@
         ],
         "recyclingTips": [
           {
-            "icon": {"family": "MaterialIcons", "name": "recycling"},
+            "icon": { "family": "MaterialIcons", "name": "recycling" },
             "title": "Plastic Bottles",
             "tip": "Some supermarkets have bottle return machines - look for signs at entrances."
           },
           {
-            "icon": {"family": "MaterialIcons", "name": "delete"},
+            "icon": { "family": "MaterialIcons", "name": "delete" },
             "title": "General Waste",
             "tip": "Put household waste in provided bins or bags outside your accommodation."
           },
           {
-            "icon": {"family": "MaterialIcons", "name": "eco"},
+            "icon": { "family": "MaterialIcons", "name": "eco" },
             "title": "Eco-Friendly",
             "tip": "Bring reusable water bottles - tap water is safe to drink in most urban areas."
           }
@@ -2029,25 +2139,28 @@
       },
       "essentialServices": [
         {
-          "icon": {"family": "MaterialIcons", "name": "local-pharmacy"},
+          "icon": { "family": "MaterialIcons", "name": "local-pharmacy" },
           "title": "Pharmacies (Farmaci)",
           "description": "Open daily 8:00-20:00, some 24/7 in city center. No prescription needed for basic medicines.",
           "locations": "Found on every main street"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "local-laundry-service"},
+          "icon": {
+            "family": "MaterialIcons",
+            "name": "local-laundry-service"
+          },
           "title": "Laundromats",
           "description": "Self-service laundries available in city center. Hotels often provide laundry service.",
           "tip": "Ask hotel reception for nearest laundromat location"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "local-post-office"},
+          "icon": { "family": "MaterialIcons", "name": "local-post-office" },
           "title": "Post Office (Posta Shqiptare)",
           "description": "Open Mon-Fri 8:00-16:00, Sat 8:00-12:00. Main post office at Rruga Dëshmorët e 4 Shkurtit.",
           "services": "Mail, packages, money transfers, bill payments"
         },
         {
-          "icon": {"family": "MaterialIcons", "name": "account-balance"},
+          "icon": { "family": "MaterialIcons", "name": "account-balance" },
           "title": "Banks & ATMs",
           "description": "Banks open Mon-Fri 8:30-16:00. ATMs widely available. Withdraw LEK directly for best rates.",
           "tip": "ABI Bank has lowest ATM fees for foreign cards"
@@ -2139,6 +2252,97 @@
         "icon": "handshake",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Albania_and_NATO"
       }
-    ]
+    ],
+    "events": {
+      "eventWebsites": [
+        {
+          "name": "RA.CO Events Albania",
+          "description": "Electronic music events, club nights, and music festivals happening in Albania",
+          "url": "https://ra.co/events/al/all",
+          "category": "Music & Nightlife",
+          "icon": { "family": "MaterialIcons", "name": "music-note" },
+          "highlights": [
+            "Electronic music events",
+            "Club listings",
+            "International DJ events",
+            "Music festivals"
+          ]
+        },
+        {
+          "name": "Events Albania",
+          "description": "Comprehensive event listings for concerts, festivals, cultural events, and entertainment across Albania",
+          "url": "https://events.albania.al/",
+          "category": "All Events",
+          "icon": { "family": "MaterialIcons", "name": "event" },
+          "highlights": [
+            "Concerts and festivals",
+            "Cultural events",
+            "Entertainment listings",
+            "Local event calendar"
+          ]
+        },
+        {
+          "name": "GetYourGuide Albania",
+          "description": "Tours, activities, and unique experiences you can book in advance",
+          "url": "https://www.getyourguide.com/albania-l168/",
+          "category": "Tours & Activities",
+          "icon": { "family": "MaterialIcons", "name": "tour" },
+          "highlights": [
+            "Guided tours",
+            "Day trips",
+            "Cultural experiences",
+            "Skip-the-line tickets"
+          ]
+        },
+        {
+          "name": "Airbnb Experiences",
+          "description": "Local experiences and activities hosted by Albanians",
+          "url": "https://www.airbnb.com/s/Albania/experiences",
+          "category": "Local Experiences",
+          "icon": { "family": "MaterialIcons", "name": "home" },
+          "highlights": [
+            "Local host experiences",
+            "Authentic activities",
+            "Cultural immersion",
+            "Small group experiences"
+          ]
+        },
+        {
+          "name": "Eventbrite Albania",
+          "description": "Local events, workshops, seminars, and community gatherings",
+          "url": "https://www.eventbrite.com/d/albania/events/",
+          "category": "Community Events",
+          "icon": { "family": "MaterialIcons", "name": "people" },
+          "highlights": [
+            "Workshops and seminars",
+            "Networking events",
+            "Community gatherings",
+            "Professional events"
+          ]
+        }
+      ],
+      "eventTips": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "schedule" },
+          "title": "Check Multiple Sources",
+          "tip": "Events can be listed on different platforms - check multiple sites for complete listings"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "language" },
+          "title": "Language Note",
+          "tip": "Some local events may be listed only in Albanian - use translation tools if needed"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "payment" },
+          "title": "Booking Tips",
+          "tip": "Popular events sell out quickly in summer - book tours and experiences in advance"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "info" },
+          "title": "Seasonal Events",
+          "tip": "Summer has the most events and festivals, but cultural events happen year-round"
+        }
+      ]
+    }
   }
 }
