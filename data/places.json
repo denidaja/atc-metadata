@@ -139,7 +139,13 @@
           "Gorica Bridge - Historic Ottoman stone bridge",
           "Bachelor's Mosque - 16th-century Ottoman mosque"
         ],
-        "localFoods": ["Pasha Qofte", "Byrek", "Oshaf me Rrush", "Reçel", "Wine"],
+        "localFoods": [
+          "Pasha Qofte",
+          "Byrek",
+          "Oshaf me Rrush",
+          "Reçel",
+          "Wine"
+        ],
         "briefHistory": "Berat dates back to the 6th century BC as the Illyrian settlement of Antipatrea. Under Ottoman rule (15th-19th centuries), it became a major craft and trade center. The characteristic white houses were built during this period. UNESCO recognized it in 2008 for its outstanding example of Ottoman architectural development.",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Berat"
       },
@@ -255,7 +261,13 @@
           "Drilon Springs - Crystal-clear natural springs",
           "Guri i Kamjes - Historic stone bridge"
         ],
-        "localFoods": ["Tave Kosi", "Fërgesë", "Baklava", "Lake Fish", "Seafood"],
+        "localFoods": [
+          "Tave Kosi",
+          "Fërgesë",
+          "Baklava",
+          "Lake Fish",
+          "Seafood"
+        ],
         "briefHistory": "Pogradec developed as a lakeside settlement taking advantage of Lake Ohrid's strategic location. The town has been inhabited since ancient times, with its castle dating to the 13th century. The area's unique ecosystem and cultural significance led to UNESCO recognition, making it an important center for both natural preservation and cultural heritage.",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Pogradec"
       },

@@ -84,6 +84,14 @@
         }
       },
       {
+        "id": "everyday-living",
+        "name": "Everyday Living",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "home"
+        }
+      },
+      {
         "id": "history",
         "name": "History",
         "vectorIcon": {
@@ -1741,6 +1749,308 @@
           "icon": {"family": "MaterialIcons", "name": "public"},
           "title": "Religious Harmony",
           "description": "Albania is the only European country with a Muslim majority, yet it's one of the most religiously tolerant nations in the world."
+        }
+      ]
+    },
+    "everydayLiving": {
+      "supermarkets": [
+        {
+          "id": "conad",
+          "name": "Conad Supermarkets",
+          "description": "Italian supermarket chain with 22 locations in Tirana offering quality products",
+          "highlights": [
+            "Italian supermarket chain",
+            "22 locations in Tirana",
+            "Online shopping available",
+            "8,000 product SKUs"
+          ],
+          "location": "Multiple locations throughout Tirana",
+          "address": "Various locations - 22 stores in Tirana",
+          "operatingHours": "07:30 - 22:00 daily",
+          "parkingAvailable": true,
+          "publicTransport": "Multiple locations accessible",
+          "shortDescription": "Premium Italian supermarket chain with extensive coverage",
+          "keyFeatures": [
+            "Extensive network of 22 stores in Tirana",
+            "Online shopping with home delivery",
+            "Quality Italian and international products",
+            "Private label product range",
+            "Multilingual online platform"
+          ],
+          "websiteUrl": "https://www.conadalbania.al/",
+          "averagePriceRange": "Medium to High",
+          "bestForShopping": ["Groceries", "Italian products", "Fresh produce", "Household items"]
+        },
+        {
+          "id": "spar",
+          "name": "SPAR Supermarkets",
+          "description": "International supermarket chain with around 90 locations across Albania",
+          "highlights": [
+            "90 supermarket locations",
+            "International brand",
+            "Wide product range",
+            "Rapid expansion"
+          ],
+          "location": "Multiple locations in Tirana and Albania",
+          "address": "Various locations throughout Tirana",
+          "operatingHours": "07:00 - 22:00 daily",
+          "parkingAvailable": true,
+          "publicTransport": "Widely accessible locations",
+          "shortDescription": "International supermarket chain with extensive Albanian network",
+          "keyFeatures": [
+            "Extensive network of 90+ stores",
+            "International supermarket standards",
+            "Comprehensive product range",
+            "Modern store formats",
+            "Strategic locations"
+          ],
+          "averagePriceRange": "Medium",
+          "bestForShopping": ["Groceries", "Fresh products", "Household items", "International brands"]
+        },
+        {
+          "id": "bigmarket",
+          "name": "Big Market",
+          "description": "Large supermarket chain with 180 stores across Albania",
+          "highlights": [
+            "180 stores nationwide",
+            "Largest supermarket chain",
+            "Cash and carry options",
+            "Wide product range"
+          ],
+          "location": "Multiple locations in Tirana",
+          "address": "Various locations throughout Tirana",
+          "operatingHours": "07:00 - 22:00 daily",
+          "parkingAvailable": true,
+          "publicTransport": "Multiple accessible locations",
+          "shortDescription": "Albania's largest supermarket chain with extensive coverage",
+          "keyFeatures": [
+            "Largest supermarket network in Albania",
+            "Both retail and cash & carry formats",
+            "Comprehensive product range",
+            "Strategic location coverage",
+            "Wholesale and retail options"
+          ],
+          "averagePriceRange": "Medium",
+          "bestForShopping": ["Bulk shopping", "Groceries", "Household items", "Business supplies"]
+        }
+      ],
+      "localMarkets": [
+        {
+          "id": "new-bazaar",
+          "name": "New Bazaar (Pazari i Ri)",
+          "description": "Historic renovated marketplace for fresh produce, meat, fish, and local products",
+          "highlights": [
+            "Fresh local produce",
+            "Historic significance",
+            "24-hour operation",
+            "Traditional Albanian products"
+          ],
+          "location": "Avni Rustemi Square, 8 minutes walk from city center",
+          "address": "Avni Rustemi Square, Tirana",
+          "operatingHours": "24 hours (peak morning hours)",
+          "parkingAvailable": false,
+          "publicTransport": "8-minute walk from Skanderbeg Square",
+          "shortDescription": "Historic market offering fresh local produce and traditional products",
+          "keyFeatures": [
+            "24-hour operation schedule",
+            "Fresh local produce focus",
+            "Historical significance since 1939",
+            "Recently renovated facilities",
+            "Traditional Albanian products"
+          ],
+          "averagePriceRange": "Low to Medium",
+          "bestForShopping": ["Fresh produce", "Local products", "Traditional foods", "Authentic experience"]
+        },
+        {
+          "id": "cam-market",
+          "name": "Tregu i Çamëve (Çam Market)",
+          "description": "Main clothing and miscellaneous items market in central Tirana",
+          "highlights": [
+            "Clothing market",
+            "Central location",
+            "Affordable prices",
+            "Daily operation"
+          ],
+          "location": "Central Tirana, near Post Office",
+          "address": "Shyqyri Bërxolli and Reshit Çollaku streets",
+          "operatingHours": "Morning until 13:00-15:00 daily. Sundays closed.",
+          "parkingAvailable": false,
+          "publicTransport": "Central location, easily accessible",
+          "shortDescription": "Central daily market for clothing and miscellaneous items",
+          "keyFeatures": [
+            "Daily operation with morning focus",
+            "Wide variety of clothing items",
+            "Affordable pricing",
+            "Central pedestrianized location",
+            "Household items and toys"
+          ],
+          "averagePriceRange": "Low",
+          "bestForShopping": ["Affordable clothing", "Household items", "Shoes", "Local market experience"]
+        },
+        {
+          "id": "medrese-market",
+          "name": "Medrese Market",
+          "description": "Large indoor clothing market with materials and household linens",
+          "highlights": [
+            "Indoor market",
+            "New clothes and materials",
+            "Household linens",
+            "Haggling friendly"
+          ],
+          "location": "Medrese area, Tirana",
+          "address": "Medrese, Tirana",
+          "operatingHours": "Morning until 13:00 daily",
+          "parkingAvailable": false,
+          "publicTransport": "Accessible by city transport",
+          "shortDescription": "Large indoor market for new clothes, materials, and household items",
+          "keyFeatures": [
+            "Large indoor market space",
+            "New clothing for all ages",
+            "Materials and fabrics section",
+            "Household linens available",
+            "Haggling is common practice"
+          ],
+          "averagePriceRange": "Low to Medium",
+          "bestForShopping": ["New clothes", "Fabrics", "Household linens", "Affordable fashion"]
+        },
+        {
+          "id": "medrese-secondhand",
+          "name": "Medrese Second-Hand Market",
+          "description": "Large second-hand clothing market behind the main indoor market",
+          "highlights": [
+            "Second-hand clothing",
+            "Very affordable prices",
+            "Large selection",
+            "Treasure hunting"
+          ],
+          "location": "Behind Medrese indoor market",
+          "address": "Behind main Medrese market, Tirana",
+          "operatingHours": "Morning hours, variable",
+          "parkingAvailable": false,
+          "publicTransport": "Same as main Medrese market",
+          "shortDescription": "Large second-hand market for vintage and used clothing",
+          "keyFeatures": [
+            "Extensive second-hand selection",
+            "No fixed pricing system",
+            "Haggling is expected",
+            "Vintage and unique finds",
+            "Requires time to browse"
+          ],
+          "averagePriceRange": "Very Low to Low",
+          "bestForShopping": ["Vintage clothing", "Unique finds", "Very affordable fashion", "Authentic experience"]
+        }
+      ],
+      "departmentStores": [
+        {
+          "id": "berlin-texx",
+          "name": "Berlin Texx",
+          "description": "Second-hand store chain offering clothing, shoes, bedding, and household items",
+          "highlights": [
+            "Regular sales",
+            "Brand name items",
+            "Fixed pricing",
+            "Household items"
+          ],
+          "location": "Multiple locations in Tirana",
+          "address": "Various locations in Tirana",
+          "operatingHours": "09:00 - 20:00 daily",
+          "parkingAvailable": false,
+          "publicTransport": "Multiple accessible locations",
+          "shortDescription": "Second-hand department store with branded items and fixed prices",
+          "keyFeatures": [
+            "Fixed pricing system",
+            "Regular sales events",
+            "Branded item selection",
+            "No haggling required",
+            "Wide product variety"
+          ],
+          "averagePriceRange": "Low to Medium",
+          "bestForShopping": ["Brand clothing", "Household linens", "Affordable fashion", "Home goods"]
+        }
+      ],
+      "practicalTips": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "schedule"},
+          "title": "Shopping Hours",
+          "tip": "Most supermarkets open 7:00-22:00. Local markets busiest in mornings until 13:00-15:00."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "payment"},
+          "title": "Payment Methods",
+          "tip": "Supermarkets accept cards, but bring cash for local markets and street vendors."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "shopping-bag"},
+          "title": "Bring Your Own Bags",
+          "tip": "Plastic bags cost extra. Bring reusable bags or purchase at checkout."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "translate"},
+          "title": "Language Tip",
+          "tip": "Learn basic Albanian: 'Sa kushton?' (How much?), 'Faleminderit' (Thank you)."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "handshake"},
+          "title": "Market Etiquette",
+          "tip": "Haggling expected at flea markets, but not at supermarkets or formal stores."
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "access-time"},
+          "title": "Best Shopping Times",
+          "tip": "Visit markets early (8:00-10:00) for best selection and freshest produce."
+        }
+      ],
+      "wasteDisposal": {
+        "title": "Waste & Recycling",
+        "description": "Understanding waste disposal and recycling in Albania",
+        "generalRules": [
+          "Household waste collected daily in most urban areas",
+          "Place bags outside between 6:00-8:00 AM for collection",
+          "No specific recycling bins in most residential areas",
+          "Bring your own bags for shopping to reduce waste"
+        ],
+        "recyclingTips": [
+          {
+            "icon": {"family": "MaterialIcons", "name": "recycling"},
+            "title": "Plastic Bottles",
+            "tip": "Some supermarkets have bottle return machines - look for signs at entrances."
+          },
+          {
+            "icon": {"family": "MaterialIcons", "name": "delete"},
+            "title": "General Waste",
+            "tip": "Put household waste in provided bins or bags outside your accommodation."
+          },
+          {
+            "icon": {"family": "MaterialIcons", "name": "eco"},
+            "title": "Eco-Friendly",
+            "tip": "Bring reusable water bottles - tap water is safe to drink in most urban areas."
+          }
+        ]
+      },
+      "essentialServices": [
+        {
+          "icon": {"family": "MaterialIcons", "name": "local-pharmacy"},
+          "title": "Pharmacies (Farmaci)",
+          "description": "Open daily 8:00-20:00, some 24/7 in city center. No prescription needed for basic medicines.",
+          "locations": "Found on every main street"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "local-laundry-service"},
+          "title": "Laundromats",
+          "description": "Self-service laundries available in city center. Hotels often provide laundry service.",
+          "tip": "Ask hotel reception for nearest laundromat location"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "local-post-office"},
+          "title": "Post Office (Posta Shqiptare)",
+          "description": "Open Mon-Fri 8:00-16:00, Sat 8:00-12:00. Main post office at Rruga Dëshmorët e 4 Shkurtit.",
+          "services": "Mail, packages, money transfers, bill payments"
+        },
+        {
+          "icon": {"family": "MaterialIcons", "name": "account-balance"},
+          "title": "Banks & ATMs",
+          "description": "Banks open Mon-Fri 8:30-16:00. ATMs widely available. Withdraw LEK directly for best rates.",
+          "tip": "ABI Bank has lowest ATM fees for foreign cards"
         }
       ]
     },
