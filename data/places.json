@@ -26,7 +26,7 @@
         "name": "Pristine Beaches",
         "icon": "",
         "description": "Hidden beaches along the stunning Albanian Riviera coastline",
-        "dataSource": "beaches-alps",
+        "dataSource": "beaches",
         "backgroundImageUrl": "https://www.ourbigjourney.com/wp-content/uploads/2021/11/IMG-0087-2.jpg",
         "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
       },
@@ -35,7 +35,7 @@
         "name": "Albanian Alps",
         "icon": "",
         "description": "Dramatic peaks and pristine valleys perfect for adventure",
-        "dataSource": "beaches-alps",
+        "dataSource": "alps",
         "backgroundImageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Theth07_AlbaniaVisit.com_.jpg",
         "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
       },
@@ -558,7 +558,7 @@
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Butrint_National_Park"
       }
     ],
-    "beaches-alps": [
+    "beaches": [
       {
         "id": "gjipe-beach",
         "name": "Gjipe Beach",
@@ -691,7 +691,9 @@
         "visitingInfo": "Located between Himara and Sarandë (45 minutes from each). Limited accommodation - mainly guesthouses and small hotels. Few restaurants but authentic local cuisine. Bring supplies for day trips.",
         "bestTimeToVisit": "May-September for swimming. Early morning and late afternoon offer the most peaceful experience. Spring (April-May) beautiful for walking through olive groves.",
         "wikipediaUrl": null
-      },
+      }
+    ],
+    "alps": [
       {
         "id": "valbona-valley",
         "name": "Valbona Valley National Park",
