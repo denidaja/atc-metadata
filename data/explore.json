@@ -116,27 +116,27 @@
           "name": "Auto Holiday Albania (Official Airport Taxi)",
           "phone": "+355 67 601 23 93",
           "website": "www.tiataxi.al",
-          "rating": "⭐ Official licensed",
+          "rating": " Official licensed",
           "price": "€23-28 (city center/periphery)",
           "details": "Yellow taxis with airport logo, 24/7 service, metered fares ~2200 LEK"
         },
         {
           "name": "Speed Taxi",
           "phone": "+355 69 60 60 600",
-          "rating": "⭐ 4.0",
+          "rating": " 4.0",
           "price": "€10-12 to city center",
           "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Merr Taxi",
           "phone": "+355 4 2380 380",
-          "rating": "⭐ 4.2",
+          "rating": " 4.2",
           "price": "€18-20 to city center"
         },
         {
           "name": "Green Taxi",
           "phone": "+355 4 2273 273",
-          "rating": "⭐ 4.1",
+          "rating": " 4.1",
           "price": "€15-18 to city center"
         }
       ],

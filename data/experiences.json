@@ -68,7 +68,8 @@
         "ageRange": "All ages",
         "groupSize": "Individual to large groups",
         "bookingRequired": "Recommended for evening and weekend shows",
-        "additionalInfo": "Founded in 1993, offers the best sound and image quality in Albania"
+        "additionalInfo": "Founded in 1993, offers the best sound and image quality in Albania",
+        "imageUrl": "https://media.licdn.com/dms/image/v2/C561BAQHn7ezmYppdGQ/company-background_10000/company-background_10000/0/1585489602899/cineplexx_international_gmbh_cover?e=2147483647&v=beta&t=6jAY9ZEG4ZvD59oiWJF-RGr5Wu5_T93bV_yweB9YVP8"
       },
       {
         "id": "ent_2",
@@ -97,7 +98,8 @@
         "ageRange": "All ages",
         "groupSize": "Individual to medium groups",
         "bookingRequired": "Advance booking recommended for popular films",
-        "additionalInfo": "Staff speaks English, making it convenient for international visitors"
+        "additionalInfo": "Staff speaks English, making it convenient for international visitors",
+        "imageUrl": "https://timeouttirana.al/wp-content/uploads/2021/03/Kinema-Millenium.jpg"
       },
       {
         "id": "ent_3",
@@ -127,7 +129,8 @@
         "ageRange": "All ages, children's areas available",
         "groupSize": "Individual to large groups",
         "bookingRequired": "No reservation needed",
-        "additionalInfo": "Some facilities may be closed or require additional fees for access"
+        "additionalInfo": "Some facilities may be closed or require additional fees for access",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojPSCYoMyOoLmSyvXaee783F9qIfVBRhElznBWsY20ema9BoMCfvvl1kC0yU2hLZ9KWGvhgKsHMT_kUDcIxB8exTkEO4YJOsk9BhkyTEbY6iFQd032u8PIDcT7dTEBS3wzUKoeTQ=s1360-w1360-h1020-rw"
       },
       {
         "id": "ent_4",
@@ -157,7 +160,8 @@
         "ageRange": "All ages (children under 14 must be supervised)",
         "groupSize": "Individual to groups",
         "bookingRequired": "Subscription or day pass required",
-        "additionalInfo": "Weekend events feature famous Albanian singers and themed parties"
+        "additionalInfo": "Weekend events feature famous Albanian singers and themed parties",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN055CJs3WcNv9-96QgEan92EXq5a-1a_8_SbAA=s1360-w1360-h1020-rw"
       },
       {
         "id": "ent_5",
@@ -187,7 +191,8 @@
         "ageRange": "Suitable for everyone, family-friendly",
         "groupSize": "2-6 people per room",
         "bookingRequired": "Yes, advance booking essential",
-        "additionalInfo": "No physical effort required, only wit and observation skills"
+        "additionalInfo": "No physical effort required, only wit and observation skills",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/73/26/75/prison-break.jpg?w=1200&h=1200&s=1"
       },
       {
         "id": "ent_6",
@@ -217,37 +222,8 @@
         "ageRange": "12+ years",
         "groupSize": "1-2 players per session",
         "bookingRequired": "Recommended, especially for groups",
-        "additionalInfo": "First VR center opened in Tirana and Albania"
-      },
-      {
-        "id": "ent_7",
-        "name": "VR Labs Tirana",
-        "category": "Virtual Reality Arcade",
-        "description": "Albania's largest virtual reality venue with top VR headsets and multiplayer games",
-        "highlights": [
-          "Largest VR venue in Albania",
-          "Best VR headsets available",
-          "Top gaming titles",
-          "Multiplayer experiences"
-        ],
-        "location": "Tirana",
-        "address": "Contact for location details",
-        "operatingHours": "Daily operations",
-        "pricing": "Contact for pricing details",
-        "shortDescription": "Albania's largest VR gaming destination with premium equipment",
-        "detailedDescription": "VR Labs Tirana positions itself as Albania's largest virtual reality venue, featuring the very best VR headsets and all the top gaming titles. The facility specializes in multiplayer VR experiences and offers cutting-edge virtual reality technology.",
-        "keyFeatures": [
-          "Largest VR facility in Albania",
-          "Premium VR headset technology",
-          "Comprehensive gaming library",
-          "Multiplayer gaming focus",
-          "Top-tier gaming titles",
-          "Modern facility design"
-        ],
-        "ageRange": "Suitable for teens and adults",
-        "groupSize": "Individual to group experiences",
-        "bookingRequired": "Contact venue for booking",
-        "additionalInfo": "Focuses on providing the most advanced VR technology available"
+        "additionalInfo": "First VR center opened in Tirana and Albania",
+        "imageUrl": "https://www.spottedbylocals.com/wp-content/uploads/2024/10/VR-Games-Lounge-1-scaled.jpeg"
       },
       {
         "id": "ent_8",
@@ -277,7 +253,8 @@
         "ageRange": "All ages welcome",
         "groupSize": "Small groups preferred",
         "bookingRequired": "Yes, advance booking required",
-        "additionalInfo": "Uses only the best local produce and traditional techniques"
+        "additionalInfo": "Uses only the best local produce and traditional techniques",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/d3/4a/8a.jpg"
       },
       {
         "id": "ent_9",
@@ -307,67 +284,8 @@
         "ageRange": "Adults and supervised children",
         "groupSize": "Small groups up to 8 people",
         "bookingRequired": "Yes, advance booking essential",
-        "additionalInfo": "Host has nearly a decade of culinary experience and focuses on authentic techniques"
-      },
-      {
-        "id": "ent_10",
-        "name": "Rogner Hotel Pool",
-        "category": "Swimming Pool",
-        "description": "Luxury hotel pool in city center surrounded by palm trees",
-        "highlights": [
-          "Largest pool in city center",
-          "Heated for winter use",
-          "Palm tree surroundings",
-          "Luxury hotel amenities"
-        ],
-        "location": "Central Tirana",
-        "address": "Rogner Hotel Tirana, city center",
-        "operatingHours": "Hotel guest access, day passes available",
-        "pricing": "Hotel guests included, day pass rates vary",
-        "shortDescription": "Luxury hotel pool experience in the heart of Tirana",
-        "detailedDescription": "Located in the heart of Tirana's lush hotel gardens, the Rogner Hotel pool is the largest within the city center. Surrounded by palm trees, it offers a refreshing escape and is heated during colder months for year-round enjoyment.",
-        "keyFeatures": [
-          "Largest pool in Tirana city center",
-          "Beautiful palm tree garden setting",
-          "Heated pool for winter swimming",
-          "Luxury hotel amenities access",
-          "Professional pool maintenance",
-          "Poolside service available"
-        ],
-        "ageRange": "All ages",
-        "groupSize": "Individual to families",
-        "bookingRequired": "Day passes may require advance booking",
-        "additionalInfo": "Pool is heated during colder months making it usable year-round"
-      },
-      {
-        "id": "ent_11",
-        "name": "Workshop Experiences - Cooking Class Tirana",
-        "category": "Classes & Workshops",
-        "description": "Diverse workshop offerings including wine tasting, pottery, and creative arts",
-        "highlights": [
-          "Wine tasting events",
-          "Pottery sessions",
-          "Drawing workshops",
-          "Pizza making classes"
-        ],
-        "location": "Central Tirana",
-        "address": "Rruga Bardhok Biba, Tirana",
-        "operatingHours": "Scheduled workshops, check calendar",
-        "pricing": "Varies by workshop type",
-        "shortDescription": "Diverse creative and culinary workshops beyond traditional cooking",
-        "detailedDescription": "In addition to cooking classes, this venue offers a wide array of workshops designed to cater to various interests. From wine tasting events and pottery sessions to drawing workshops and pizza making, these experiences provide engaging and enriching activities in a welcoming environment.",
-        "keyFeatures": [
-          "Wine tasting with expert guidance",
-          "Hands-on pottery workshops",
-          "Creative drawing and art sessions",
-          "Pizza making from dough to toppings",
-          "Learn Your Spices workshops",
-          "Collaborative partner specialists"
-        ],
-        "ageRange": "Varies by workshop (adults for wine tasting)",
-        "groupSize": "Small to medium groups",
-        "bookingRequired": "Yes, advance booking required",
-        "additionalInfo": "Workshops conducted in collaboration with specialists in respective fields"
+        "additionalInfo": "Host has nearly a decade of culinary experience and focuses on authentic techniques",
+        "imageUrl": "https://goaslocal.com/wp-content/uploads/2019/02/Betterimage.ai_1729510550561.jpeg"
       },
       {
         "id": "ent_12",
@@ -397,7 +315,8 @@
         "ageRange": "All ages, family-oriented",
         "groupSize": "Individual to large groups",
         "bookingRequired": "Not required for most activities",
-        "additionalInfo": "Entertainment options are located on upper floors of the shopping center"
+        "additionalInfo": "Entertainment options are located on upper floors of the shopping center",
+        "imageUrl": "https://ring.al/wp-content/uploads/2023/06/pano-2-1024x457.jpg"
       },
       {
         "id": "ent_13",
@@ -427,38 +346,10 @@
         "ageRange": "All ages",
         "groupSize": "Limited capacity",
         "bookingRequired": "Contact residence for access",
-        "additionalInfo": "Pool design inspired by Noah's Ark with artistic animal motifs"
+        "additionalInfo": "Pool design inspired by Noah's Ark with artistic animal motifs",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/56/cd/b8/city-view.jpg?w=900&h=500&s=1"
       },
-      {
-        "id": "ent_14",
-        "name": "Tirana International Film Festival",
-        "category": "Cinema",
-        "description": "Annual international film festival qualifying for Academy Awards",
-        "highlights": [
-          "Academy Awards qualifying",
-          "European Film Awards qualifying",
-          "International competition",
-          "Independent cinema focus"
-        ],
-        "location": "Various venues in Tirana",
-        "address": "Multiple cinema venues throughout Tirana",
-        "operatingHours": "September annually",
-        "pricing": "Varies by screening and events",
-        "shortDescription": "Albania's premier international film festival with global recognition",
-        "detailedDescription": "The Tirana International Film Festival (TIFF), established in 2003, is Albania's first international film festival and now one of Europe's most important cinematic events. It's officially approved as Academy Awards and European Film Awards qualifying festival, focusing on worldwide alternative and independent cinema.",
-        "keyFeatures": [
-          "Academy Awards qualifying status",
-          "European Film Awards recognition",
-          "International film competition",
-          "Independent and alternative cinema",
-          "Multiple venue screenings",
-          "Cultural exchange platform"
-        ],
-        "ageRange": "Film enthusiasts of all ages",
-        "groupSize": "Individual to cinema capacity",
-        "bookingRequired": "Yes, for specific screenings",
-        "additionalInfo": "Created in 2003, aims to create cultural center for worldwide alternative cinema"
-      }
+           
     ],
     "experiences": [
       {
@@ -491,7 +382,8 @@
         "includedServices": "Guide, safety equipment, route planning",
         "bookingAdvance": "2-3 days recommended",
         "groupSize": "2-6 climbers per guide",
-        "equipment": "Climbing gear provided, bring personal harness if preferred"
+        "equipment": "Climbing gear provided, bring personal harness if preferred",
+        "imageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/m-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps-scaled.jpeg"
       },
       {
         "id": "act_2",
@@ -523,7 +415,8 @@
         "includedServices": "Guide, safety equipment, route recommendations",
         "bookingAdvance": "1-2 days",
         "groupSize": "2-8 climbers",
-        "equipment": "Full climbing gear provided"
+        "equipment": "Full climbing gear provided",
+        "imageUrl": "https://cdn1.matadornetwork.com/blogs/1/2021/11/LAKESIDE-12.jpg"
       },
       {
         "id": "act_3",
@@ -555,7 +448,8 @@
         "includedServices": "Professional guide, safety equipment, wetsuit, transfers",
         "bookingAdvance": "24 hours, same-day possible",
         "groupSize": "6-8 people per raft",
-        "equipment": "All rafting equipment, life jackets, helmets provided"
+        "equipment": "All rafting equipment, life jackets, helmets provided",
+        "imageUrl": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F799d0bca-0550-11ee-8d81-e0eaecec6481.jpg?crop=5288%2C2975%2C13%2C561&resize=1200"
       },
       {
         "id": "act_4",
@@ -587,7 +481,8 @@
         "includedServices": "Guide, rafting equipment, transport, lunch option",
         "bookingAdvance": "1-2 days recommended",
         "groupSize": "4-8 people per raft",
-        "equipment": "Complete rafting gear, safety equipment provided"
+        "equipment": "Complete rafting gear, safety equipment provided",
+        "imageUrl": "https://berat.al/admin/assets/images/Osum-Canyons-1.jpg"
       },
       {
         "id": "act_5",
@@ -619,7 +514,8 @@
         "includedServices": "Guide, bike rental, accommodation, meals, support vehicle",
         "bookingAdvance": "2-4 weeks recommended",
         "groupSize": "8-16 cyclists",
-        "equipment": "Quality bikes provided, bring personal gear"
+        "equipment": "Quality bikes provided, bring personal gear",
+        "imageUrl": "https://www.transdinarica.com/wp-content/uploads/2024/03/cover-Trans_Dinarica_Cycle_Route-Albania-Matevz_Hribar-1024x683.jpg"
       },
       {
         "id": "act_6",
@@ -651,39 +547,8 @@
         "includedServices": "Mountain bike rental, basic maintenance, trail maps",
         "bookingAdvance": "1 day",
         "groupSize": "2-10 cyclists",
-        "equipment": "Mountain bikes, helmets, protective gear provided"
-      },
-      {
-        "id": "act_7",
-        "name": "Albanian Wine Tasting Tours",
-        "category": "Wine Tasting",
-        "description": "Explore Albania's emerging wine regions with tastings at family vineyards",
-        "highlights": [
-          "Native grape varieties",
-          "Family-run wineries",
-          "Traditional food pairings",
-          "Vineyard tours"
-        ],
-        "location": "Berat region and Central Albania",
-        "duration": "Half-day to full day",
-        "difficulty": "Easy",
-        "bestSeason": "Year-round, best April-October",
-        "pricing": "€35-65 per person including transport",
-        "shortDescription": "Discover Albanian wines with tastings at authentic family vineyards",
-        "detailedDescription": "Albania's wine industry blends ancient traditions with modern innovations. Tours take visitors to family vineyards in the Berat region where native grape varieties like Shesh i Bardhe and Kallmet are cultivated. Experience includes guided vineyard walks, cellar tours, wine tastings, and traditional Albanian food pairings.",
-        "keyFeatures": [
-          "Native Albanian grape varieties",
-          "Family vineyard experiences",
-          "Traditional food pairings",
-          "Cellar and vineyard tours",
-          "Meet local winemakers",
-          "Regional specialties tasting"
-        ],
-        "requirements": "18+ for alcohol consumption",
-        "includedServices": "Transport, wine tastings, food pairings, guide",
-        "bookingAdvance": "2 days required",
-        "groupSize": "4-12 people",
-        "equipment": "None required"
+        "equipment": "Mountain bikes, helmets, protective gear provided",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0c/0b/dd/92.jpg"
       },
       {
         "id": "act_8",
@@ -715,7 +580,8 @@
         "includedServices": "Vineyard tour, wine tasting, kayak rental, restaurant dining",
         "bookingAdvance": "1-2 days",
         "groupSize": "2-20 people",
-        "equipment": "All equipment provided"
+        "equipment": "All equipment provided",
+        "imageUrl": "https://www.winedering.com/uploads/travels/5511/big/foto-39.jpg.webp"
       },
       {
         "id": "act_9",
@@ -747,7 +613,8 @@
         "includedServices": "Guesthouse accommodation, meals, local transport arrangements",
         "bookingAdvance": "1-2 weeks in summer",
         "groupSize": "Individual to small groups",
-        "equipment": "Proper hiking boots, layers, rain gear essential"
+        "equipment": "Proper hiking boots, layers, rain gear essential",
+        "imageUrl": "https://www.snoezelsontheroad.com/wp-content/uploads/2023/10/coverfoto-hiking-Albanie.jpg"
       },
       {
         "id": "act_10",
@@ -779,7 +646,8 @@
         "includedServices": "Professional guide, camping equipment, meals, permits",
         "bookingAdvance": "3-4 weeks",
         "groupSize": "4-8 trekkers",
-        "equipment": "Personal hiking gear, camping equipment provided"
+        "equipment": "Personal hiking gear, camping equipment provided",
+        "imageUrl": "https://www.thenaturaladventure.com/wp-content/uploads/2019/12/trails-of-albanian-alps-3-crop-1679315105-1945x1094.jpg"
       },
       {
         "id": "act_11",
@@ -811,7 +679,8 @@
         "includedServices": "Transport, guide, trail maps",
         "bookingAdvance": "Same day possible",
         "groupSize": "2-15 people",
-        "equipment": "Comfortable walking shoes, swimwear optional"
+        "equipment": "Comfortable walking shoes, swimwear optional",
+        "imageUrl": "https://sailingstonetravel.b-cdn.net/wp-content/uploads/2021/10/Hiking-to-the-Blue-Eye-in-Theth-58-copy.jpg"
       },
       {
         "id": "act_12",
@@ -843,41 +712,10 @@
         "includedServices": "Ferry ticket, transfers to/from Shkodër, basic guide",
         "bookingAdvance": "1-2 days recommended",
         "groupSize": "Individual to large groups",
-        "equipment": "Camera, comfortable clothing, light hiking shoes"
+        "equipment": "Camera, comfortable clothing, light hiking shoes",
+        "imageUrl": "https://inbetweentravels.com/wp-content/uploads/2020/05/20170820-08204500-scaled.jpg"
       },
-      {
-        "id": "act_13",
-        "name": "Via Ferrata Adventures",
-        "category": "Rock Climbing",
-        "description": "Iron road climbing experiences suitable for beginners with professional guidance",
-        "highlights": [
-          "Steel cable assistance",
-          "Suitable for beginners",
-          "Spectacular views",
-          "Professional safety equipment"
-        ],
-        "location": "Various locations in Albanian Alps",
-        "duration": "2-4 hours per route",
-        "difficulty": "Beginner to Intermediate",
-        "bestSeason": "May to October",
-        "pricing": "€55-85 per person",
-        "shortDescription": "Accessible mountain climbing with steel cable assistance and safety gear",
-        "detailedDescription": "Via Ferrata (Italian for 'iron road') allows people without climbing experience to safely navigate mountain routes using steel cables and ladders. Professional guides provide safety equipment and instruction, making this accessible to beginners while still offering thrilling mountain exposure and spectacular views.",
-        "keyFeatures": [
-          "Steel cable and ladder assistance",
-          "No prior climbing experience needed",
-          "Professional safety equipment",
-          "Certified guide instruction",
-          "Spectacular mountain views",
-          "Safe introduction to mountain climbing"
-        ],
-        "requirements": "Basic physical fitness, no climbing experience needed",
-        "includedServices": "Guide, all safety equipment, instruction, helmet",
-        "bookingAdvance": "2-3 days",
-        "groupSize": "4-8 participants",
-        "equipment": "All specialized equipment provided"
-      }
-    ],
+          ],
     "shopping": [
       {
         "id": "shop_1",
@@ -913,7 +751,8 @@
         ],
         "websiteUrl": null,
         "averagePriceRange": "Medium to High",
-        "bestForShopping": ["Fashion", "Electronics", "Entertainment", "Dining"]
+        "bestForShopping": ["Fashion", "Electronics", "Entertainment", "Dining"],
+        "imageUrl": "https://vrapon.al/wp-content/uploads/2023/03/teg-1280x720.jpeg"
       },
       {
         "id": "shop_2",
@@ -948,7 +787,8 @@
         ],
         "websiteUrl": null,
         "averagePriceRange": "Medium to High",
-        "bestForShopping": ["Fashion", "Electronics", "Lifestyle", "Art"]
+        "bestForShopping": ["Fashion", "Electronics", "Lifestyle", "Art"],
+        "imageUrl": "https://www.comisa.it/wp-content/uploads/2021/06/CD.jpg"
       },
       {
         "id": "shop_3",
@@ -988,49 +828,10 @@
           "Fashion",
           "Electronics",
           "Daily needs"
-        ]
+        ],
+        "imageUrl": "https://vakefiglass.com/wp-content/uploads/bb-plugin/cache/3-5-landscape.jpg"
       },
-      {
-        "id": "shop_4",
-        "name": "Ring Center",
-        "category": "Shopping Mall",
-        "description": "Modern shopping center with entertainment options including skating rink and cinemas",
-        "highlights": [
-          "Skating rink",
-          "5D and 7D cinemas",
-          "Large hypermarket",
-          "Entertainment area"
-        ],
-        "location": "Central Tirana",
-        "address": "Near former Pyramid building",
-        "operatingHours": "10:00 - 22:00 daily",
-        "parkingAvailable": true,
-        "publicTransport": "Central location with good access",
-        "shortDescription": "Shopping and entertainment complex with unique attractions",
-        "detailedDescription": "Tirana Ring Center offers a great mix of shops, from international brands to local retailers. The center features a large hypermarket for everyday essentials and standout entertainment options including a skating rink, games, and 5D and 7D cinemas. The top-floor restaurants and cafes provide stunning views of the city.",
-        "keyFeatures": [
-          "Large hypermarket for groceries",
-          "Skating rink facility",
-          "5D and 7D cinema experience",
-          "Games and entertainment area",
-          "Restaurants with city views"
-        ],
-        "popularStores": [
-          "International brands",
-          "Local retailers",
-          "Hypermarket",
-          "Entertainment venues"
-        ],
-        "websiteUrl": null,
-        "averagePriceRange": "Medium",
-        "bestForShopping": [
-          "Entertainment",
-          "Groceries",
-          "Fashion",
-          "Family activities"
-        ]
-      },
-      {
+           {
         "id": "shop_5",
         "name": "European Trade Center (ETC)",
         "category": "Shopping Mall",
@@ -1068,7 +869,8 @@
           "Accessories",
           "Dining",
           "International brands"
-        ]
+        ],
+        "imageUrl": "https://edilal.com/wp-content/uploads/2017/10/ETC-2.jpg"
       },
       {
         "id": "shop_6",
@@ -1108,7 +910,8 @@
           "Beauty",
           "Electronics",
           "Italian dining"
-        ]
+        ],
+        "imageUrl": "https://photos.wikimapia.org/p/00/00/78/64/35_big.jpg"
       }
     ]
   }
