@@ -348,8 +348,7 @@
         "bookingRequired": "Contact residence for access",
         "additionalInfo": "Pool design inspired by Noah's Ark with artistic animal motifs",
         "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/56/cd/b8/city-view.jpg?w=900&h=500&s=1"
-      },
-           
+      }    
     ],
     "experiences": [
       {
@@ -714,8 +713,8 @@
         "groupSize": "Individual to large groups",
         "equipment": "Camera, comfortable clothing, light hiking shoes",
         "imageUrl": "https://inbetweentravels.com/wp-content/uploads/2020/05/20170820-08204500-scaled.jpg"
-      },
-          ],
+      }
+    ],
     "shopping": [
       {
         "id": "shop_1",
