@@ -21,18 +21,10 @@
       },
       {
         "id": "transport",
-        "name": "Transport",
+        "name": "Public Transport",
         "vectorIcon": {
           "family": "MaterialIcons",
           "name": "directions-bus"
-        }
-      },
-      {
-        "id": "money",
-        "name": "Money",
-        "vectorIcon": {
-          "family": "MaterialIcons",
-          "name": "attach-money"
         }
       },
       {
@@ -44,19 +36,11 @@
         }
       },
       {
-        "id": "secrets",
-        "name": "Local Secrets",
+        "id": "ferry",
+        "name": "Ferry",
         "vectorIcon": {
           "family": "MaterialIcons",
-          "name": "explore"
-        }
-      },
-      {
-        "id": "events",
-        "name": "Events",
-        "vectorIcon": {
-          "family": "MaterialIcons",
-          "name": "event"
+          "name": "directions-boat"
         }
       },
       {
@@ -68,11 +52,27 @@
         }
       },
       {
-        "id": "ferry",
-        "name": "Ferry",
+        "id": "money",
+        "name": "Money",
         "vectorIcon": {
           "family": "MaterialIcons",
-          "name": "directions-boat"
+          "name": "attach-money"
+        }
+      },
+      {
+        "id": "everyday-living",
+        "name": "Everyday Life",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "home"
+        }
+      },
+      {
+        "id": "events",
+        "name": "Events",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "event"
         }
       },
       {
@@ -84,27 +84,19 @@
         }
       },
       {
-        "id": "economy",
-        "name": "Economy",
-        "vectorIcon": {
-          "family": "MaterialIcons",
-          "name": "trending-up"
-        }
-      },
-      {
-        "id": "everyday-living",
-        "name": "Everyday Living",
-        "vectorIcon": {
-          "family": "MaterialIcons",
-          "name": "home"
-        }
-      },
-      {
         "id": "history",
         "name": "History",
         "vectorIcon": {
           "family": "MaterialIcons",
           "name": "account-balance"
+        }
+      },
+      {
+        "id": "economy",
+        "name": "Economy",
+        "vectorIcon": {
+          "family": "MaterialIcons",
+          "name": "trending-up"
         }
       }
     ]
@@ -113,31 +105,30 @@
     "transport": {
       "taxiCompanies": [
         {
-          "name": "Auto Holiday Albania (Official Airport Taxi)",
-          "phone": "+355 67 601 23 93",
-          "website": "www.tiataxi.al",
-          "rating": " Official licensed",
-          "price": "€23-28 (city center/periphery)",
-          "details": "Yellow taxis with airport logo, 24/7 service, metered fares ~2200 LEK"
+          "name": "Blue Taxi",
+          "phone": "+355 67 444 4444",
+          "rating": "",
+          "price": "€13-15 airport to city center",
+          "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Speed Taxi",
           "phone": "+355 69 60 60 600",
-          "rating": " 4.0",
-          "price": "€10-12 to city center",
+          "rating": "",
+          "price": "€10-12 airport to city center",
           "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Merr Taxi",
           "phone": "+355 4 2380 380",
-          "rating": " 4.2",
-          "price": "€18-20 to city center"
+          "rating": "",
+          "price": "€18-20 airport to city center"
         },
         {
           "name": "Green Taxi",
           "phone": "+355 4 2273 273",
-          "rating": " 4.1",
-          "price": "€15-18 to city center"
+          "rating": "",
+          "price": "€15-18 airport to city center"
         }
       ],
       "airportTransport": [
@@ -155,7 +146,7 @@
           "price": "€23-28 (2200 LEK)",
           "duration": "20-25 minutes",
           "frequency": "Always available",
-          "details": "Auto Holiday Albania - yellow taxis with airport logo"
+          "details": "Auto Holiday Albania - yellow taxis with airport logo sitting outside arrivals. No need to pre-book."
         },
         {
           "type": "App-based Taxis",
@@ -174,50 +165,53 @@
           "details": "Door-to-door service, English-speaking drivers"
         }
       ],
-      "carRentals": [
+      "publicTransport": [
         {
-          "company": "Europcar Albania",
-          "location": "Airport Terminal",
-          "contact": "+355 4 2381 051",
-          "details": "Counter in terminal, flexible rental options"
+          "type": "City Buses",
+          "route": "Public bus network",
+          "price": "40 ALL (€0.35) per ride",
+          "duration": "Varies by route",
+          "frequency": "Every 10-20 minutes",
+          "details": "Extensive network covering all major areas and cities. Check Google Maps for arrival/departure times. Pay on board with exact change."
         },
         {
-          "company": "Hertz Albania",
-          "location": "Airport Terminal",
-          "contact": "+355 4 2381 718",
-          "details": "Located in terminal building"
+          "type": "Intercity Buses",
+          "route": "Tirana to all major cities",
+          "price": "300-800 ALL (€3-8) depending on distance",
+          "duration": "1-6 hours",
+          "frequency": "Regular daily services",
+          "details": "Comprehensive network connecting all major Albanian cities. Buses depart from North/South bus terminals and tickets can be purchased on-site or online through Gjirafa Travel."
         },
         {
-          "company": "Avis Albania",
-          "location": "Airport Terminal",
-          "contact": "+355 4 2274 947",
-          "details": "Terminal location, international brand"
+          "type": "Trains",
+          "route": "Tirana - Durrës line",
+          "price": "100-150 ALL (€1-1.50)",
+          "duration": "45-60 minutes",
+          "frequency": "Limited service - check schedule",
+          "details": "Very limited railway system. Main route connects Tirana to Durrës port. Service can be unreliable."
         },
         {
-          "company": "Enterprise Rent-A-Car",
-          "location": "Airport Terminal",
-          "contact": "+355 67 600 0900",
-          "details": "24/7 service, after-hours pickup available (€15 fee)"
+          "type": "Bike Rentals",
+          "route": "Tourism areas and city centers",
+          "price": "500-1000 ALL (€5-10) per day",
+          "duration": "Hourly/daily rates",
+          "frequency": "Available on demand",
+          "details": "Growing bike rental network in tourist areas (listnride.com). Some hotels offer complimentary bike rentals."
         },
         {
-          "company": "SIXT",
-          "location": "Airport Terminal",
-          "contact": "Available at terminal",
-          "details": "Like-new vehicles, accepts debit cards and Amex"
-        },
-        {
-          "company": "Albania Airport Rent A Car",
-          "location": "Airport Terminal & Parking",
-          "contact": "Available at terminal",
-          "details": "Local company, 1200+ vehicle fleet, established 2013"
+          "type": "Scooter Rentals",
+          "route": "Limited availability in city centers",
+          "price": "1500-2500 ALL (€15-25) per day",
+          "duration": "Hourly/daily rates",
+          "frequency": "Available on demand",
+          "details": "Electric scooters available from local rental shops. Requires valid license and deposit, but not recommended due to lack of dedicated lanes."
         }
       ],
       "importantNotes": {
-        "currency": "Prices can be paid in EUR or Albanian LEK (1 EUR ≈ 100 LEK)",
+        "currency": "Prices can be paid in EUR or Albanian LEK (1 EUR ≈ 98-99 LEK as of 2025)",
         "uberStatus": "Uber is NOT available in Albania as of 2025",
         "alternativeApps": ["Patoko", "Speed Taxi", "Bee Taxi", "Clust"],
         "busSchedule": "Luna bus runs 24/7, departing every hour on the hour",
-        "officialTaxiNote": "Only use licensed yellow taxis with Auto Holiday Albania logo at airport",
         "trafficWarning": "Allow extra time during rush hours (7-9:30am, 4-6:30pm)"
       }
     },
@@ -226,32 +220,32 @@
         {
           "icon": { "family": "MaterialIcons", "name": "directions-car" },
           "title": "Speed Limits",
-          "tip": "Speed limits: 50 km/h city, 90 km/h highway, 130 km/h motorway"
+          "tip": "40 km/h in urban areas, 80-90 km/h on main roads, 110 km/h on motorways"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "local-gas-station" },
           "title": "Gas Stations",
-          "tip": "Gas stations: Kastrati, Tamoil, Shell - around 160-180 ALL/liter"
+          "tip": "Prices around 173 ALL/liter for diesel, ~200-220 ALL/liter for gasoline (2025 prices)"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "toll" },
           "title": "Tolls",
-          "tip": "Tolls: None currently, but new highway sections may introduce them"
+          "tip": "Only A1 highway (Durres-Kosovo) has tolls - one toll booth near Kalimash Tunnel"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "navigation" },
           "title": "Navigation",
-          "tip": "GPS: Google Maps works well, offline maps recommended for mountains"
+          "tip": "Google Maps works well in 2025, offline maps recommended for remote mountain areas"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "construction" },
           "title": "Road Conditions",
-          "tip": "Road conditions: Good in cities, be cautious in rural/mountain areas"
+          "tip": "Excellent on main highways, yellow roads good, avoid white roads (dirt tracks)"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "security" },
           "title": "Police Checks",
-          "tip": "Police: Random checks common, always carry license, registration, insurance"
+          "tip": "Frequent speed cameras and traffic police. Always carry license, registration, insurance"
         }
       ],
       "trafficRules": [
@@ -307,50 +301,42 @@
           "tip": "Roads can be slippery when wet - reduce speed during rain"
         }
       ],
-      "parkingZones": [
+      "carRentals": [
         {
-          "area": "Tirana Center",
-          "type": "Blue Zone",
-          "price": "100 ALL/hour",
-          "availability": "Limited, very busy"
+          "company": "Europcar Albania",
+          "location": "Airport Terminal & City Centers",
+          "contact": "+355 4 2381 051",
+          "details": "Counter in terminal, flexible rental options, available nationwide"
         },
         {
-          "area": "Blloku District",
-          "type": "Paid Parking",
-          "price": "150-200 ALL/hour",
-          "availability": "Moderate"
+          "company": "Hertz Albania",
+          "location": "Airport Terminal",
+          "contact": "+355 4 2381 718",
+          "details": "Located in terminal building"
         },
         {
-          "area": "Shopping Malls",
-          "type": "Free/Paid",
-          "price": "First 2h free",
-          "availability": "Good"
+          "company": "Avis Albania",
+          "location": "Airport Terminal & City Centers",
+          "contact": "+355 4 2274 947",
+          "details": "Terminal location, international brand, available nationwide"
         },
         {
-          "area": "Hotels",
-          "type": "Private",
-          "price": "500-1000 ALL/night",
-          "availability": "Reserved"
-        }
-      ],
-      "carRentalCompanies": [
-        {
-          "name": "Sixt",
-          "type": "International",
-          "locations": ["Airports", "City centers"],
-          "contact": "Available nationwide"
+          "company": "Enterprise Rent-A-Car",
+          "location": "Airport Terminal",
+          "contact": "+355 67 600 0900",
+          "details": "24/7 service, after-hours pickup available (€15 fee)"
         },
         {
-          "name": "Europcar",
-          "type": "International",
-          "locations": ["Airports", "City centers"],
-          "contact": "Available nationwide"
+          "company": "SIXT",
+          "location": "Airport Terminal & City Centers",
+          "contact": "Available at terminal",
+          "details": "Like-new vehicles, accepts debit cards and Amex, available nationwide"
         },
         {
-          "name": "Avis",
-          "type": "International",
-          "locations": ["Airports", "City centers"],
-          "contact": "Available nationwide"
+          "company": "Albania Airport Rent A Car",
+          "location": "Airport Terminal & Parking",
+          "contact": "Available at terminal",
+          "details": "Local company, 1200+ vehicle fleet, established 2013"
         }
       ],
       "carRentalPlatforms": [
@@ -494,54 +480,7 @@
           "notes": "Some hotels allow non-guests for small fee"
         }
       ],
-      "drivingTips": [
-        {
-          "icon": { "family": "MaterialIcons", "name": "directions-car" },
-          "title": "Speed Limits",
-          "tip": "40-50 km/h in cities, 80-90 km/h on main roads, 110 km/h on motorways (A1: 130 km/h)"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "local-gas-station" },
-          "title": "Gas Stations",
-          "tip": "Prices around 173 ALL/liter for diesel, ~200-220 ALL/liter for gasoline (2025 prices)"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "toll" },
-          "title": "Tolls",
-          "tip": "Only A1 highway (Durres-Kosovo) has tolls - one toll booth near Kalimash Tunnel"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "navigation" },
-          "title": "Navigation",
-          "tip": "Google Maps works well in 2025, offline maps recommended for remote mountain areas"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "construction" },
-          "title": "Road Conditions",
-          "tip": "Excellent on main highways, yellow roads good, avoid white roads (dirt tracks)"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "security" },
-          "title": "Police Checks",
-          "tip": "Frequent speed cameras and traffic police. Always carry license, registration, insurance"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "warning" },
-          "title": "Driving Style",
-          "tip": "Locals drive aggressively, use horns frequently. Be defensive, expect animals on roads"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "attach-money" },
-          "title": "Payment Methods",
-          "tip": "Parking SMS payments require Albanian phone number. Carry cash for tolls and parking"
-        }
-      ],
       "secretSpots": [
-        {
-          "icon": { "family": "MaterialIcons", "name": "train" },
-          "title": "Park & Ride",
-          "tip": "Use TEG mall parking (free weekends) + bus Line 8A or 2 to city center"
-        },
         {
           "icon": { "family": "MaterialIcons", "name": "schedule" },
           "title": "Early Bird",
@@ -969,34 +908,28 @@
       },
       "exchangeOffices": [
         {
-          "name": "Union Exchange",
-          "location": "Skanderbeg Square",
-          "rate": "Best rates in city",
+          "name": "Unionnet by Western Union Exchange",
+          "location": "Multiple locations",
+          "rate": "Great Rates",
           "hours": "8:00-20:00"
         },
         {
-          "name": "Western Union",
+          "name": "Iliria'98 Exchange",
           "location": "Multiple locations",
-          "rate": "Standard + transfers",
+          "rate": "Great Rates",
           "hours": "9:00-18:00"
-        },
-        {
-          "name": "Credins Bank",
-          "location": "Banking centers",
-          "rate": "Official bank rates",
-          "hours": "8:30-16:00"
         }
       ],
       "exchangeGuidelines": {
         "bestPlaces": "Banks and licensed exchange offices",
         "recommendedCurrencies": ["EUR", "USD", "GBP"],
         "avoidLocations": ["Airports", "Hotels", "Street vendors"],
-        "importantNote": "Lek can only be exchanged within Albania"
+        "importantNote": "Lek can only be exchanged within Albania and possibly Kosovo"
       },
       "atmInformation": {
         "availability": "Common in larger cities like Tirana, Durrës, Vlorë",
         "ruralAccess": "Limited in smaller towns and rural areas",
-        "recommendation": "Withdraw Lek directly from ATMs for best rates",
+        "recommendation": "Withdraw in Euro and then exchange to Lek for better rates",
         "bankingTip": "Check international transaction fees with your bank before traveling"
       },
       "paymentMethods": {
@@ -1036,7 +969,7 @@
         {
           "icon": { "family": "MaterialIcons", "name": "info" },
           "title": "Currency Confusion",
-          "tip": "Ask if prices are quoted in 'new' or 'old' Lek to avoid confusion"
+          "tip": "Currency was revalued: 10 new Lek = 100 old Lek. Some vendors may still quote in old Lek. Ask if prices are quoted in 'new' or 'old' Lek to avoid confusion"
         }
       ],
       "travelTips": [
@@ -1078,19 +1011,9 @@
           "location": "Kafe Flora - one of Albania's oldest coffee shops from 1972, immortalized in song, authentic atmosphere"
         },
         {
-          "icon": { "family": "MaterialIcons", "name": "beach-access" },
-          "secret": "Hidden beach access in Himara",
-          "location": "Livadhi Beach - 45-minute scenic hike from Himara village or drive down dirt road from SH8 highway"
-        },
-        {
           "icon": { "family": "MaterialIcons", "name": "museum" },
           "secret": "Free museum days",
           "location": "National museums have specific free weekdays - ask at reception for current schedule"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "event" },
-          "secret": "Local cultural events",
-          "location": "Check Oda Theater & Tirana Art Gallery for free cultural events and performances"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "wb-sunny" },
@@ -1112,25 +1035,7 @@
         {
           "icon": { "family": "MaterialIcons", "name": "shopping-cart" },
           "tip": "Smart grocery shopping",
-          "detail": "Conad and Carrefour offer better prices than small shops, open until 22:00"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "directions-bus" },
-          "tip": "Local transport savings",
-          "detail": "City buses cost 40 ALL (€0.35), much cheaper than taxis. Use Speed Taxi App for fair taxi pricing when needed"
-        },
-        {
-          "icon": {
-            "family": "MaterialIcons",
-            "name": "account-balance-wallet"
-          },
-          "tip": "ATM fees warning",
-          "detail": "All Albanian banks charge foreign card fees - ABI Bank has lowest at 500 LEK (€5), others charge 650-1190 LEK"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "euro" },
-          "tip": "Cash is essential",
-          "detail": "Bring cash for accommodation, markets, and buses. Many places don't accept cards, especially outside Tirana"
+          "detail": "Small family-run grocery usually have cheaper prices than well-established supermarket chains like Conad and Carrefour"
         }
       ]
     },
@@ -1220,7 +1125,10 @@
       ],
       "naturalHazards": [
         {
-          "icon": { "family": "MaterialIcons", "name": "earthquake" },
+          "icon": {
+            "family": "MaterialCommunityIcons",
+            "name": "earth-arrow-right"
+          },
           "title": "Earthquakes",
           "detail": "Occasional earthquakes occur. Follow local safety protocols"
         },
@@ -1254,12 +1162,12 @@
           "route": "Bari - Durrës",
           "origin": "Bari, Italy",
           "destination": "Durrës, Albania",
-          "duration": "9 hours",
-          "operators": ["GNV", "Ventouris Ferries", "Agemar"],
-          "frequency": "Daily",
+          "duration": "8-10 hours",
+          "operators": ["GNV", "Ventouris Ferries", "Adria Ferries"],
+          "frequency": "Up to 3 daily sailings",
           "season": "Year-round",
           "prices": {
-            "passenger": "€60",
+            "passenger": "€46",
             "car": "€90-€110"
           }
         },
@@ -1267,12 +1175,12 @@
           "route": "Brindisi - Vlora",
           "origin": "Brindisi, Italy",
           "destination": "Vlora, Albania",
-          "duration": "4.5-7 hours",
-          "operators": ["Agoudimos Line"],
-          "frequency": "3-4 times per week",
-          "season": "Seasonal (April-October)",
+          "duration": "5.5-7.5 hours",
+          "operators": ["Star Lines"],
+          "frequency": "Up to 3 daily crossings",
+          "season": "Most months of the year",
           "prices": {
-            "passenger": "€40"
+            "passenger": "€50"
           }
         },
         {
@@ -1288,12 +1196,16 @@
           "route": "Corfu - Sarandë",
           "origin": "Corfu, Greece",
           "destination": "Sarandë, Albania",
-          "duration": "30 minutes",
-          "operators": ["Finikas Lines", "Petrakis Lines"],
-          "frequency": "Multiple daily",
+          "duration": "30 minutes - 1 hour 40 minutes",
+          "operators": [
+            "Finikas Lines",
+            "Albanian Luxury Ferries",
+            "Ionian Seaways"
+          ],
+          "frequency": "Up to 30 daily crossings (summer), minimum 1 daily (off-season)",
           "season": "Year-round",
           "prices": {
-            "passenger": "€15"
+            "passenger": "€20"
           }
         },
         {
@@ -1352,12 +1264,6 @@
           "website": "https://agemar.it"
         },
         {
-          "name": "Skenderbeg Lines",
-          "routes": ["Brindisi - Vlora"],
-          "type": "Albanian operator",
-          "website": "https://skenderbeglines.com"
-        },
-        {
           "name": "Agoudimos Line",
           "routes": ["Brindisi - Vlora"],
           "type": "Greek operator",
@@ -1368,12 +1274,6 @@
           "routes": ["Corfu - Sarandë", "Corfu - Himarë"],
           "type": "Greek operator",
           "website": "https://finikaslines.com"
-        },
-        {
-          "name": "Petrakis Lines",
-          "routes": ["Corfu - Sarandë"],
-          "type": "Greek operator",
-          "website": "https://petrakislines.gr"
         }
       ],
       "bookingTips": [
@@ -1565,14 +1465,15 @@
         },
         {
           "name": "Saily",
-          "category": "Secure Connection",
+          "category": "Best Overall",
           "price": "$3.99 per GB",
           "priceEuro": "€3.75 per GB",
           "website": "https://saily.com",
           "features": [
             "Developed by NordVPN creators",
             "4G/5G connection",
-            "Flexible data options"
+            "Competitive pricing",
+            "Reliable coverage"
           ],
           "plans": [
             {
@@ -1581,25 +1482,31 @@
               "duration": "7 days"
             },
             {
-              "data": "5GB",
-              "price": "$19.95",
+              "data": "20GB",
+              "price": "$35.99",
               "duration": "30 days"
             }
           ],
-          "pros": ["Affordable pricing", "Secure browsing", "Trusted brand"],
-          "cons": ["Data-only plan", "Limited plan variety"],
-          "bestFor": "Privacy-conscious users"
+          "pros": [
+            "Best overall option",
+            "Competitive pricing",
+            "Reliable coverage",
+            "Easy setup"
+          ],
+          "cons": ["Data-only plan"],
+          "bestFor": "Most travelers - best overall choice"
         },
         {
           "name": "Airalo",
-          "category": "Multi-Country",
+          "category": "Budget-Friendly Choice",
           "price": "$4.50 per GB",
           "priceEuro": "€4.25 per GB",
           "website": "https://airalo.com",
           "features": [
             "Multi-country coverage",
             "Established provider",
-            "Wide device compatibility"
+            "Wide device compatibility",
+            "Strong local coverage with Hej Telecom"
           ],
           "plans": [
             {
@@ -1608,18 +1515,19 @@
               "duration": "7 days"
             },
             {
-              "data": "5GB",
-              "price": "$22.50",
+              "data": "10GB",
+              "price": "$26.00",
               "duration": "30 days"
             }
           ],
           "pros": [
-            "Multi-country plans",
+            "Budget-friendly pricing",
             "Reliable service",
-            "Wide compatibility"
+            "Wide compatibility",
+            "Multi-country plans"
           ],
-          "cons": ["Higher pricing", "Limited Albania-specific features"],
-          "bestFor": "Multi-destination travelers"
+          "cons": ["Limited Albania-specific features"],
+          "bestFor": "Budget-conscious multi-destination travelers"
         }
       ],
       "setupInstructions": [
@@ -1717,14 +1625,16 @@
         "highestPeak": "Korab (2764m)"
       },
       "tourismGrowth": {
-        "years": ["2018", "2019", "2020", "2021", "2022", "2023"],
-        "visitors": [5900000, 6400000, 2100000, 3200000, 5800000, 7100000],
-        "growth": [12.8, 8.5, -67.2, 52.4, 81.3, 22.4]
+        "years": ["2018", "2019", "2020", "2021", "2022", "2023", "2024"],
+        "visitors": [
+          5900000, 6400000, 2100000, 3200000, 5800000, 10000000, 11700000
+        ],
+        "growth": [12.8, 8.5, -67.2, 52.4, 81.3, 72.4, 17.0]
       },
       "economicData": {
         "gdpGrowth": {
-          "years": ["2019", "2020", "2021", "2022", "2023"],
-          "percentage": [2.2, -3.3, 8.9, 4.8, 3.5]
+          "years": ["2019", "2020", "2021", "2022", "2023", "2024", "2025"],
+          "percentage": [2.2, -3.3, 8.9, 4.8, 3.5, 3.3, 3.4]
         },
         "tourismRevenue": {
           "years": ["2019", "2020", "2021", "2022", "2023"],
@@ -1801,17 +1711,39 @@
       },
       "funFacts": [
         {
+          "icon": { "family": "MaterialIcons", "name": "star" },
+          "title": "Affordable Travel",
+          "description": "Experience luxury at budget prices - Albania offers incredible value for money"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "people" },
+          "title": "Warm Hospitality",
+          "description": "Albanian people are known for their incredible hospitality and welcoming nature"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "landscape" },
+          "title": "Diverse Landscapes",
+          "description": "From beaches to mountains - experience incredible diversity in a compact country"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "event" },
+          "title": "Year-Round Destination",
+          "description": "Perfect climate for visiting any time - beaches in summer, mountains year-round"
+        }
+      ],
+      "extraFunFacts": [
+        {
           "icon": { "family": "MaterialIcons", "name": "castle" },
           "title": "Bunker Paradise",
           "description": "Albania has over 700,000 concrete bunkers built during communist era - that's 1 bunker for every 4 people!"
         },
         {
-          "icon": { "family": "MaterialIcons", "name": "handshake" },
-          "title": "Sacred Hospitality",
-          "description": "Albanians follow 'Besa' - a code of honor that makes harming a guest the ultimate dishonor. Your safety is literally sacred."
+          "icon": { "family": "MaterialIcons", "name": "people" },
+          "title": "Warm Hospitality",
+          "description": "Albanian people are known for their incredible hospitality and welcoming nature"
         },
         {
-          "icon": { "family": "MaterialIcons", "name": "pets" },
+          "icon": { "family": "MaterialCommunityIcons", "name": "bird" },
           "title": "Land of Eagles",
           "description": "Albania means 'Land of Eagles' in Albanian. The double-headed eagle on their flag represents the north and south of the country."
         },
@@ -1819,6 +1751,11 @@
           "icon": { "family": "MaterialIcons", "name": "public" },
           "title": "Religious Harmony",
           "description": "Albania is the only European country with a Muslim majority, yet it's one of the most religiously tolerant nations in the world."
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "travel-explore" },
+          "title": "Global Albanian Diaspora",
+          "description": "More Albanians live outside Albania than inside! With over 7 million Albanians worldwide and only 2.8 million in Albania itself, the diaspora spans across Italy, Greece, US, Germany, and beyond."
         }
       ]
     },
@@ -1848,7 +1785,7 @@
             "Multilingual online platform"
           ],
           "websiteUrl": "https://www.conadalbania.al/",
-          "averagePriceRange": "Medium to High",
+          "averagePriceRange": "Prices Medium to High",
           "bestForShopping": [
             "Groceries",
             "Italian products",
@@ -1879,7 +1816,7 @@
             "Modern store formats",
             "Strategic locations"
           ],
-          "averagePriceRange": "Medium",
+          "averagePriceRange": "Prices Medium",
           "bestForShopping": [
             "Groceries",
             "Fresh products",
@@ -1910,7 +1847,7 @@
             "Strategic location coverage",
             "Wholesale and retail options"
           ],
-          "averagePriceRange": "Medium",
+          "averagePriceRange": "Prices Medium",
           "bestForShopping": [
             "Bulk shopping",
             "Groceries",
@@ -1943,7 +1880,7 @@
             "Recently renovated facilities",
             "Traditional Albanian products"
           ],
-          "averagePriceRange": "Low to Medium",
+          "averagePriceRange": "Prices Low to Medium",
           "bestForShopping": [
             "Fresh produce",
             "Local products",
@@ -1974,7 +1911,7 @@
             "Central pedestrianized location",
             "Household items and toys"
           ],
-          "averagePriceRange": "Low",
+          "averagePriceRange": "Prices Low",
           "bestForShopping": [
             "Affordable clothing",
             "Household items",
@@ -2005,43 +1942,12 @@
             "Household linens available",
             "Haggling is common practice"
           ],
-          "averagePriceRange": "Low to Medium",
+          "averagePriceRange": "Prices Low to Medium",
           "bestForShopping": [
             "New clothes",
             "Fabrics",
             "Household linens",
             "Affordable fashion"
-          ]
-        },
-        {
-          "id": "medrese-secondhand",
-          "name": "Medrese Second-Hand Market",
-          "description": "Large second-hand clothing market behind the main indoor market",
-          "highlights": [
-            "Second-hand clothing",
-            "Very affordable prices",
-            "Large selection",
-            "Treasure hunting"
-          ],
-          "location": "Behind Medrese indoor market",
-          "address": "Behind main Medrese market, Tirana",
-          "operatingHours": "Morning hours, variable",
-          "parkingAvailable": false,
-          "publicTransport": "Same as main Medrese market",
-          "shortDescription": "Large second-hand market for vintage and used clothing",
-          "keyFeatures": [
-            "Extensive second-hand selection",
-            "No fixed pricing system",
-            "Haggling is expected",
-            "Vintage and unique finds",
-            "Requires time to browse"
-          ],
-          "averagePriceRange": "Very Low to Low",
-          "bestForShopping": [
-            "Vintage clothing",
-            "Unique finds",
-            "Very affordable fashion",
-            "Authentic experience"
           ]
         }
       ],
@@ -2069,7 +1975,7 @@
             "No haggling required",
             "Wide product variety"
           ],
-          "averagePriceRange": "Low to Medium",
+          "averagePriceRange": "Prices Low to Medium",
           "bestForShopping": [
             "Brand clothing",
             "Household linens",
@@ -2121,19 +2027,19 @@
         ],
         "recyclingTips": [
           {
-            "icon": { "family": "MaterialIcons", "name": "recycling" },
-            "title": "Plastic Bottles",
-            "tip": "Some supermarkets have bottle return machines - look for signs at entrances."
+            "icon": { "family": "MaterialIcons", "name": "wb-sunny" },
+            "title": "Best sunset viewpoint",
+            "tip": "Dajti Express cable car - go 1 hour before sunset for stunning views with fewer crowds"
           },
           {
             "icon": { "family": "MaterialIcons", "name": "delete" },
             "title": "General Waste",
-            "tip": "Put household waste in provided bins or bags outside your accommodation."
+            "tip": "Put household waste in provided bins or bags outside your accommodation, trash separation is recommended but not enforced."
           },
           {
             "icon": { "family": "MaterialIcons", "name": "eco" },
-            "title": "Eco-Friendly",
-            "tip": "Bring reusable water bottles - tap water is safe to drink in most urban areas."
+            "title": "Water Safety",
+            "tip": "Bring your own water bottles - tap water is generally not safe to drink in most urban areas."
           }
         ]
       },
@@ -2141,8 +2047,7 @@
         {
           "icon": { "family": "MaterialIcons", "name": "local-pharmacy" },
           "title": "Pharmacies (Farmaci)",
-          "description": "Open daily 8:00-20:00, some 24/7 in city center. No prescription needed for basic medicines.",
-          "locations": "Found on every main street"
+          "description": "Open daily 8:00-20:00, some 24/7 in city center. No prescription needed for basic medicines."
         },
         {
           "icon": {
@@ -2150,22 +2055,127 @@
             "name": "local-laundry-service"
           },
           "title": "Laundromats",
-          "description": "Self-service laundries available in city center. Hotels often provide laundry service.",
-          "tip": "Ask hotel reception for nearest laundromat location"
+          "description": "Self-service laundries available in city center. Hotels often provide laundry service."
         },
         {
           "icon": { "family": "MaterialIcons", "name": "local-post-office" },
           "title": "Post Office (Posta Shqiptare)",
-          "description": "Open Mon-Fri 8:00-16:00, Sat 8:00-12:00. Main post office at Rruga Dëshmorët e 4 Shkurtit.",
-          "services": "Mail, packages, money transfers, bill payments"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "account-balance" },
-          "title": "Banks & ATMs",
-          "description": "Banks open Mon-Fri 8:30-16:00. ATMs widely available. Withdraw LEK directly for best rates.",
-          "tip": "ABI Bank has lowest ATM fees for foreign cards"
+          "description": "Open Mon-Fri 8:00-16:00, Sat 8:00-12:00. Main post office at Rruga Dëshmorët e 4 Shkurtit."
         }
-      ]
+      ],
+      "climate": {
+        "seasonalWeather": [
+          {
+            "id": "spring",
+            "season": "Spring (March-May)",
+            "temperature": "15-25°C (59-77°F)",
+            "conditions": "Mild and pleasant with occasional rain",
+            "highlights": [
+              "Perfect for hiking and outdoor activities",
+              "Blooming countryside and comfortable temperatures",
+              "Moderate rainfall, bring light rain jacket"
+            ],
+            "icon": { "family": "MaterialIcons", "name": "local-florist" }
+          },
+          {
+            "id": "summer",
+            "season": "Summer (June-August)",
+            "temperature": "25-35°C (77-95°F)",
+            "conditions": "Hot and dry with intense sunshine",
+            "highlights": [
+              "Beach season with crystal clear waters",
+              "Very hot inland, cooler by the coast",
+              "Little to no rainfall, perfect for beach activities"
+            ],
+            "icon": { "family": "MaterialIcons", "name": "wb-sunny" }
+          },
+          {
+            "id": "autumn",
+            "season": "Autumn (September-November)",
+            "temperature": "20-28°C (68-82°F)",
+            "conditions": "Warm with increasing rainfall",
+            "highlights": [
+              "Extended beach season through September",
+              "Comfortable temperatures for city exploration",
+              "Harvest season with great local produce"
+            ],
+            "icon": { "family": "MaterialIcons", "name": "eco" }
+          },
+          {
+            "id": "winter",
+            "season": "Winter (December-February)",
+            "temperature": "5-15°C (41-59°F)",
+            "conditions": "Mild and wet with occasional snow",
+            "highlights": [
+              "Mild coastal winters, snow in mountains",
+              "Fewer crowds and lower prices",
+              "Great for cultural activities and museums"
+            ],
+            "icon": { "family": "MaterialIcons", "name": "ac-unit" }
+          }
+        ],
+        "airConditioning": [
+          {
+            "icon": { "family": "MaterialIcons", "name": "hvac" },
+            "title": "Hotel AC Availability",
+            "description": "Most hotels have AC, but older accommodations might not. Always check before booking. Usually included in room rate"
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "house" },
+            "title": "Apartment Rentals",
+            "description": "Airbnb and private rentals often have split AC units. Confirm availability before booking. Electricity costs €0.08-0.12/kWh."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "store" },
+            "title": "Public Spaces",
+            "description": "Shopping malls, restaurants, and cafés are well air-conditioned during summer."
+          }
+        ],
+        "clothingGuide": [
+          {
+            "icon": { "family": "MaterialIcons", "name": "checkroom" },
+            "title": "Summer Clothing",
+            "tip": "Light, breathable fabrics. Bring sun hat and sunglasses. Pack modest clothes for religious sites."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "umbrella" },
+            "title": "Spring/Autumn",
+            "tip": "Layered clothing recommended. Light rain jacket essential for spring and autumn visits."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "fireplace" },
+            "title": "Winter Clothing",
+            "tip": "Warm layers for mountains, lighter clothes for coast. Waterproof jacket recommended."
+          }
+        ],
+        "weatherTips": [
+          {
+            "icon": { "family": "MaterialIcons", "name": "wb-sunny" },
+            "title": "Sun Protection",
+            "tip": "Albanian sun is intense, especially in summer. SPF 30+ sunscreen essential, reapply frequently."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "water-drop" },
+            "title": "Summer Hydration",
+            "tip": "Drink plenty of water during hot summer months. Carry water bottle, especially for hiking."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "schedule" },
+            "title": "Best Times to Visit",
+            "tip": "May-June and September-October offer perfect weather. July-August are hottest but best for beaches."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "cloud" },
+            "title": "Weather Apps",
+            "tip": "Use local weather apps or international ones like Weather.com for accurate forecasts."
+          },
+          {
+            "icon": { "family": "MaterialIcons", "name": "landscape" },
+            "title": "Mountain Weather",
+            "tip": "Mountain weather changes quickly. Bring extra layers even in summer for altitude changes."
+          }
+        ]
+      }
     },
     "history": [
       {

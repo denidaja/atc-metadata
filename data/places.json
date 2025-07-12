@@ -10,7 +10,17 @@
         "description": "Discover Albania's most captivating cities with unique character",
         "dataSource": "cities",
         "backgroundImageUrl": "https://metro.co.uk/wp-content/uploads/2025/04/GettyImages-2148035338-15a6.jpg?quality=90&strip=all&w=646",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Skip the tourist restaurants in main squares - locals eat in small family tavernas on side streets for half the price and authentic flavors."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Use local buses instead of taxis - they run frequently and cost 40 lek vs 500+ lek. Ask locals which bus number goes to your destination."
+          }
+        ]
       },
       {
         "id": "unesco",
@@ -19,7 +29,17 @@
         "description": "World Heritage sites showcasing ancient history and wonders",
         "dataSource": "heritage-sites",
         "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npiLwF0KroWLLU5zJa3-zgkkLvKLIp1__y9ANW-wVFUleSeidJMcK-IT52_w15R0EE8uQxnYcPB0P77Joh63-pd0i6wwL_c7igG1o2-a0KBOyVjVYlYHsRzTQBPu2bLs4Y6aLI_=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Visit early morning or late afternoon to avoid crowds and get the best photos without tour groups. Most sites open at 8 AM when lighting is perfect."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Hire local guides at the entrance - they're certified, know hidden stories, and cost less than tour company guides. Negotiate the price beforehand."
+          }
+        ]
       },
       {
         "id": "beaches",
@@ -28,7 +48,17 @@
         "description": "Hidden beaches along the stunning Albanian Riviera coastline",
         "dataSource": "beaches",
         "backgroundImageUrl": "https://www.ourbigjourney.com/wp-content/uploads/2021/11/IMG-0087-2.jpg",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "You don't need expensive sunbeds - look for public beach areas nearby where locals bring their own food and gear. It's perfectly normal and much cheaper!"
+          },
+          {
+            "title": "Local Secret",
+            "message": "Visit beaches early morning (before 9 AM) or late afternoon (after 5 PM) - you'll have them almost to yourself and parking is free."
+          }
+        ]
       },
       {
         "id": "alps",
@@ -37,7 +67,17 @@
         "description": "Dramatic peaks and pristine valleys perfect for adventure",
         "dataSource": "alps",
         "backgroundImageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2021/10/Theth07_AlbaniaVisit.com_.jpg",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Bring cash - mountain villages don't accept cards, and locals prefer direct payment for guesthouses. ATMs are rare past major towns."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Pack layers even in summer - mountain weather changes quickly. Locals always carry a light jacket, even on warm days."
+          }
+        ]
       },
       {
         "id": "parks",
@@ -46,7 +86,17 @@
         "description": "Spectacular protected areas from alpine to coastal landscapes",
         "dataSource": "national-parks",
         "backgroundImageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Many trails have unmarked local shortcuts that guides use - ask at village cafés for insider route tips and avoid the crowded main paths."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Entry fees are often waived for locals - if you speak basic Albanian or have local friends, they can help you get discounted or free entry."
+          }
+        ]
       },
       {
         "id": "castles",
@@ -55,7 +105,17 @@
         "description": "Medieval fortresses with legendary stories and views",
         "dataSource": "castles",
         "backgroundImageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2023/04/Kruja-1024x646.jpeg?strip=all&lossy=1&ssl=1",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Castle entrances often have unmarked side paths with better views and fewer tourists. Local shepherds know the best photo spots - just ask politely."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Photography inside some castles is restricted, but locals know which areas allow photos. Ask the guards - they're usually friendly and helpful."
+          }
+        ]
       }
     ],
     "defaultMessage": {
@@ -69,6 +129,10 @@
         "id": "place_1",
         "name": "Tirana",
         "description": "Albania's vibrant capital city blending modern architecture with Ottoman history",
+        "coordinates": {
+          "latitude": 41.3275,
+          "longitude": 19.8187
+        },
         "highlights": [
           "Skanderbeg Square",
           "National Historical Museum",
@@ -95,6 +159,10 @@
         "id": "place_2",
         "name": "Gjirokastër",
         "description": "UNESCO World Heritage stone city with well-preserved Ottoman architecture",
+        "coordinates": {
+          "latitude": 40.0758,
+          "longitude": 20.1392
+        },
         "highlights": [
           "Gjirokastër Castle",
           "Stone houses",
@@ -121,6 +189,10 @@
         "id": "place_3",
         "name": "Berat",
         "description": "The 'City of a Thousand Windows' with beautiful Ottoman and Byzantine architecture",
+        "coordinates": {
+          "latitude": 40.7058,
+          "longitude": 19.9522
+        },
         "highlights": [
           "Berat Castle",
           "Onufri Museum",
@@ -153,6 +225,10 @@
         "id": "place_4",
         "name": "Sarandë",
         "description": "Coastal resort town known as the unofficial capital of the Albanian Riviera",
+        "coordinates": {
+          "latitude": 39.8754,
+          "longitude": 19.9928
+        },
         "highlights": [
           "Blue Eye Spring",
           "Butrint National Park",
@@ -185,6 +261,10 @@
         "id": "place_5",
         "name": "Shkodër",
         "description": "Northern Albania's cultural capital with rich history and proximity to the Albanian Alps",
+        "coordinates": {
+          "latitude": 42.0683,
+          "longitude": 19.5126
+        },
         "highlights": [
           "Rozafa Castle",
           "Mes Bridge",
@@ -211,6 +291,10 @@
         "id": "place_6",
         "name": "Vlorë",
         "description": "Historic port city where Albania declared independence, with beautiful beaches",
+        "coordinates": {
+          "latitude": 40.4686,
+          "longitude": 19.4898
+        },
         "highlights": [
           "Independence Monument",
           "Kaninë Castle",
@@ -243,6 +327,10 @@
         "id": "place_7",
         "name": "Pogradec",
         "description": "Lakeside town on the shores of ancient Lake Ohrid with pristine nature and history",
+        "coordinates": {
+          "latitude": 40.9022,
+          "longitude": 20.6525
+        },
         "highlights": [
           "Lake Ohrid",
           "Driloni National Park",

@@ -10,7 +10,17 @@
         "description": "Cozy cafés and brunch spots with Albanian coffee culture",
         "dataSource": "coffee-shops",
         "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npP30G-7-lc1f7aAivfLcB_K9KkOqzW_RzXKfYwIj8PKBYe34QKnXdIU8b4gcumkTkKzvnBS2qodjUNFMqSFxNv0hDKSjUcxYQMu-xBikzCaKyi5ZK7bLvsz5HRll59bFrGBvETUQ=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Order 'kafe turke' instead of espresso - it's stronger, cheaper, and what locals actually drink. Ask for it 'pa sheqer' (without sugar) to taste it authentically."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Locals have breakfast around 10-11 AM, not early morning. Join them for 'byrek' (savory pastry) and coffee - it's the social heart of Albanian mornings."
+          }
+        ]
       },
       {
         "id": "restaurants",
@@ -19,7 +29,17 @@
         "description": "From traditional Albanian cuisine to international favorites",
         "dataSource": "restaurants",
         "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRQ0aDqfdH-K8yDMail0GbbOJg6CYICO8wc2PD=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Ask for the 'menu of the day' - locals get better prices on unlisted daily specials not shown to tourists. It's usually the freshest and most authentic option."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Tipping 10% is standard but not mandatory. Round up to the nearest 100 lek or leave small change - locals don't tip excessively like in tourist areas."
+          }
+        ]
       },
       {
         "id": "bars",
@@ -28,7 +48,17 @@
         "description": "Local bars, craft beer, and traditional raki spots",
         "dataSource": "bars",
         "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCWFn7XfIAK6fASfIYMyqvuh09EMdiULLnN6IRD_Ku-X8I6e0_cgiA8HhLq1b06-ZH3NfzGYk-0Bh-wOYZoBOIUOdkGJEGS40g_GtkJdPRmHEpcnmovJEkT4nq9J4IerS7aJBsHg=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Pre-drink at neighborhood bars before hitting tourist spots - locals pay 1/3 the price for the same drinks. Look for places with no English menus for the best deals."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Try 'raki' with locals - it's Albania's national spirit. Order it neat, never mixed, and always accept when offered. It's a sign of friendship and respect."
+          }
+        ]
       },
       {
         "id": "quick",
@@ -37,7 +67,17 @@
         "description": "Fast food, street food, bakeries and grab-and-go options",
         "dataSource": "bakeries-qsr",
         "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAZvyVO_6QcTk72GgRX0Yc6bbc2UCF_ZMaNF5y=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"]
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Street vendors near bus stations have the freshest burek - locals queue there every morning around 7-8 AM when it's hot from the oven."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Always carry small bills (20, 50, 100 lek notes) - street vendors often don't have change for large bills, and locals know to come prepared."
+          }
+        ]
       }
     ],
     "defaultMessage": {
@@ -414,7 +454,7 @@
       },
       {
         "id": "colonial-cocktails",
-        "name": "Colonial Cocktails Academy Tirana",
+        "name": "Colonial Cocktails",
         "shortDescription": "Educational cocktail bar offering mixology classes, premium drinks, and interactive bartending experiences.",
         "location": "City Center, Tirana",
         "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrXELJ3wCe2JyWJXrbkjo68jL8CdR1D8WXQXdirmAmbHICSlFYZ5Hc4Krh9RgyqJCoX-lvd5xpsgJmO9m_rPrD6EuIa59SkFoV2DETdxu5c-daq9XOriT5h0e9Ypy6wb1BtQSU=s1360-w1360-h1020-rw",

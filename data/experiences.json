@@ -9,9 +9,19 @@
         "icon": "",
         "description": "Movies, pools, escape rooms, and unique experiences",
         "dataSource": "entertainment",
-        "backgroundImageUrl": "https://images.unsplash.com/photo-1489599162163-c067394c35d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"],
-        "count": 0
+        "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipN055CJs3WcNv9-96QgEan92EXq5a-1a_8_SbAA=s1360-w1360-h1020-rw",
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "count": 0,
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Visit swimming pools and thermal baths on weekday mornings - locals get discounted rates and it's much less crowded than weekends."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Book cinema tickets online or call ahead - locals reserve popular movies in advance. Evening shows (after 7 PM) are when families go together."
+          }
+        ]
       },
       {
         "id": "activities",
@@ -19,9 +29,19 @@
         "icon": "",
         "description": "Rock climbing, rafting, cycling, and outdoor experiences",
         "dataSource": "experiences",
-        "backgroundImageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"],
-        "count": 0
+        "backgroundImageUrl": "https://cdn1.matadornetwork.com/blogs/1/2021/11/LAKESIDE-12.jpg",
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "count": 0,
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Book hiking guides through local guesthouses, not tour companies - you'll get authentic routes, better prices, and guides who know hidden spots."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Best hiking weather is April-June and September-October. Locals avoid July-August heat and winter snow. Spring brings wildflowers that locals love to photograph."
+          }
+        ]
       },
       {
         "id": "shopping",
@@ -30,8 +50,18 @@
         "description": "Malls, markets, and unique shopping experiences",
         "dataSource": "shopping",
         "backgroundImageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-        "gradientColors": ["rgba(0,0,0,0.6)", "rgba(0,0,0,0.9)"],
-        "count": 0
+        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "count": 0,
+        "localInsight": [
+          {
+            "title": "Local Secret",
+            "message": "Shop at local markets in the morning for the best selection and prices. Vendors often give better deals to early customers before tourist hours."
+          },
+          {
+            "title": "Local Secret",
+            "message": "Bargaining is expected at traditional markets but not in modern malls. Start at 70% of asking price - locals negotiate respectfully, never aggressively."
+          }
+        ]
       }
     ],
     "defaultMessage": {
@@ -348,7 +378,7 @@
         "bookingRequired": "Contact residence for access",
         "additionalInfo": "Pool design inspired by Noah's Ark with artistic animal motifs",
         "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/56/cd/b8/city-view.jpg?w=900&h=500&s=1"
-      }    
+      }
     ],
     "experiences": [
       {
@@ -750,7 +780,12 @@
         ],
         "websiteUrl": null,
         "averagePriceRange": "Medium to High",
-        "bestForShopping": ["Fashion", "Electronics", "Entertainment", "Dining"],
+        "bestForShopping": [
+          "Fashion",
+          "Electronics",
+          "Entertainment",
+          "Dining"
+        ],
         "imageUrl": "https://vrapon.al/wp-content/uploads/2023/03/teg-1280x720.jpeg"
       },
       {
@@ -830,7 +865,7 @@
         ],
         "imageUrl": "https://vakefiglass.com/wp-content/uploads/bb-plugin/cache/3-5-landscape.jpg"
       },
-           {
+      {
         "id": "shop_5",
         "name": "European Trade Center (ETC)",
         "category": "Shopping Mall",
