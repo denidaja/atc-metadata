@@ -743,6 +743,72 @@
         "groupSize": "Individual to large groups",
         "equipment": "Camera, comfortable clothing, light hiking shoes",
         "imageUrl": "https://inbetweentravels.com/wp-content/uploads/2020/05/20170820-08204500-scaled.jpg"
+      },
+      {
+        "id": "act_13",
+        "name": "Abaia Winery & Vineyard",
+        "category": "Wine Tasting",
+        "description": "Unique winery experience in converted communist-era bunkers with artisanal winemaking",
+        "highlights": [
+          "Historic bunker wine cellars",
+          "Artisanal winemaking process",
+          "Panoramic vineyard views",
+          "Traditional Albanian snacks"
+        ],
+        "location": "Durrës region",
+        "duration": "2-3 hours",
+        "difficulty": "Easy",
+        "bestSeason": "April to October",
+        "pricing": "€25-40 per person",
+        "shortDescription": "Historic bunker winery offering authentic Albanian wine experience",
+        "detailedDescription": "Abaia Winery began operations in 2019 with 1 hectare of vineyard and produced its first wines in 2021. The unique wine cellar is built within two bunkers constructed during the communist era, creating an intimate setting where visitors witness the entire winemaking process from harvesting to aging in oak barrels.",
+        "keyFeatures": [
+          "Wine production in communist-era bunkers",
+          "Guided vineyard and cellar tours",
+          "Wine tasting with local cheese pairings",
+          "Traditional Albanian snack accompaniments",
+          "Panoramic views from winery terrace",
+          "Artisanal quality-focused production"
+        ],
+        "requirements": "None, suitable for all ages (non-alcoholic options available)",
+        "includedServices": "Vineyard tour, wine tasting, local cheese and snacks",
+        "bookingAdvance": "1-2 days recommended",
+        "groupSize": "2-15 people",
+        "equipment": "Comfortable walking shoes, camera for scenic views",
+        "imageUrl": "https://abaiawinery.al/wp-content/uploads/2023/08/2C2A9106-edit-2.jpg"
+      },
+      {
+        "id": "act_14",
+        "name": "Çobo Winery",
+        "category": "Wine Tasting",
+        "description": "Century-old family winery at the foot of Mount Tomorr near UNESCO town of Berat",
+        "highlights": [
+          "Century-old family tradition",
+          "Traditional kulla architecture",
+          "Mount Tomorr location",
+          "Family-guided tours"
+        ],
+        "location": "Berat, at foot of Mount Tomorr",
+        "duration": "2-4 hours",
+        "difficulty": "Easy",
+        "bestSeason": "April to October",
+        "pricing": "€30-50 per person",
+        "shortDescription": "Historic family winery with century-old winemaking tradition near Berat",
+        "detailedDescription": "The Çobo family has been preserving the best of the land and vineyards for about a century. Located in the rolling hills surrounding Berat at the foot of Mt. Tomorr, the winery features several cultivated vineyards, a spacious traditional Albanian kulla architecture, and a dedicated wine presentation room.",
+        "keyFeatures": [
+          "Century-old family winemaking tradition",
+          "Traditional Albanian kulla architecture",
+          "Extensive vineyard and cellar tours",
+          "Personal interaction with Çobo family members",
+          "Red, white, and sparkling wine production",
+          "Traditional appetizer accompaniments"
+        ],
+        "requirements": "None, suitable for all ages (non-alcoholic options available)",
+        "includedServices": "Vineyard tour, wine cellar visit, wine tasting, appetizers",
+        "bookingAdvance": "1-2 days recommended",
+        "groupSize": "2-20 people",
+        "equipment": "Comfortable walking shoes, camera for vineyard views",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/fc/4f/18/cobo-winery-s-cellar.jpg?w=1400&h=-1&s=1"
       }
     ],
     "shopping": [
@@ -905,47 +971,6 @@
           "International brands"
         ],
         "imageUrl": "https://edilal.com/wp-content/uploads/2017/10/ETC-2.jpg"
-      },
-      {
-        "id": "shop_6",
-        "name": "Casa Italia",
-        "category": "Shopping Mall",
-        "description": "Shopping center combining retail with cultural and entertainment spaces",
-        "highlights": [
-          "Cultural spaces",
-          "Italian cuisine focus",
-          "Entertainment areas",
-          "Fashion and electronics"
-        ],
-        "location": "Tirana",
-        "address": "Tirana",
-        "operatingHours": "10:00 - 22:00 daily",
-        "parkingAvailable": true,
-        "publicTransport": "Accessible by public transport",
-        "shortDescription": "Unique shopping center with cultural and entertainment focus",
-        "detailedDescription": "Casa Italia is a shopping center that combines retail stores with cultural and entertainment spaces. It features a variety of shops, including fashion, beauty, and electronics stores. Casa Italia is known for its excellent food court, offering a range of dining options from Italian cuisine to local Albanian dishes.",
-        "keyFeatures": [
-          "Cultural and entertainment spaces",
-          "Diverse retail options",
-          "Italian cuisine specialties",
-          "Fashion and beauty stores",
-          "Electronics section"
-        ],
-        "popularStores": [
-          "Fashion stores",
-          "Beauty shops",
-          "Electronics",
-          "Italian restaurants"
-        ],
-        "websiteUrl": null,
-        "averagePriceRange": "Medium",
-        "bestForShopping": [
-          "Fashion",
-          "Beauty",
-          "Electronics",
-          "Italian dining"
-        ],
-        "imageUrl": "https://photos.wikimapia.org/p/00/00/78/64/35_big.jpg"
       }
     ]
   }

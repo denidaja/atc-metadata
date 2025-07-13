@@ -88,6 +88,25 @@
   "data": {
     "coffee-shops": [
       {
+        "id": "mulliri-vjeter",
+        "name": "Mulliri i Vjetër",
+        "shortDescription": "Popular coffee chain known for quality espresso, cappuccinos, and modern café atmosphere with multiple locations across Tirana.",
+        "location": "Pazari i Ri area, Tirana",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbYfG43mrC7IKPKFtiZ0949PKLeDDlDID6UvBi9_S5LHP61VFNJQ3muhql2HwfV2-HFDzn_FG9vO9vz1QHE-lMPt5Lv6q5UDLWAPd-zBzMmV0st69eGnoGyok_UCyln3JhnMo=s1360-w1360-h1020-rw",
+        "type": "coffee",
+        "detailedDescription": "Mulliri i Vjetër (The Old Mill) is one of Tirana's first and most beloved coffee chains, establishing itself as a cornerstone of the city's café culture. Known for serving high-quality espresso, cappuccinos, lattes, and frappes, along with fresh pastries and light snacks. With multiple locations throughout Tirana, this modern coffee shop offers a cozy atmosphere reminiscent of international café chains while maintaining its Albanian roots. Popular with both locals and visitors, it's the perfect spot for business meetings, casual catch-ups, or simply enjoying excellent coffee.",
+        "keyFeatures": [
+          "Premium Coffee - High-quality espresso, cappuccinos, and specialty drinks",
+          "Multiple Locations - Chain with outlets throughout Tirana",
+          "Modern Atmosphere - Cozy, contemporary café environment",
+          "Fresh Pastries - Daily selection of croissants, cakes, and light snacks",
+          "Local Institution - Established coffee chain beloved by locals and visitors"
+        ],
+        "visitingInfo": "Open daily 6:30-22:00. Peak times 7:00-9:00 and 17:00-19:00. Accepts cash and cards. English-speaking staff available. WiFi available for remote work.",
+        "bestTimeToVisit": "Early morning (7:00-9:00) for fresh coffee and pastries. Mid-afternoon (14:00-16:00) for quieter atmosphere and laptop work.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mulliri+i+Vjeter+Tirana+Albania"
+      },
+      {
         "id": "florum",
         "name": "FLORUM",
         "shortDescription": "Chic botanical café with specialty coffee, fresh pastries, and a garden-inspired atmosphere perfect for brunch.",
@@ -257,6 +276,25 @@
         "visitingInfo": "Open Tuesday-Sunday 9:00-20:00, closed Mondays. Event schedule varies - check website. Art exhibitions change monthly. Book browsing encouraged while enjoying coffee.",
         "bestTimeToVisit": "Afternoon (14:00-17:00) for art viewing and quiet coffee. Evening events (18:00-20:00) for cultural programming.",
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stephen+Center+Cafe+Tirana+Albania"
+      },
+      {
+        "id": "kafe-flora",
+        "name": "Kafe Flora",
+        "shortDescription": "Historic iconic café from 1972, one of Albania's oldest coffee shops offering exceptional breakfast and traditional atmosphere.",
+        "location": "Beginning of Durresi Street, intersection with Mine Peza Street, Tirana",
+        "imageUrl": "https://th.bing.com/th/id/R.f333335b8ed6d21cd53f4a00deef015c?rik=3mZbYP3qYAuOJw&riu=http%3a%2f%2fphotos.wikimapia.org%2fp%2f00%2f08%2f86%2f61%2f17_full.jpg&ehk=zzPrP6kFLv7pFHTQJws2LEdfuRk2fmXqhHY7%2ffQ8M%2bc%3d&risl=&pid=ImgRaw&r=0",
+        "type": "coffee",
+        "detailedDescription": "Kafe Flora holds a special place in Albanian history as one of the oldest coffee shops in the country, dating back to 1972 and even immortalized in song. This iconic establishment delivers exceptional breakfast experiences with top-tier ingredients and expert preparation. Located in a historic six-floor building, the café maintains its traditional charm while serving quality coffee and food at remarkably reasonable prices.",
+        "keyFeatures": [
+          "Historical Significance - One of Albania's oldest coffee shops from 1972",
+          "Exceptional Breakfast - Top-tier ingredients and expert preparation",
+          "Amazing Value - High quality at very reasonable prices",
+          "Traditional Atmosphere - Historic charm with modern comfort",
+          "Prime Location - Heart of Tirana near all major attractions"
+        ],
+        "visitingInfo": "Open daily for breakfast, lunch, and dinner. Features both indoor seating and outdoor terrace. Takeaway and delivery available. Cash and cards accepted.",
+        "bestTimeToVisit": "Morning (8:00-11:00) for exceptional breakfast experience. Afternoon (15:00-17:00) for coffee and traditional atmosphere.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kafe+Flora+Tirana+Albania"
       }
     ],
     "restaurants": [
@@ -430,6 +468,240 @@
         "visitingInfo": "Open daily 17:00-24:00. Reservations recommended for prime dinner hours. Premium price point for quality cuts. Wine list focused on bold reds.",
         "bestTimeToVisit": "Dinner service (19:00-22:00) for full steakhouse experience. Business dinners and celebrations.",
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt+Restaurant+Tirana+Albania"
+      },
+      {
+        "id": "ceren-ismet-shehu",
+        "name": "Ceren Ismet Shehu",
+        "shortDescription": "Authentic traditional Albanian restaurant in Tirana Castle offering fixed-menu experiences with local dishes and mountain views.",
+        "location": "Rruga Murat Toptani, Tirana Castle",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/86/b6/1b/ceren-ismet-shehu.jpg?w=900&h=500&s=1",
+        "type": "restaurant",
+        "detailedDescription": "Ceren Ismet Shehu provides a unique approach to Albanian traditional cuisine, combining authentic recipes with international culinary knowledge from chef Ismet Shehu. Located within the historic Tirana Castle, the restaurant offers a fixed-menu concept featuring small portions of various traditional Albanian dishes. The evocative atmosphere blends traditional Albanian charm with modern elements, centered around a cozy fireplace and traditional décor.",
+        "keyFeatures": [
+          "Historic Location - Situated within Tirana Castle walls",
+          "Fixed Menu Experience - Curated selection of traditional Albanian dishes",
+          "Authentic Recipes - Traditional preparation methods with expert touch",
+          "Traditional Atmosphere - Cozy fireplace and authentic Albanian décor",
+          "Cultural Education - Showcase of local dishes made with authentic produce"
+        ],
+        "visitingInfo": "Open daily with set menu at approximately 2800 Lek per person. Reservations recommended. Traditional Albanian menu with vegetarian options available.",
+        "bestTimeToVisit": "Lunch (13:00-15:00) for peaceful traditional dining. Dinner (19:00-21:00) for cozy fireplace atmosphere.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ceren+Ismet+Shehu+Tirana+Castle+Albania"
+      },
+      {
+        "id": "tribe-urban-gastronomy",
+        "name": "Tribe Urban Gastronomy",
+        "shortDescription": "Premium steakhouse in the heart of Tirana featuring dry-aged meats, sophisticated atmosphere, and expert preparation.",
+        "location": "Rr. Murat Toptani, Pedonale Tirana",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/95/f9/a4/tribe-urban-gastronomy.jpg?w=900&h=500&s=1",
+        "type": "restaurant",
+        "detailedDescription": "Tribe Urban Gastronomy represents the pinnacle of steakhouse dining in Tirana, offering European, Mediterranean, and barbecue cuisine with a focus on premium meat. Their carefully selected meat comes from the best local farms and is prepared using dry-aged standards in a specially built room. The restaurant features an impressive dry-aged cabinet, wine cellar, and tribal music atmosphere with a central firepit, creating a unique dining experience for meat enthusiasts.",
+        "keyFeatures": [
+          "Premium Steakhouse - Best quality meat from selected local farms",
+          "Dry-Aged Excellence - Specially built room for proper aging process",
+          "Impressive Wine Cellar - Extensive selection to complement meats",
+          "Central Location - Stone's throw from Tirana's main attractions",
+          "Unique Atmosphere - Tribal music and firepit create distinctive ambiance"
+        ],
+        "visitingInfo": "Open daily 12:00-23:00. Reservations recommended. Premium price range ALL 870-2,200. Outdoor seating available. Phone: +355 68 609 1664.",
+        "bestTimeToVisit": "Dinner service (19:00-22:00) for full steakhouse experience. Special occasions and business dinners.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tribe+Urban+Gastronomy+Tirana+Albania"
+      },
+      {
+        "id": "el-gaucho-tirana",
+        "name": "El Gaucho Tirana",
+        "shortDescription": "First Argentinian restaurant in Albania specializing in premium Black Angus beef and authentic Argentine cuisine.",
+        "location": "Rruga Mustafa Qosja, near Dinamo Stadium, Tirana",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/3a/83/ba/el-gaucho-restorant.jpg?w=900&h=500&s=1",
+        "type": "restaurant",
+        "detailedDescription": "El Gaucho Tirana brings authentic Argentine steakhouse culture to Albania, featuring the world's best quality Argentinian Black Angus beef from hand-selected farms. As the first Argentinian restaurant in Albania, it offers specialty dishes originated from Argentina, including unique Bison meat prepared by an Argentine chef. The restaurant's contemporary global influence is strongly rooted in modern Argentine culinary traditions, located in a characteristic neighborhood chosen for its vegetation and calmness.",
+        "keyFeatures": [
+          "Authentic Argentine - First Argentinian restaurant in Albania",
+          "Premium Black Angus - Imported beef from hand-selected Argentine farms",
+          "Expert Argentine Chef - Authentic preparation methods and techniques",
+          "Unique Offerings - Only place to find Bison meat in Tirana",
+          "Sommelier Selection - Wine selection by Sommelier Fation Tila"
+        ],
+        "visitingInfo": "Located in characteristic neighborhood near Dinamo Stadium. Rated 4.7 out of 5. Reservations recommended for premium Argentine dining experience.",
+        "bestTimeToVisit": "Dinner service (19:00-22:00) for full Argentine steakhouse experience. Perfect for special occasions and steak lovers.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Gaucho+Tirana+Albania"
+      },
+      {
+        "id": "ulliri-restaurant",
+        "name": "Ulliri Restaurant",
+        "shortDescription": "Gourmet Mediterranean restaurant with multiple locations offering wood-fired pizza, quality steaks, and fine dining experience.",
+        "location": "TEG Shopping Center & City Center locations, Tirana",
+        "imageUrl": "https://scontent.fscn1-1.fna.fbcdn.net/v/t1.6435-9/81280327_2585521981497646_6147685757927555072_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=VUmw-CEwWREQ7kNvwH0IgAs&_nc_oc=AdkmlmEsp2NA9vAjxBmybbo5Id_8PIeIdObPLgrVy3lNyVwmYpjMzfZ76rH9Sv1muyA&_nc_zt=23&_nc_ht=scontent.fscn1-1.fna&_nc_gid=G07MV6cUTd25qd0pnrp74A&oh=00_AfRs7aw2d8f6L_Y0VxXEHv7p2mm4-Sok6OEiPJ54yuP6CA&oe=689A207D",
+        "type": "restaurant",
+        "detailedDescription": "Ulliri Restaurant operates two prestigious locations in Tirana, offering gourmet Mediterranean cuisine and top-quality meats in both casual and fine dining settings. Their TEG location sits within Albania's biggest commercial center, while the City Center location is adjacent to Scanderbeg Square. Both locations feature Italian-style wood oven pizzas, premium steaks, and Mediterranean specialties, providing exquisite fine-dining experiences with efficient service and moderate pricing.",
+        "keyFeatures": [
+          "Multiple Prime Locations - TEG Shopping Center and City Center",
+          "Wood Oven Pizza - Italian-style wood-fired pizza preparation",
+          "Mediterranean Cuisine - Gourmet dishes and top-quality meats",
+          "Fine Dining Standards - Exquisite presentation and professional service",
+          "Moderate Pricing - High-quality dining at reasonable prices"
+        ],
+        "visitingInfo": "TEG: +355 68 699 9999, City Center: Adjacent to Scanderbeg Square. Rated 4.1-4.5 out of 5. Moderate pricing for fine dining quality.",
+        "bestTimeToVisit": "Lunch (12:00-15:00) for business dining. Dinner (19:00-22:00) for fine dining experience and full ambiance.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ulliri+Restaurant+Tirana+Albania"
+      },
+      {
+        "id": "saporita-pizzeria",
+        "name": "Saporita Pizzeria",
+        "shortDescription": "Family-owned authentic Italian pizzeria near Dinamo Stadium offering Milan-style pizza with fresh ingredients since 2011.",
+        "location": "Rruga Emin Duraku, near Dinamo Stadium, Tirana",
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/be/45/0a/il-paese-31.jpg?w=1000&h=800&s=1",
+        "type": "restaurant",
+        "detailedDescription": "Saporita Pizzeria is a beloved family-owned establishment that has been serving authentic Italian pizza since 2011. Located near Dinamo Stadium, this pizzeria offers Milan-style pizza with perfectly thin and crispy crusts, high-quality mozzarella, and rich, flavorful toppings made with the freshest ingredients. Known for maintaining the same taste as pizza in Italy, Saporita has earned a reputation as one of the best pizzerias in Tirana with excellent price-to-quality ratio.",
+        "keyFeatures": [
+          "Authentic Italian - Same taste as pizza in Italy with traditional recipes",
+          "Milan-Style Pizza - Thin, crispy crusts with premium toppings",
+          "Family-Owned - Operating since 2011 with consistent quality",
+          "Fresh Ingredients - Daily preparation with high-quality mozzarella",
+          "Excellent Value - Fair pricing around 5-6 euros per pizza"
+        ],
+        "visitingInfo": "Open daily with takeout, dine-in, and outdoor seating. Phone: +355 67 234 8520. Email: pizzerita_saporita@hotmail.com. Rated 4.2-4.4 out of 5.",
+        "bestTimeToVisit": "Lunch (12:00-15:00) for quick authentic pizza. Dinner (19:00-22:00) for full Italian dining experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saporita+Pizzeria+Tirana+Albania"
+      },
+      {
+        "id": "pizzarte-tirana",
+        "name": "PizzArte Tirana",
+        "shortDescription": "Authentic Neapolitan-style pizzeria in city center offering wood-fired pizzas with traditional techniques and cozy atmosphere.",
+        "location": "Rruga Luigj Gurakuqi, Tirana Center",
+        "imageUrl": "https://albconnection.com/wp-content/uploads/2024/05/PizzArte-Tirana1.jpeg",
+        "type": "restaurant",
+        "detailedDescription": "PizzArte represents authentic Neapolitan pizza culture in the heart of Tirana, specializing in traditional wood-fired pizzas baked to perfection. The restaurant features simple yet cozy interior design with warm ambiance, focusing on the art of authentic Neapolitan pizza making. Their commitment to traditional techniques, quality ingredients, and proper wood-fired cooking methods has earned them recognition as one of Tirana's top pizza destinations.",
+        "keyFeatures": [
+          "Authentic Neapolitan - Traditional wood-fired pizza preparation",
+          "Quality Ingredients - Fresh, high-quality toppings and dough",
+          "Central Location - Heart of Tirana for easy access",
+          "Cozy Atmosphere - Simple design with warm, welcoming ambiance",
+          "Traditional Techniques - Proper Neapolitan pizza making methods"
+        ],
+        "visitingInfo": "Located in Tirana center, phone: +355 696 826 287. Price range ALL 280-920. Delivery available through Wolt. Rated 4.5 out of 5.",
+        "bestTimeToVisit": "Lunch (12:00-15:00) for fresh Neapolitan pizza. Dinner (19:00-21:00) for cozy atmosphere and full menu experience.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PizzArte+Tirana+Albania"
+      },
+      {
+        "id": "mrizi-zanave-fishte",
+        "name": "Mrizi i Zanave (Fishtë)",
+        "shortDescription": "Albania's most famous agrotourism restaurant offering slow food farm-to-table dining with local wines and traditional Albanian cuisine.",
+        "location": "Fishtë, Lezhe County",
+        "imageUrl": "https://images.myguide-cdn.com/albania/companies/mrizi-i-zanave/large/mrizi-i-zanave-1206196.jpg",
+        "type": "agroturizem",
+        "detailedDescription": "Mrizi i Zanave (The Old Mill) is arguably Albania's most renowned agrotourism destination, embodying the 'Think Globally, Eat Locally' philosophy. Located in the farming village of Fishtë in northwestern Albania, this establishment combines resort, restaurant, farm, winery, and production facility. Known for serving some of the tastiest food in the Balkans, they offer fresh, organic farm-to-table Albanian slow-food complemented by their own wine production. The restaurant collaborates with many local farming families and employs about 70 people, making it a cornerstone of the local economy.",
+        "keyFeatures": [
+          "Farm-to-Table Philosophy - Fresh, organic ingredients sourced locally",
+          "On-site Wine Production - House wines made from local grapes",
+          "Cheese Production - Fresh cheese, marmalades, and aged cheese in wine barrels",
+          "Slow Food Movement - Traditional Albanian cooking methods",
+          "Community Support - Collaborates with 70+ local farming families",
+          "Multi-purpose Facility - Restaurant, farm, winery, and accommodation"
+        ],
+        "visitingInfo": "Reservations required 1 week in advance. Avoid 3-5PM transition period. Seasonal menu changes 4 times yearly. Traditional Albanian recipes with modern techniques.",
+        "bestTimeToVisit": "Lunch (12:00-15:00) for farm-fresh experience. Early dinner (18:00-20:00) for wine pairings. Avoid 15:00-17:00 kitchen transition.",
+        "mapsUrl": "https://images.myguide-cdn.com/albania/companies/mrizi-i-zanave/large/mrizi-i-zanave-1206196.jpg"
+      },
+      {
+        "id": "mrizi-zanave-tirana",
+        "name": "Mrizi i Zanave (Tirana)",
+        "shortDescription": "City location of Albania's famous agrotourism restaurant, bringing farm-to-table slow food philosophy to Tirana's center.",
+        "location": "Next to Ura e Tabakeve (Tanners' Bridge), Tirana Center",
+        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPC0rq_pPe1Gedr7zUzeRTJkWNpFvtgSMwOguNS=s680-w680-h510-rw",
+        "type": "agroturizem",
+        "detailedDescription": "Operating since 2004, the Tirana location of Mrizi i Zanave brings the acclaimed slow food philosophy to the capital city. Located next to the historic 18th century Ura e Tabakeve monument, this restaurant maintains the same 'Think Globally, Eat Locally' motto as its original Fishtë location. The menu changes seasonally (4 times per year) featuring traditional Albanian recipes enhanced with modern cooking techniques, using ingredients sourced from their partner farms.",
+        "keyFeatures": [
+          "Historic Location - Next to 18th century Tanners' Bridge monument",
+          "Seasonal Menu - Changes 4 times yearly with fresh ingredients",
+          "Slow Food Philosophy - Traditional recipes with modern techniques",
+          "City Convenience - Accessible location in Tirana center",
+          "Wine Selection - Curated Albanian wines including house selections",
+          "Cultural Heritage - Infusing traditional Albanian recipes with innovation"
+        ],
+        "visitingInfo": "Phone: +355 69 210 8032. Email: info@mrizizanave.al. Reservations recommended. Rated 4.8/5 on TripAdvisor, #38 of 927 restaurants in Tirana.",
+        "bestTimeToVisit": "Lunch (13:00-15:00) for business dining. Dinner (19:00-21:00) for full cultural experience. Weekend reservations essential.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mrizi+Zanave+Tirana"
+      },
+      {
+        "id": "alpeta-agrotourism",
+        "name": "Alpeta Agrotourism & Winery",
+        "shortDescription": "Award-winning family winery on TIME's World's Greatest Places 2025, offering traditional winemaking and farm-to-table dining with Mount Tomorr views.",
+        "location": "Roshnik village, Berat County",
+        "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/640105460.jpg?k=3f2e02c1aa10d7780b309db34ca8e973473f4117687ebb9467ed9815878cf95e&o=&hp=1",
+        "type": "agroturizem",
+        "detailedDescription": "Established in 1994 by the Fiska family, Alpeta Agrotourism & Winery has gained international recognition, earning a spot on TIME's World's Greatest Places 2025 list. Located in scenic Roshnik village with views of Mount Tomorr, vineyards, and lakes, this family-owned establishment offers traditional winemaking techniques with local Pules and Shesh grapes alongside Cabernet and Merlot. Their wines have earned medals at the Decanter World Wine Awards, while their restaurant celebrates traditional Albanian cuisine with locally-sourced ingredients and recipes passed down from grandmothers.",
+        "keyFeatures": [
+          "TIME Recognition - World's Greatest Places 2025",
+          "Award-winning Wines - Decanter World Wine Awards medals",
+          "Family Tradition - 30+ years of vineyard cultivation by Fiska family",
+          "Scenic Location - Mount Tomorr views surrounded by vineyards",
+          "Traditional Winemaking - Local grape varieties and time-honored methods",
+          "Heritage Recipes - Grandmother's recipes with locally-sourced ingredients"
+        ],
+        "visitingInfo": "Accommodation: €10 per bed, €30 double room. Restaurant serves vegetarian, vegan, gluten-free options. Free WiFi, parking. 24-hour front desk.",
+        "bestTimeToVisit": "Harvest season (September) for grape picking experience. Sunset dinner (18:00-20:00) for mountain views. Wine tasting tours available daily.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpeta+Agrotourism+Winery+Roshnik+Berat+Albania"
+      },
+      {
+        "id": "agroturizem-gjepali",
+        "name": "Agroturizem Gjepali",
+        "shortDescription": "Family-owned agrotourism business in Gjepalaj village offering hands-on culinary experiences including bread making, cheese making, and traditional Albanian cuisine.",
+        "location": "Gjepalaj village, Shijak-Durres",
+        "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219546317.jpg?k=d8a5307c0651cc7b677e672389dc245a7a54cc147298626915d060b7078fdeb8&o=",
+        "type": "agroturizem",
+        "detailedDescription": "Agroturizem Gjepali is a family-owned business located in Gjepalaj village, created by an owner who became a kitchen chef and wanted to share authentic Albanian culinary traditions. This hands-on agrotourism experience allows guests to participate in traditional food preparation methods, including bread making, cheese making, and jam making. The menu features traditional Albanian cuisine prepared with local ingredients, offering visitors an immersive cultural experience that goes beyond dining to include learning traditional cooking techniques.",
+        "keyFeatures": [
+          "Hands-on Experiences - Bread making, cheese making, jam making",
+          "Family-owned Business - Personal attention and authentic hospitality",
+          "Traditional Albanian Cuisine - Local ingredients and time-honored recipes",
+          "Culinary Education - Learn traditional cooking techniques",
+          "Village Setting - Authentic rural Albanian environment",
+          "Interactive Dining - Participate in meal preparation process"
+        ],
+        "visitingInfo": "Hands-on culinary workshops available. Traditional Albanian menu with local ingredients. Advance booking recommended for workshop experiences.",
+        "bestTimeToVisit": "Morning workshops (9:00-12:00) for bread and cheese making. Lunch (12:00-15:00) to enjoy self-made products.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agroturizem+Gjepali+Gjepalaj+Shijak+Durres+Albania"
+      },
+      {
+        "id": "farma-sotira",
+        "name": "Farma Sotira",
+        "shortDescription": "Pine forest agrotourism farm offering wood-oven baked bread, fresh feta cheese, and on-site wine production with horseback riding experiences.",
+        "location": "Surrounded by pine forests and natural lakes",
+        "imageUrl": "https://thingstodoalbania.com/wp-content/uploads/2024/12/farma-sotira3.jpg",
+        "type": "agroturizem",
+        "detailedDescription": "Farma Sotira offers a unique agrotourism experience surrounded by pine tree forests, wild meadows, and natural lakes. Every meal includes their signature wood oven-baked bread, fresh feta cheese, and wine made from grapes grown directly on site. The farm provides opportunities for guests to participate in grape harvesting in September for wine and raki production. With 10 miles of private countryside, the farm also offers horseback riding experiences, making it a complete rural retreat that combines culinary traditions with outdoor activities.",
+        "keyFeatures": [
+          "Natural Setting - Pine forests, meadows, and natural lakes",
+          "Wood Oven Bread - Traditional baking methods with fresh daily bread",
+          "On-site Wine Production - Grapes grown and processed on property",
+          "Fresh Feta Cheese - Made daily with traditional methods",
+          "Horseback Riding - 10 miles of private countryside trails",
+          "Seasonal Activities - Grape harvesting in September for wine and raki"
+        ],
+        "visitingInfo": "Grape harvesting experiences in September. Horseback riding available with 10 miles of private trails. Wood oven-baked bread and fresh feta at every meal.",
+        "bestTimeToVisit": "September for grape harvest experience. Spring/summer (May-August) for horseback riding and outdoor activities. Morning (8:00-10:00) for fresh bread.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Farma+Sotira+Albania+agrotourism"
+      },
+      {
+        "id": "uka-farm",
+        "name": "UKA Farm",
+        "shortDescription": "Organic poly-cultural farm with native Albanian wine varieties and farm-to-table restaurant serving pesticide-free, locally-sourced dishes.",
+        "location": "Rural Albania",
+        "imageUrl": "https://iconstyle.al/wp-content/uploads/2020/01/IMG-20191124-WA0017-768x576.jpg",
+        "type": "agroturizem",
+        "detailedDescription": "UKA Farm represents a comprehensive approach to sustainable Albanian agriculture, operating as a poly-cultural agricultural farm with completely organic, pesticide-free production methods. The farm features a winery that produces native Albanian wine from local grape cultivars, preserving traditional Albanian winemaking heritage. Their restaurant operates on a true farm-to-table concept, with all dishes prepared using ingredients grown on the property or sourced from local organic farmers, ensuring the freshest and most authentic Albanian flavors.",
+        "keyFeatures": [
+          "Poly-cultural Agriculture - Diverse organic farming methods",
+          "Pesticide-free Production - Completely organic growing practices",
+          "Native Albanian Wines - Traditional grape cultivars and winemaking",
+          "Farm-to-table Restaurant - Ingredients grown on-site",
+          "Sustainable Practices - Environmental responsibility and conservation",
+          "Local Grape Cultivars - Preserving Albanian wine heritage"
+        ],
+        "visitingInfo": "All products organic and pesticide-free. Native Albanian wine tastings available. Farm-to-table dining with on-site grown ingredients.",
+        "bestTimeToVisit": "Harvest season (September-October) for wine production. Summer (June-August) for diverse crop availability. Wine tastings year-round.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UKA+Farm+Albania+agrotourism"
       }
     ],
     "bars": [
@@ -797,23 +1069,42 @@
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smash+Burger+Tirana+Albania"
       },
       {
-        "id": "mulliri-vjeter",
-        "name": "Mulliri i Vjetër",
-        "shortDescription": "Traditional Albanian bakery specializing in authentic byrek, fresh bread, and time-honored baking methods.",
-        "location": "Pazari i Ri area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbYfG43mrC7IKPKFtiZ0949PKLeDDlDID6UvBi9_S5LHP61VFNJQ3muhql2HwfV2-HFDzn_FG9vO9vz1QHE-lMPt5Lv6q5UDLWAPd-zBzMmV0st69eGnoGyok_UCyln3JhnMo=s1360-w1360-h1020-rw",
+        "id": "someg-bakery",
+        "name": "Someg Bakery and Pasticeri",
+        "shortDescription": "Quality Albanian byrek bakery with multiple locations offering decent filling portions and excellent service.",
+        "location": "Multiple locations including Rruga Abdyl Frashëri, Tirana",
+        "imageUrl": "https://scontent-cdg4-2.xx.fbcdn.net/v/t1.6435-9/48384659_211147969770950_6133291896589516800_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=c5Uk9_jh0nEQ7kNvwHjeGPv&_nc_oc=AdnvFVrg3bG9mJHZ74Mg7AsruW6vZjzz1B-RgD5hcd_Z68-Gg6526lO_PI-wv06UcvE&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=9f1kb7coMFYmhMbdKv2vIQ&oh=00_AfST1QosN8Dx6xWjJVANPsier-1DNkVx5X2zaX4W8_prUQ&oe=689A3437",
         "type": "bakery",
-        "detailedDescription": "Mulliri i Vjetër (The Old Mill) represents traditional Albanian baking at its finest, maintaining recipes and techniques passed down through generations. Their specialty byrek comes in numerous varieties, and their fresh bread is baked multiple times daily using traditional stone ovens. This authentic bakery attracts locals who appreciate genuine Albanian flavors and time-honored preparation methods.",
+        "detailedDescription": "Someg Bakery and Pasticeri stands out among Tirana's byrek establishments for providing generous filling portions compared to other bakeries. With multiple outlets around the city, Someg has built a reputation for quality Albanian byreks and excellent customer service from friendly staff. Their consistent quality across locations makes them a reliable choice for authentic Albanian pastries.",
         "keyFeatures": [
-          "Traditional Albanian - Authentic recipes and preparation methods",
-          "Byrek Specialist - Multiple varieties of traditional Albanian pastry",
-          "Stone Oven Baking - Traditional baking techniques for superior flavor",
-          "Multiple Daily Batches - Fresh bread and pastries throughout the day",
-          "Local Institution - Beloved by generations of Tirana families"
+          "Multiple Locations - Convenient outlets throughout Tirana",
+          "Generous Fillings - Decent amount of filling compared to competitors",
+          "Quality Albanian Byrek - Authentic preparation and flavors",
+          "Excellent Service - Friendly staff known for good customer care",
+          "Consistent Quality - Reliable standards across all locations"
         ],
-        "visitingInfo": "Open daily 6:00-20:00. Peak times 7:00-9:00 and 17:00-19:00. Cash only. Albanian language primarily spoken but friendly service for tourists.",
-        "bestTimeToVisit": "Early morning (6:00-8:00) for warmest, freshest byrek. Evening (17:00-19:00) for second batch of fresh bread.",
-        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mulliri+i+Vjeter+Tirana+Albania"
+        "visitingInfo": "Multiple locations open daily. Early morning for freshest byreks. Affordable pricing typical of local bakeries. Cash preferred.",
+        "bestTimeToVisit": "Early morning (7:00-9:00) for warmest, freshest byreks. Peak breakfast hours when locals queue.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Someg+Bakery+Pasticeri+Tirana+Albania"
+      },
+      {
+        "id": "byrektore-luani",
+        "name": "Byrek Special Luani",
+        "shortDescription": "Traditional burek specialist offering excellent meat burek and classic Albanian pastries in authentic local setting.",
+        "location": "Traditional neighborhood, Tirana",
+        "imageUrl": "https://davidsbeenhere.com/wp-content/uploads/2020/08/video-albanian-byrek-tour-making-balkan-stuffed-pastries-tirana-albania-davidsbeenhere-2-980x552.jpg",
+        "type": "qsr",
+        "detailedDescription": "Byrektore Luani represents traditional Albanian burek culture at its finest, specializing in classic burek preparations that have satisfied locals for years. This neighborhood establishment is particularly known for their burek me mish (meat burek), prepared using time-honored techniques. The authentic local atmosphere provides visitors with a genuine taste of Albanian fast food culture in a setting where traditions are preserved.",
+        "keyFeatures": [
+          "Burek Specialist - Focus on traditional Albanian burek varieties",
+          "Excellent Meat Burek - Particularly known for burek me mish",
+          "Traditional Preparation - Time-honored techniques and recipes",
+          "Local Atmosphere - Authentic neighborhood setting",
+          "Cultural Experience - Genuine Albanian fast food tradition"
+        ],
+        "visitingInfo": "Traditional neighborhood location with authentic local atmosphere. Cash preferred. Best visited during morning hours for freshest burek.",
+        "bestTimeToVisit": "Morning hours (7:00-10:00) for traditional Albanian breakfast experience. Peak times when locals gather for burek.",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Byrektore+Special+Luani+Tirana+Albania"
       }
     ]
   }

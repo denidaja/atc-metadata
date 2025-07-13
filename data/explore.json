@@ -61,7 +61,7 @@
       },
       {
         "id": "everyday-living",
-        "name": "Everyday Life",
+        "name": "Everyday Living",
         "vectorIcon": {
           "family": "MaterialIcons",
           "name": "home"
@@ -122,13 +122,15 @@
           "name": "Merr Taxi",
           "phone": "+355 4 2380 380",
           "rating": "",
-          "price": "€18-20 airport to city center"
+          "price": "€18-20 airport to city center",
+          "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Green Taxi",
           "phone": "+355 4 2273 273",
           "rating": "",
-          "price": "€15-18 airport to city center"
+          "price": "€15-18 airport to city center",
+          "details": "App-based booking available, cheaper than official airport taxis"
         }
       ],
       "airportTransport": [
@@ -954,7 +956,7 @@
         {
           "icon": { "family": "MaterialIcons", "name": "local-atm" },
           "title": "ATM Access",
-          "tip": "ATMs everywhere in Tirana, Durrës, Vlorë - withdraw ALL directly"
+          "tip": "ATMs everywhere in Tirana, Durrës, Vlorë and other major cities, but limited in rural areas"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "attach-money" },
@@ -1079,11 +1081,6 @@
           "icon": { "family": "MaterialIcons", "name": "water-drop" },
           "title": "Water Safety",
           "detail": "Drink bottled water to avoid potential health issues"
-        },
-        {
-          "icon": { "family": "MaterialIcons", "name": "security" },
-          "title": "Valuables",
-          "detail": "Secure valuables against pickpocketing, especially in crowded areas"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "terrain" },
@@ -2061,6 +2058,33 @@
           "icon": { "family": "MaterialIcons", "name": "local-post-office" },
           "title": "Post Office (Posta Shqiptare)",
           "description": "Open Mon-Fri 8:00-16:00, Sat 8:00-12:00. Main post office at Rruga Dëshmorët e 4 Shkurtit."
+        }
+      ],
+      "electricalInfo": [
+        {
+          "icon": { "family": "MaterialIcons", "name": "electrical-services" },
+          "title": "Plug Types",
+          "description": "Albania uses Type C (Europlug) and Type F (Schuko) plugs. Standard European outlets throughout the country."
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "flash-on" },
+          "title": "Voltage & Frequency",
+          "description": "230V, 50Hz electrical system. Compatible with most European devices. Check your device specifications before plugging in."
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "travel-explore" },
+          "title": "Adapters Needed",
+          "description": "US/UK travelers need Type C/F adapters. Canadians, Australians need adapters. Most EU devices work directly."
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "store" },
+          "title": "Where to Buy Adapters",
+          "description": "Available at electronics stores, supermarkets (Conad, SPAR), and mobile phone shops. Expect to pay 500-1500 ALL (€5-15)."
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "warning" },
+          "title": "Safety Tips",
+          "description": "Use surge protectors for valuable electronics. Older buildings may have less reliable grounding. Hotels provide safe power."
         }
       ],
       "climate": {
