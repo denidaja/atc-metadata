@@ -18,7 +18,7 @@
           },
           {
             "title": "Local Secret",
-            "message": "Use local buses instead of taxis - they run frequently and cost 40 lek vs 500+ lek. Ask locals which bus number goes to your destination."
+            "message": "Use local buses instead of taxis - they run frequently and cost 40 lek vs 500+ lek. Ask locals which bus number goes to your destination or consult Google Maps!"
           }
         ]
       },
@@ -56,7 +56,7 @@
           },
           {
             "title": "Local Secret",
-            "message": "Visit beaches early morning (before 9 AM) or late afternoon (after 5 PM) - you'll have them almost to yourself and parking is free."
+            "message": "Visit beaches early morning (before 9 AM) or late afternoon (after 5 PM) - you'll have them almost to yourself and find easier parking."
           }
         ]
       },
@@ -94,7 +94,7 @@
           },
           {
             "title": "Local Secret",
-            "message": "Entry fees are often waived for locals - if you speak basic Albanian or have local friends, they can help you get discounted or free entry."
+            "message": "Sometimes entry fees can be waived/discounted for locals - if you speak basic Albanian or have local friends, they can help you get discounted or free entry."
           }
         ]
       },
@@ -109,11 +109,11 @@
         "localInsight": [
           {
             "title": "Local Secret",
-            "message": "Castle entrances often have unmarked side paths with better views and fewer tourists. Local shepherds know the best photo spots - just ask politely."
+            "message": "Castle entrances often have unmarked side paths with better views and fewer tourists. Locals know the best photo spots - just ask politely."
           },
           {
             "title": "Local Secret",
-            "message": "Photography inside some castles is restricted, but locals know which areas allow photos. Ask the guards - they're usually friendly and helpful."
+            "message": "Photography inside some castles is restricted, but some areas allow photos. Ask the guards - they're usually friendly and helpful."
           }
         ]
       }

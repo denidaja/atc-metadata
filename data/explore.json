@@ -106,91 +106,91 @@
       "taxiCompanies": [
         {
           "name": "Blue Taxi",
-          "phone": "+355 67 444 4444",
-          "rating": "",
-          "price": "€13-15 airport to city center",
+          "phone": "",
+          "rating": "+355 67 444 4444",
+          "price": "€13-15 airport to city center or vice-versa, prices may vary",
           "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Speed Taxi",
-          "phone": "+355 69 60 60 600",
-          "rating": "",
-          "price": "€10-12 airport to city center",
+          "phone": "",
+          "rating": "+355 69 60 60 600",
+          "price": "€13-15 airport to city center or vice-versa, prices may vary",
           "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Merr Taxi",
-          "phone": "+355 4 2380 380",
-          "rating": "",
-          "price": "€18-20 airport to city center",
+          "phone": "",
+          "rating": "+355 4 2380 380",
+          "price": "€15-18 airport to city center or vice-versa, prices may vary",
           "details": "App-based booking available, cheaper than official airport taxis"
         },
         {
           "name": "Green Taxi",
-          "phone": "+355 4 2273 273",
-          "rating": "",
-          "price": "€15-18 airport to city center",
+          "phone": "",
+          "rating": "+355 4 2273 273",
+          "price": "€15-18 airport to city center or vice-versa, prices may vary",
           "details": "App-based booking available, cheaper than official airport taxis"
         }
       ],
       "airportTransport": [
         {
           "type": "Luna Airport Bus",
-          "route": "Airport → Skanderbeg Square",
+          "route": "Airport → Skanderbeg Square and vice-versa",
           "price": "~€4 (400 LEK)",
-          "duration": "30 minutes",
+          "duration": "40-50 minutes",
           "frequency": "24/7 - every hour on the hour",
           "details": "Accepts cash, card, and euros. Luggage storage available."
         },
         {
           "type": "Official Airport Taxi",
-          "route": "Airport → City Center",
+          "route": "Airport → City",
           "price": "€23-28 (2200 LEK)",
-          "duration": "20-25 minutes",
+          "duration": "30-40 minutes",
           "frequency": "Always available",
-          "details": "Auto Holiday Albania - yellow taxis with airport logo sitting outside arrivals. No need to pre-book."
+          "details": "Look for yellow taxis with airport logo sitting outside arrivals. No need to pre-book."
         },
         {
           "type": "App-based Taxis",
-          "route": "Airport → City Center",
+          "route": "Airport → City",
           "price": "€10-20",
-          "duration": "20-25 minutes",
-          "frequency": "Usually available",
+          "duration": "30-40 minutes",
+          "frequency": "Usually available, need pre-booking",
           "details": "Speed Taxi, Patoko, Bee Taxi apps available. Uber NOT available in Albania"
         },
         {
           "type": "Private Transfer",
           "route": "Airport → City Center",
           "price": "€28-33",
-          "duration": "20-25 minutes",
+          "duration": "30-40 minutes",
           "frequency": "Pre-booking required",
           "details": "Door-to-door service, English-speaking drivers"
         }
       ],
       "publicTransport": [
         {
-          "type": "City Buses",
-          "route": "Public bus network",
+          "type": "Local City Buses",
+          "route": "Main public transport",
           "price": "40 ALL (€0.35) per ride",
-          "duration": "Varies by route",
-          "frequency": "Every 10-20 minutes",
+          "duration": "",
+          "frequency": "Usually every 10-20 minutes",
           "details": "Extensive network covering all major areas and cities. Check Google Maps for arrival/departure times. Pay on board with exact change."
         },
         {
           "type": "Intercity Buses",
           "route": "Tirana to all major cities",
           "price": "300-800 ALL (€3-8) depending on distance",
-          "duration": "1-6 hours",
+          "duration": "",
           "frequency": "Regular daily services",
-          "details": "Comprehensive network connecting all major Albanian cities. Buses depart from North/South bus terminals and tickets can be purchased on-site or online through Gjirafa Travel."
+          "details": "Comprehensive network connecting all major Albanian cities. Buses depart from North/South bus terminal. Tickets can be purchased on-site or online through Gjirafa Travel."
         },
         {
           "type": "Trains",
           "route": "Tirana - Durrës line",
           "price": "100-150 ALL (€1-1.50)",
-          "duration": "45-60 minutes",
-          "frequency": "Limited service - check schedule",
-          "details": "Very limited railway system. Main route connects Tirana to Durrës port. Service can be unreliable."
+          "duration": "",
+          "frequency": "Duration 45-60 minutes",
+          "details": "Very limited railway system and not recommended. Main route connects Tirana to Durrës port. Service can be unreliable."
         },
         {
           "type": "Bike Rentals",
@@ -206,15 +206,15 @@
           "price": "1500-2500 ALL (€15-25) per day",
           "duration": "Hourly/daily rates",
           "frequency": "Available on demand",
-          "details": "Electric scooters available from local rental shops. Requires valid license and deposit, but not recommended due to lack of dedicated lanes."
+          "details": "Electric scooters available from local rental shops. Requires valid license and deposit, but not recommended due to chaotic traffic."
         }
       ],
       "importantNotes": {
-        "currency": "Prices can be paid in EUR or Albanian LEK (1 EUR ≈ 98-99 LEK as of 2025)",
+        "currency": "Most times prices can be paid in EUR or Albanian LEK, ask beforehand!",
         "uberStatus": "Uber is NOT available in Albania as of 2025",
-        "alternativeApps": ["Patoko", "Speed Taxi", "Bee Taxi", "Clust"],
+        "alternativeApps": "Uber/Bolt are not available in Albania as of 2025, available taxi apps include: Speed Taxi, Patoko, Bee Taxi, Clust",
         "busSchedule": "Luna bus runs 24/7, departing every hour on the hour",
-        "trafficWarning": "Allow extra time during rush hours (7-9:30am, 4-6:30pm)"
+        "trafficWarning": "Allow extra time during rush hours (7-9:30AM, 4-6:30PM)"
       }
     },
     "driving": {
@@ -456,7 +456,7 @@
         {
           "area": "Blloku District",
           "type": "Street Parking",
-          "price": "100 ALL/hour (blue zones)",
+          "price": "~200 ALL/hour (blue zones)",
           "availability": "Limited",
           "notes": "Mostly paid parking during business hours"
         },
@@ -513,10 +513,6 @@
         {
           "title": "SMS Parking Payment",
           "note": "Send SMS to 50500 with car number and zone. Requires Albanian phone number and credit."
-        },
-        {
-          "title": "Blue vs White Lines",
-          "note": "Blue lines = paid parking, White lines = free parking. Yellow = no parking (disabled/taxi)."
         },
         {
           "title": "Tirana Parking Crisis",
@@ -910,16 +906,16 @@
       },
       "exchangeOffices": [
         {
-          "name": "Unionnet by Western Union Exchange",
-          "location": "Multiple locations",
-          "rate": "Great Rates",
-          "hours": "8:00-20:00"
-        },
-        {
           "name": "Iliria'98 Exchange",
           "location": "Multiple locations",
           "rate": "Great Rates",
           "hours": "9:00-18:00"
+        },
+        {
+          "name": "Unionnet by Western Union Exchange",
+          "location": "Multiple locations",
+          "rate": "Great Rates",
+          "hours": "8:00-20:00"
         }
       ],
       "exchangeGuidelines": {
@@ -1730,29 +1726,29 @@
       ],
       "extraFunFacts": [
         {
-          "icon": { "family": "MaterialIcons", "name": "castle" },
-          "title": "Bunker Paradise",
-          "description": "Albania has over 700,000 concrete bunkers built during communist era - that's 1 bunker for every 4 people!"
-        },
-        {
           "icon": { "family": "MaterialIcons", "name": "people" },
           "title": "Warm Hospitality",
           "description": "Albanian people are known for their incredible hospitality and welcoming nature"
         },
         {
-          "icon": { "family": "MaterialCommunityIcons", "name": "bird" },
-          "title": "Land of Eagles",
-          "description": "Albania means 'Land of Eagles' in Albanian. The double-headed eagle on their flag represents the north and south of the country."
-        },
-        {
           "icon": { "family": "MaterialIcons", "name": "public" },
           "title": "Religious Harmony",
-          "description": "Albania is the only European country with a Muslim majority, yet it's one of the most religiously tolerant nations in the world."
+          "description": "Albania is the only European country with a Muslim majority, yet it's one of the most religiously tolerant nations in the world"
+        },
+        {
+          "icon": { "family": "MaterialIcons", "name": "castle" },
+          "title": "Bunker Paradise",
+          "description": "Albania has over 700,000 concrete bunkers built during communist era - that's 1 bunker for every 4 people!"
+        },
+        {
+          "icon": { "family": "MaterialCommunityIcons", "name": "bird" },
+          "title": "Land of Eagles",
+          "description": "Albania means 'Land of Eagles' in Albanian. The double-headed eagle on their flag represents the north and south of the country"
         },
         {
           "icon": { "family": "MaterialIcons", "name": "travel-explore" },
           "title": "Global Albanian Diaspora",
-          "description": "More Albanians live outside Albania than inside! With over 7 million Albanians worldwide and only 2.8 million in Albania itself, the diaspora spans across Italy, Greece, US, Germany, and beyond."
+          "description": "More Albanians live outside Albania than inside! With over 7 million Albanians worldwide and only 2.8 million in Albania itself"
         }
       ]
     },
@@ -1864,12 +1860,12 @@
             "24-hour operation",
             "Traditional Albanian products"
           ],
-          "location": "Avni Rustemi Square, 8 minutes walk from city center",
+          "location": "Avni Rustemi Square",
           "address": "Avni Rustemi Square, Tirana",
           "operatingHours": "24 hours (peak morning hours)",
           "parkingAvailable": false,
           "publicTransport": "8-minute walk from Skanderbeg Square",
-          "shortDescription": "Historic market offering fresh local produce and traditional products",
+          "shortDescription": "Historic market offering fresh local produce",
           "keyFeatures": [
             "24-hour operation schedule",
             "Fresh local produce focus",
