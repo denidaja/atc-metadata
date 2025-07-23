@@ -85,7 +85,7 @@
         "icon": "",
         "description": "Spectacular protected areas from alpine to coastal landscapes",
         "dataSource": "national-parks",
-        "backgroundImageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
+        "backgroundImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Butrint_Albania_17_Agora.jpg/960px-Butrint_Albania_17_Agora.jpg",
         "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
         "localInsight": [
           {
@@ -494,7 +494,7 @@
         "name": "Butrint National Park",
         "shortDescription": "Ancient Greek and Roman ruins nestled in pristine wetlands, showcasing 2,500 years of history.",
         "location": "Sarandë, Vlorë County",
-        "imageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Butrint_Albania_17_Agora.jpg/960px-Butrint_Albania_17_Agora.jpg",
         "type": "unesco",
         "detailedDescription": "Butrint is one of Albania's most significant archaeological sites, inhabited since prehistoric times. The site features Greek, Roman, Byzantine, and Venetian ruins, including a well-preserved Greek theater, Roman forum, and early Christian basilica. The ancient city was continuously inhabited from the 8th century BC to the late Middle Ages.",
         "keyFeatures": [
@@ -631,7 +631,7 @@
         "name": "Butrint National Park",
         "shortDescription": "Unique combination of archaeological treasures and pristine wetland ecosystems on the Ionian coast.",
         "location": "Sarandë, Vlorë County",
-        "imageUrl": "https://www.expoaus.org/upload/userfiles/images/Butrint2.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Butrint_Albania_17_Agora.jpg/960px-Butrint_Albania_17_Agora.jpg",
         "type": "park",
         "detailedDescription": "Butrint National Park protects 9,424 hectares of diverse ecosystems including wetlands, forests, and archaeological sites. Beyond the famous UNESCO archaeological site, the park encompasses Lake Butrint, coastal lagoons, and the Vivari Channel. The area supports over 1,200 plant species and 800 animal species, including the endangered Dalmatian pelican.",
         "keyFeatures": [

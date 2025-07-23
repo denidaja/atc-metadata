@@ -610,7 +610,10 @@
         "bookingAdvance": "1-2 days",
         "groupSize": "2-20 people",
         "equipment": "All equipment provided",
-        "imageUrl": "https://www.winedering.com/uploads/travels/5511/big/foto-39.jpg.webp"
+        "imageUrl": "https://www.winedering.com/uploads/travels/5511/big/foto-39.jpg.webp",
+        "metadata": {
+          "new": true
+        }
       },
       {
         "id": "act_9",
