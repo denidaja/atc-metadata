@@ -625,74 +625,8 @@
         }
       },
       {
-        "id": "act_9",
-        "name": "Theth to Valbona Hike",
-        "category": "Hiking & Trekking",
-        "description": "Epic day hike through Albanian Alps connecting two pristine mountain villages",
-        "highlights": [
-          "Valbona Pass at 1,795m",
-          "Accursed Mountains",
-          "Traditional guesthouses",
-          "Pristine wilderness"
-        ],
-        "location": "Theth to Valbona National Parks",
-        "duration": "7-10 hours hiking + 3-day trip",
-        "difficulty": "Moderate to Challenging",
-        "bestSeason": "June to October",
-        "pricing": "€150-200 for 3-day experience",
-        "shortDescription": "Albania's most famous trek through the heart of the Accursed Mountains",
-        "detailedDescription": "This legendary 17km trek connects Theth and Valbona villages through the heart of the Albanian Alps. The route crosses Valbona Pass at 1,795m elevation, offering spectacular views of the Accursed Mountains. Since there's no road connecting the two villages, hiking is the only way to travel between them, making this a unique wilderness experience.",
-        "keyFeatures": [
-          "17km mountain trail",
-          "Valbona Pass crossing at 1,795m",
-          "Two national parks experience",
-          "Traditional mountain guesthouses",
-          "Authentic Albanian hospitality",
-          "Mountain cafe stops available"
-        ],
-        "requirements": "Good fitness level, mountain hiking experience helpful",
-        "includedServices": "Guesthouse accommodation, meals, local transport arrangements",
-        "bookingAdvance": "1-2 weeks in summer",
-        "groupSize": "Individual to small groups",
-        "equipment": "Proper hiking boots, layers, rain gear essential",
-        "imageUrl": "https://assets.albaniatravelcompanion.com/theth_to_valbona_hike.jpg"
-      },
-      {
-        "id": "act_10",
-        "name": "Albanian Alps Multi-Day Trekking",
-        "category": "Hiking & Trekking",
-        "description": "Extended trekking adventure exploring multiple peaks and valleys in the Accursed Mountains",
-        "highlights": [
-          "Multiple peak ascents",
-          "Remote valleys exploration",
-          "Traditional villages",
-          "Peaks of the Balkans trail"
-        ],
-        "location": "Albanian Alps (Theth, Valbona, Kelmend)",
-        "duration": "5-10 days",
-        "difficulty": "Challenging",
-        "bestSeason": "June to September",
-        "pricing": "€300-600 for 5-7 day trek",
-        "shortDescription": "Extended wilderness trekking through Albania's most remote mountains",
-        "detailedDescription": "Multi-day trekking adventures in the Albanian Alps offer access to remote valleys and challenging peaks. Routes include the Peaks of the Balkans trail section, ascents of peaks like Jezerca (2,694m), and exploration of pristine valleys. Experience includes camping or mountain hut accommodation and traditional mountain culture.",
-        "keyFeatures": [
-          "Multiple peak ascent options",
-          "Remote wilderness camping",
-          "Traditional shepherd encounters",
-          "Challenging mountain terrain",
-          "Professional mountain guides",
-          "All camping equipment provided"
-        ],
-        "requirements": "Excellent fitness, previous trekking experience essential",
-        "includedServices": "Professional guide, camping equipment, meals, permits",
-        "bookingAdvance": "3-4 weeks",
-        "groupSize": "4-8 trekkers",
-        "equipment": "Personal hiking gear, camping equipment provided",
-        "imageUrl": "https://assets.albaniatravelcompanion.com/albanian_alps_multi_day_trekking.jpg"
-      },
-      {
         "id": "act_11",
-        "name": "Blue Eye and Waterfalls Hiking",
+        "name": "Theth Blue Eye and Waterfalls Hiking",
         "category": "Hiking & Trekking",
         "description": "Day hikes to Albania's most spectacular natural springs and waterfalls",
         "highlights": [

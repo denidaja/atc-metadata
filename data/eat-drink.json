@@ -201,13 +201,11 @@
         "location": "Rruga Deshmoret e 4 Shkurtit, Tirana",
         "imageUrl": "https://assets.albaniatravelcompanion.com/botanica.webp",
         "type": "coffee",
-        "detailedDescription": "Cafe Botanica lives up to its name with an abundance of plants creating a greenhouse-like atmosphere in the heart of Tirana. Specializing in organic and fair-trade coffee, the café also offers an extensive menu of healthy breakfast and brunch options. The botanical theme extends to their food presentation, with edible flowers and herbs featured prominently in their dishes.",
+        "detailedDescription": "Cafe Botanica lives up to its name with an abundance of plants creating a greenhouse-like atmosphere in the heart of Tirana. Specializing in organic and fair-trade coffee, the café also offers an extensive menu of healthy breakfast and brunch options.",
         "keyFeatures": [
           "Botanical Paradise - Extensive plant collection creating jungle vibes",
           "Organic Coffee - Fair-trade and sustainably sourced beans",
-          "Healthy Menu - Superfood bowls, fresh juices, and organic options",
-          "Edible Gardens - Herbs and flowers used in food preparation",
-          "Eco-Conscious - Sustainable practices and biodegradable packaging"
+          "Healthy Menu - Superfood bowls, fresh juices, and organic options"
         ],
         "visitingInfo": "Open daily 8:00-20:00. Vegan and gluten-free options available. Plant care workshops occasionally held. Instagram-popular spot - expect crowds on weekends.",
         "bestTimeToVisit": "Morning light (8:00-10:00) showcases the plants beautifully. Weekday afternoons (14:00-16:00) for a peaceful experience.",
@@ -269,25 +267,6 @@
         "visitingInfo": "Open daily 7:00-23:00. Busy pedestrian location - limited parking. French breakfast served until 12:00. Sidewalk seating popular but limited.",
         "bestTimeToVisit": "Early morning (7:00-9:00) for freshest pastries. Evening aperitif time (18:00-20:00) for bustling street atmosphere.",
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+District+Pedonale+Tirana+Albania"
-      },
-      {
-        "id": "stephen-center",
-        "name": "Stephen Center Café",
-        "shortDescription": "Multi-level cultural center café combining excellent coffee with art exhibitions, bookstore, and events.",
-        "location": "Rruga Ibrahim Rugova, Tirana",
-        "imageUrl": "https://assets.albaniatravelcompanion.com/stephen_center_caf.webp",
-        "type": "coffee",
-        "detailedDescription": "Stephen Center Café operates within a vibrant cultural center that includes art galleries, a bookstore, and event spaces. The café serves as a meeting point for Tirana's intellectual and artistic community, offering quality coffee alongside cultural programming. The multi-level space provides different atmospheres, from quiet reading areas to collaborative workspaces and exhibition viewing areas.",
-        "keyFeatures": [
-          "Cultural Hub - Art exhibitions, bookstore, and events",
-          "Multi-Level Space - Different areas for various activities",
-          "Intellectual Community - Popular with artists, writers, and academics",
-          "Event Programming - Regular cultural events and book launches",
-          "Book Collection - Curated selection of literature and art books"
-        ],
-        "visitingInfo": "Open Tuesday-Sunday 9:00-20:00, closed Mondays. Event schedule varies - check website. Art exhibitions change monthly. Book browsing encouraged while enjoying coffee.",
-        "bestTimeToVisit": "Afternoon (14:00-17:00) for art viewing and quiet coffee. Evening events (18:00-20:00) for cultural programming.",
-        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stephen+Center+Cafe+Tirana+Albania"
       },
       {
         "id": "kafe-flora",
@@ -446,7 +425,7 @@
       {
         "id": "serendipity-restaurant",
         "name": "Serendipity Restaurant",
-        "shortDescription": "Romantic fine dining restaurant specializing in Mexican cuisine with Albanian influences and extensive drinks selection.",
+        "shortDescription": "Relaxed dining restaurant specializing in Mexican cuisine with Albanian influences and extensive drinks selection.",
         "location": "Bllok area, Tirana",
         "imageUrl": "https://assets.albaniatravelcompanion.com/serendipity.webp",
         "type": "restaurant",
@@ -834,15 +813,14 @@
       {
         "id": "kino-bar",
         "name": "KINO",
-        "shortDescription": "Cinema-themed cocktail bar featuring film memorabilia, craft drinks, and screenings in a vintage movie theater setting.",
+        "shortDescription": "Cinema-themed cocktail bar featuring film memorabilia and craft drinks in a vintage movie theater setting.",
         "location": "Rruga Abdyl Frashëri, Tirana",
         "imageUrl": "https://assets.albaniatravelcompanion.com/kino.webp",
         "type": "bar",
-        "detailedDescription": "KINO transforms the classic movie theater experience into an innovative cocktail bar. The venue features authentic cinema seating, vintage film equipment, and movie memorabilia from Albanian and international cinema. Their cocktail menu is inspired by classic films, and they regularly host film screenings, creating a unique entertainment experience that combines drinks with cinema culture.",
+        "detailedDescription": "KINO transforms the classic movie theater experience into an innovative cocktail bar. The venue features authentic cinema seating, vintage film equipment, and movie memorabilia from Albanian and international cinema. Their cocktail menu is inspired by classic films, creating a unique entertainment experience that combines drinks with cinema culture.",
         "keyFeatures": [
           "Cinema Theme - Authentic movie theater seating and décor",
           "Film-Inspired Cocktails - Drinks named after classic movies",
-          "Movie Screenings - Regular film events and premieres",
           "Vintage Equipment - Original cinema projection equipment",
           "Cultural Hub - Supporting Albanian and international cinema"
         ],
@@ -964,7 +942,7 @@
         ],
         "visitingInfo": "Open 24/7, 365 days a year. Cash and cards accepted. No reservations needed. Popular late-night spot. Multiple pizza varieties always available.",
         "bestTimeToVisit": "Late night (22:00-02:00) when most other places are closed. Lunch hours (12:00-14:00) for quick meal option.",
-        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zio+Peppe+pizza+al+metro+Tirana+Albania"
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zio+Peppe+Tirana+Albania"
       },
       {
         "id": "laguna-pizza",
