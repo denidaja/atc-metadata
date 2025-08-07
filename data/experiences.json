@@ -11,8 +11,8 @@
         "dataSource": "entertainment",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/select_hill_resort_pool.webp",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "count": 0,
         "localInsight": [
@@ -34,8 +34,8 @@
         "dataSource": "experiences",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/vjosa_river_rafting.jpg",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "count": 0,
         "localInsight": [
@@ -57,8 +57,8 @@
         "dataSource": "shopping",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/tirana_east_gate_teg.jpeg",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "count": 0,
         "localInsight": [

@@ -1,7 +1,7 @@
 {
   "pageConfig": {
     "title": "Eat & Drink",
-    "subtitle": "Discover Tirana's vibrant food and drink scene",
+    "subtitle": "Discover a vibrant food and drink scene",
     "categories": [
       {
         "id": "coffee",
@@ -11,8 +11,8 @@
         "dataSource": "coffee-shops",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/district.webp",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "localInsight": [
           {
@@ -33,8 +33,8 @@
         "dataSource": "restaurants",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/mullixhiu.webp",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "localInsight": [
           {
@@ -55,8 +55,8 @@
         "dataSource": "bars",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/kino.webp",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "localInsight": [
           {
@@ -77,8 +77,8 @@
         "dataSource": "bakeries-qsr",
         "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/smash_burger_tirana.webp",
         "gradientColors": [
-          "rgba(0,0,0,0.4)",
-          "rgba(0,0,0,0.6)"
+          "rgba(0,0,0,0.25)",
+          "rgba(0,0,0,0.35)"
         ],
         "localInsight": [
           {
