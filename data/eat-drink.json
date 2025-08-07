@@ -140,17 +140,17 @@
       {
         "id": "destil-creative-hub",
         "name": "Destil Creative Hub Tirana",
-        "shortDescription": "Trendy creative space combining excellent coffee, coworking areas, and artistic events just 5 minutes from the apartment.",
+        "shortDescription": "Trendy creative space combining excellent coffee, coworking areas, and artistic events just 5 minutes from the city center.",
         "location": "Rruga Abdyl Frashëri, Tirana",
         "imageUrl": "https://assets.albaniatravelcompanion.com/destil.webp",
         "type": "coffee",
-        "detailedDescription": "Destil Creative Hub is more than just a café - it's a vibrant community space where coffee culture meets creativity. Located just 5 minutes from the apartment, this trendy spot offers specialty coffee, healthy breakfast options, and regularly hosts art exhibitions, workshops, and networking events. The industrial-chic design and collaborative atmosphere make it popular with digital nomads and local creatives.",
+        "detailedDescription": "Destil Creative Hub is more than just a café - it's a vibrant community space where coffee culture meets creativity. Located just 5 minutes from the city center, this trendy spot offers specialty coffee, healthy breakfast options, and regularly hosts art exhibitions, workshops, and networking events. The industrial-chic design and collaborative atmosphere make it popular with digital nomads and local creatives.",
         "keyFeatures": [
           "Creative Community - Regular art events and workshops",
           "Coworking Space - Dedicated work areas with fast WiFi",
           "Specialty Coffee - Third-wave coffee culture",
           "Healthy Options - Smoothie bowls, avocado toast, and fresh juices",
-          "Convenient Location - Just 5 minutes from apartment"
+          "Convenient Location - Just 5 minutes from city center"
         ],
         "visitingInfo": "Open Monday-Friday 7:30-23:00, weekends 8:00-23:00. Coworking day pass available. Free WiFi. Laptop-friendly environment. Event calendar available online.",
         "bestTimeToVisit": "Early morning (7:30-9:00) for productive work sessions. Evening events typically start at 19:00.",
@@ -313,13 +313,13 @@
       {
         "id": "golosa-pizzeria",
         "name": "Golosa Pizzeria Ristorante",
-        "shortDescription": "Authentic Italian restaurant just 4 minutes from apartment, offering excellent food at great prices with traditional recipes.",
-        "location": "4-minute walk from apartment, Tirana",
+        "shortDescription": "Authentic Italian restaurant just 4 minutes from city center, offering excellent food at great prices with traditional recipes.",
+        "location": "4-minute walk from city center, Tirana",
         "imageUrl": "https://assets.albaniatravelcompanion.com/golosa_pizzeria_ristorante.webp",
         "type": "restaurant",
-        "detailedDescription": "Golosa Pizzeria Ristorante combines the convenience of being just 4 minutes from the apartment with the authenticity of traditional Italian cuisine. This family-run establishment has built a loyal following through their commitment to quality ingredients, traditional preparation methods, and exceptional value for money. Their wood-fired pizza oven and homemade pasta make it a standout choice for both casual dining and special occasions.",
+        "detailedDescription": "Golosa Pizzeria Ristorante combines the convenience of being just 4 minutes from the city center with the authenticity of traditional Italian cuisine. This family-run establishment has built a loyal following through their commitment to quality ingredients, traditional preparation methods, and exceptional value for money. Their wood-fired pizza oven and homemade pasta make it a standout choice for both casual dining and special occasions.",
         "keyFeatures": [
-          "Close Location - Just 4-minute walk from apartment",
+          "Close Location - Just 4-minute walk from city center",
           "Authentic Italian - Traditional recipes and preparation methods",
           "Excellent Value - Great food at reasonable prices",
           "Wood-Fired Pizza - Traditional oven for authentic flavor",
@@ -950,15 +950,15 @@
       {
         "id": "zio-peppe",
         "name": "Zio Peppe - Pizza al Metro",
-        "shortDescription": "24/7 pizza by the meter concept just 7 minutes from the apartment, offering quick service and authentic Italian pizza.",
-        "location": "7-minute walk from apartment, Tirana",
+        "shortDescription": "24/7 pizza by the meter concept just 7 minutes from the city center, offering quick service and authentic Italian pizza.",
+        "location": "7-minute walk from city center, Tirana",
         "imageUrl": "https://assets.albaniatravelcompanion.com/zio peppe.webp",
         "type": "qsr",
-        "detailedDescription": "Zio Peppe revolutionizes pizza service with their innovative 'pizza al metro' concept, where pizzas are made in long rectangular shapes and sold by length. Open 24/7 and located just 7 minutes from the apartment, it's the perfect solution for quick, quality meals at any hour. Their authentic Italian recipes and quick service make it a local favorite for both tourists and residents.",
+        "detailedDescription": "Zio Peppe revolutionizes pizza service with their innovative 'pizza al metro' concept, where pizzas are made in long rectangular shapes and sold by length. Open 24/7 and located just 7 minutes from the city center, it's the perfect solution for quick, quality meals at any hour. Their authentic Italian recipes and quick service make it a local favorite for both tourists and residents.",
         "keyFeatures": [
           "24/7 Operation - Always open for convenience",
           "Pizza al Metro - Unique serving concept by length",
-          "Close Location - Just 7-minute walk from apartment",
+          "Close Location - Just 7-minute walk from city center",
           "Quick Service - Fast preparation and minimal wait times",
           "Authentic Italian - Traditional pizza recipes and techniques"
         ],
