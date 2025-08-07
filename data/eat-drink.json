@@ -75,7 +75,7 @@
         "icon": "",
         "description": "Fast food, street food, bakeries and grab-and-go options",
         "dataSource": "bakeries-qsr",
-        "backgroundImageUrl": "hhttps://assets.albaniatravelcompanion.com/smash_burger_tirana.webp",
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/smash_burger_tirana.webp",
         "gradientColors": [
           "rgba(0,0,0,0.4)",
           "rgba(0,0,0,0.6)"
