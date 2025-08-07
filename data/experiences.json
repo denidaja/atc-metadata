@@ -9,8 +9,11 @@
         "icon": "",
         "description": "Movies, pools, escape rooms, and unique experiences",
         "dataSource": "entertainment",
-        "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipN055CJs3WcNv9-96QgEan92EXq5a-1a_8_SbAA=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/select_hill_resort_pool.webp",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "count": 0,
         "localInsight": [
           {
@@ -29,8 +32,11 @@
         "icon": "",
         "description": "Rock climbing, rafting, cycling, and outdoor experiences",
         "dataSource": "experiences",
-        "backgroundImageUrl": "https://cdn1.matadornetwork.com/blogs/1/2021/11/LAKESIDE-12.jpg",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/vjosa_river_rafting.jpg",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "count": 0,
         "localInsight": [
           {
@@ -49,8 +55,11 @@
         "icon": "",
         "description": "Malls, markets, and unique shopping experiences",
         "dataSource": "shopping",
-        "backgroundImageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/tirana_east_gate_teg.jpeg",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "count": 0,
         "localInsight": [
           {
@@ -99,7 +108,7 @@
         "groupSize": "Individual to large groups",
         "bookingRequired": "Recommended for evening and weekend shows",
         "additionalInfo": "Founded in 1993, offers the best sound and image quality in Albania",
-        "imageUrl": "https://media.licdn.com/dms/image/v2/C561BAQHn7ezmYppdGQ/company-background_10000/company-background_10000/0/1585489602899/cineplexx_international_gmbh_cover?e=2147483647&v=beta&t=6jAY9ZEG4ZvD59oiWJF-RGr5Wu5_T93bV_yweB9YVP8"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/cineplexx_albania.jpg"
       },
       {
         "id": "ent_2",
@@ -129,7 +138,7 @@
         "groupSize": "Individual to medium groups",
         "bookingRequired": "Advance booking recommended for popular films",
         "additionalInfo": "Staff speaks English, making it convenient for international visitors",
-        "imageUrl": "https://timeouttirana.al/wp-content/uploads/2021/03/Kinema-Millenium.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/kinema_millennium.jpg"
       },
       {
         "id": "ent_3",
@@ -160,7 +169,7 @@
         "groupSize": "Individual to large groups",
         "bookingRequired": "No reservation needed",
         "additionalInfo": "Some facilities may be closed or require additional fees for access",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojPSCYoMyOoLmSyvXaee783F9qIfVBRhElznBWsY20ema9BoMCfvvl1kC0yU2hLZ9KWGvhgKsHMT_kUDcIxB8exTkEO4YJOsk9BhkyTEbY6iFQd032u8PIDcT7dTEBS3wzUKoeTQ=s1360-w1360-h1020-rw"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/aquadrom_swimming_complex.webp"
       },
       {
         "id": "ent_4",
@@ -191,7 +200,7 @@
         "groupSize": "Individual to groups",
         "bookingRequired": "Subscription or day pass required",
         "additionalInfo": "Weekend events feature famous Albanian singers and themed parties",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN055CJs3WcNv9-96QgEan92EXq5a-1a_8_SbAA=s1360-w1360-h1020-rw"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/select_hill_resort_pool.webp"
       },
       {
         "id": "ent_5",
@@ -222,7 +231,7 @@
         "groupSize": "2-6 people per room",
         "bookingRequired": "Yes, advance booking essential",
         "additionalInfo": "No physical effort required, only wit and observation skills",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/73/26/75/prison-break.jpg?w=1200&h=1200&s=1"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/tirana_escape_room.jpg"
       },
       {
         "id": "ent_6",
@@ -253,7 +262,7 @@
         "groupSize": "1-2 players per session",
         "bookingRequired": "Recommended, especially for groups",
         "additionalInfo": "First VR center opened in Tirana and Albania",
-        "imageUrl": "https://www.spottedbylocals.com/wp-content/uploads/2024/10/VR-Games-Lounge-1-scaled.jpeg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/vr_games_lounge.jpeg"
       },
       {
         "id": "ent_8",
@@ -284,7 +293,7 @@
         "groupSize": "Small groups preferred",
         "bookingRequired": "Yes, advance booking required",
         "additionalInfo": "Uses only the best local produce and traditional techniques",
-        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/d3/4a/8a.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/cooking_class_tirana.jpg"
       },
       {
         "id": "ent_9",
@@ -315,7 +324,7 @@
         "groupSize": "Small groups up to 8 people",
         "bookingRequired": "Yes, advance booking essential",
         "additionalInfo": "Host has nearly a decade of culinary experience and focuses on authentic techniques",
-        "imageUrl": "https://goaslocal.com/wp-content/uploads/2019/02/Betterimage.ai_1729510550561.jpeg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/go_as_local_cooking_class.jpeg"
       },
       {
         "id": "ent_12",
@@ -346,7 +355,7 @@
         "groupSize": "Individual to large groups",
         "bookingRequired": "Not required for most activities",
         "additionalInfo": "Entertainment options are located on upper floors of the shopping center",
-        "imageUrl": "https://ring.al/wp-content/uploads/2023/06/pano-2-1024x457.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/ring_center_entertainment.jpg"
       },
       {
         "id": "ent_13",
@@ -377,7 +386,7 @@
         "groupSize": "Limited capacity",
         "bookingRequired": "Contact residence for access",
         "additionalInfo": "Pool design inspired by Noah's Ark with artistic animal motifs",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/56/cd/b8/city-view.jpg?w=900&h=500&s=1"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/arka_rooftop_pool.jpg"
       }
     ],
     "experiences": [
@@ -412,7 +421,7 @@
         "bookingAdvance": "2-3 days recommended",
         "groupSize": "2-6 climbers per guide",
         "equipment": "Climbing gear provided, bring personal harness if preferred",
-        "imageUrl": "https://eia476h758b.exactdn.com/wp-content/uploads/2023/07/m-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps-scaled.jpeg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/rock_climbing_in_albanian_alps.jpeg"
       },
       {
         "id": "act_2",
@@ -445,7 +454,7 @@
         "bookingAdvance": "1-2 days",
         "groupSize": "2-8 climbers",
         "equipment": "Full climbing gear provided",
-        "imageUrl": "https://cdn1.matadornetwork.com/blogs/1/2021/11/LAKESIDE-12.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/bovilla_reservoir_climbing.jpg"
       },
       {
         "id": "act_3",
@@ -478,7 +487,7 @@
         "bookingAdvance": "24 hours, same-day possible",
         "groupSize": "6-8 people per raft",
         "equipment": "All rafting equipment, life jackets, helmets provided",
-        "imageUrl": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F799d0bca-0550-11ee-8d81-e0eaecec6481.jpg?crop=5288%2C2975%2C13%2C561&resize=1200"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/vjosa_river_rafting.jpg"
       },
       {
         "id": "act_4",
@@ -511,7 +520,7 @@
         "bookingAdvance": "1-2 days recommended",
         "groupSize": "4-8 people per raft",
         "equipment": "Complete rafting gear, safety equipment provided",
-        "imageUrl": "https://berat.al/admin/assets/images/Osum-Canyons-1.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/osumi_canyon_rafting.jpg"
       },
       {
         "id": "act_5",
@@ -544,7 +553,7 @@
         "bookingAdvance": "2-4 weeks recommended",
         "groupSize": "8-16 cyclists",
         "equipment": "Quality bikes provided, bring personal gear",
-        "imageUrl": "https://www.transdinarica.com/wp-content/uploads/2024/03/cover-Trans_Dinarica_Cycle_Route-Albania-Matevz_Hribar-1024x683.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/cycling_tour_of_albania.jpg"
       },
       {
         "id": "act_6",
@@ -577,7 +586,7 @@
         "bookingAdvance": "1 day",
         "groupSize": "2-10 cyclists",
         "equipment": "Mountain bikes, helmets, protective gear provided",
-        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0c/0b/dd/92.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/dajti_mountain_cycling.jpg"
       },
       {
         "id": "act_8",
@@ -610,7 +619,7 @@
         "bookingAdvance": "1-2 days",
         "groupSize": "2-20 people",
         "equipment": "All equipment provided",
-        "imageUrl": "https://www.winedering.com/uploads/travels/5511/big/foto-39.jpg.webp",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/duka_winery_experience.webp",
         "metadata": {
           "new": true
         }
@@ -646,7 +655,7 @@
         "bookingAdvance": "1-2 weeks in summer",
         "groupSize": "Individual to small groups",
         "equipment": "Proper hiking boots, layers, rain gear essential",
-        "imageUrl": "https://www.snoezelsontheroad.com/wp-content/uploads/2023/10/coverfoto-hiking-Albanie.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/theth_to_valbona_hike.jpg"
       },
       {
         "id": "act_10",
@@ -679,7 +688,7 @@
         "bookingAdvance": "3-4 weeks",
         "groupSize": "4-8 trekkers",
         "equipment": "Personal hiking gear, camping equipment provided",
-        "imageUrl": "https://www.thenaturaladventure.com/wp-content/uploads/2019/12/trails-of-albanian-alps-3-crop-1679315105-1945x1094.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/albanian_alps_multi_day_trekking.jpg"
       },
       {
         "id": "act_11",
@@ -712,7 +721,7 @@
         "bookingAdvance": "Same day possible",
         "groupSize": "2-15 people",
         "equipment": "Comfortable walking shoes, swimwear optional",
-        "imageUrl": "https://sailingstonetravel.b-cdn.net/wp-content/uploads/2021/10/Hiking-to-the-Blue-Eye-in-Theth-58-copy.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/blue_eye_and_waterfalls_hiking.jpg"
       },
       {
         "id": "act_12",
@@ -745,7 +754,7 @@
         "bookingAdvance": "1-2 days recommended",
         "groupSize": "Individual to large groups",
         "equipment": "Camera, comfortable clothing, light hiking shoes",
-        "imageUrl": "https://inbetweentravels.com/wp-content/uploads/2020/05/20170820-08204500-scaled.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/komani_lake_ferry_and_hiking.jpg"
       },
       {
         "id": "act_13",
@@ -778,7 +787,7 @@
         "bookingAdvance": "1-2 days recommended",
         "groupSize": "2-15 people",
         "equipment": "Comfortable walking shoes, camera for scenic views",
-        "imageUrl": "https://abaiawinery.al/wp-content/uploads/2023/08/2C2A9106-edit-2.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/abaia_winery_vineyard.jpg"
       },
       {
         "id": "act_14",
@@ -811,7 +820,7 @@
         "bookingAdvance": "1-2 days recommended",
         "groupSize": "2-20 people",
         "equipment": "Comfortable walking shoes, camera for vineyard views",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/fc/4f/18/cobo-winery-s-cellar.jpg?w=1400&h=-1&s=1"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/obo_winery.jpg"
       }
     ],
     "shopping": [
@@ -855,7 +864,7 @@
           "Entertainment",
           "Dining"
         ],
-        "imageUrl": "https://vrapon.al/wp-content/uploads/2023/03/teg-1280x720.jpeg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/tirana_east_gate_teg.jpeg"
       },
       {
         "id": "shop_2",
@@ -890,8 +899,13 @@
         ],
         "websiteUrl": null,
         "averagePriceRange": "Medium to High",
-        "bestForShopping": ["Fashion", "Electronics", "Lifestyle", "Art"],
-        "imageUrl": "https://www.comisa.it/wp-content/uploads/2021/06/CD.jpg"
+        "bestForShopping": [
+          "Fashion",
+          "Electronics",
+          "Lifestyle",
+          "Art"
+        ],
+        "imageUrl": "https://assets.albaniatravelcompanion.com/toptani_shopping_center.jpg"
       },
       {
         "id": "shop_3",
@@ -932,7 +946,7 @@
           "Electronics",
           "Daily needs"
         ],
-        "imageUrl": "https://vakefiglass.com/wp-content/uploads/bb-plugin/cache/3-5-landscape.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/qtu_shopping_center.jpg"
       },
       {
         "id": "shop_5",
@@ -973,7 +987,7 @@
           "Dining",
           "International brands"
         ],
-        "imageUrl": "https://edilal.com/wp-content/uploads/2017/10/ETC-2.jpg"
+        "imageUrl": "https://assets.albaniatravelcompanion.com/european_trade_center_etc.jpg"
       }
     ]
   }

@@ -9,8 +9,11 @@
         "icon": "",
         "description": "Cozy cafés and brunch spots with Albanian coffee culture",
         "dataSource": "coffee-shops",
-        "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npP30G-7-lc1f7aAivfLcB_K9KkOqzW_RzXKfYwIj8PKBYe34QKnXdIU8b4gcumkTkKzvnBS2qodjUNFMqSFxNv0hDKSjUcxYQMu-xBikzCaKyi5ZK7bLvsz5HRll59bFrGBvETUQ=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/district.webp",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "localInsight": [
           {
             "title": "Local Secret",
@@ -28,8 +31,11 @@
         "icon": "",
         "description": "From traditional Albanian cuisine to international favorites",
         "dataSource": "restaurants",
-        "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRQ0aDqfdH-K8yDMail0GbbOJg6CYICO8wc2PD=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/mullixhiu.webp",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "localInsight": [
           {
             "title": "Local Secret",
@@ -47,8 +53,11 @@
         "icon": "",
         "description": "Local bars, craft beer, and traditional raki spots",
         "dataSource": "bars",
-        "backgroundImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCWFn7XfIAK6fASfIYMyqvuh09EMdiULLnN6IRD_Ku-X8I6e0_cgiA8HhLq1b06-ZH3NfzGYk-0Bh-wOYZoBOIUOdkGJEGS40g_GtkJdPRmHEpcnmovJEkT4nq9J4IerS7aJBsHg=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "https://assets.albaniatravelcompanion.com/kino.webp",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "localInsight": [
           {
             "title": "Local Secret",
@@ -66,8 +75,11 @@
         "icon": "",
         "description": "Fast food, street food, bakeries and grab-and-go options",
         "dataSource": "bakeries-qsr",
-        "backgroundImageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAZvyVO_6QcTk72GgRX0Yc6bbc2UCF_ZMaNF5y=s1360-w1360-h1020-rw",
-        "gradientColors": ["rgba(0,0,0,0.4)", "rgba(0,0,0,0.6)"],
+        "backgroundImageUrl": "hhttps://assets.albaniatravelcompanion.com/smash_burger_tirana.webp",
+        "gradientColors": [
+          "rgba(0,0,0,0.4)",
+          "rgba(0,0,0,0.6)"
+        ],
         "localInsight": [
           {
             "title": "Local Secret",
@@ -92,7 +104,7 @@
         "name": "Mulliri i Vjetër",
         "shortDescription": "Popular coffee chain known for quality espresso, cappuccinos, and modern café atmosphere with multiple locations across Tirana.",
         "location": "Pazari i Ri area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbYfG43mrC7IKPKFtiZ0949PKLeDDlDID6UvBi9_S5LHP61VFNJQ3muhql2HwfV2-HFDzn_FG9vO9vz1QHE-lMPt5Lv6q5UDLWAPd-zBzMmV0st69eGnoGyok_UCyln3JhnMo=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/mulliri.jpg",
         "type": "coffee",
         "detailedDescription": "Mulliri i Vjetër (The Old Mill) is one of Tirana's first and most beloved coffee chains, establishing itself as a cornerstone of the city's café culture. Known for serving high-quality espresso, cappuccinos, lattes, and frappes, along with fresh pastries and light snacks. With multiple locations throughout Tirana, this modern coffee shop offers a cozy atmosphere reminiscent of international café chains while maintaining its Albanian roots. Popular with both locals and visitors, it's the perfect spot for business meetings, casual catch-ups, or simply enjoying excellent coffee.",
         "keyFeatures": [
@@ -111,7 +123,7 @@
         "name": "FLORUM",
         "shortDescription": "Chic botanical café with specialty coffee, fresh pastries, and a garden-inspired atmosphere perfect for brunch.",
         "location": "Rruga e Kavajës, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodnjJqmL4Ht32vXX-1gXZN3lR1-Muq0iLPo8dAdjCTf3G1a4Ybp0A5INIIwm8DFYW9xtcVAlacC9BgcMir_4KRqcig3RwPEQLtfXqpkQ_b_OsECDmlRXIe4QJW8gDsWd3TVTt0=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/florum.jpeg",
         "type": "coffee",
         "detailedDescription": "FLORUM is Tirana's premier botanical café, combining specialty coffee culture with a stunning plant-filled interior. Known for their expertly crafted coffee drinks, fresh croissants, and Instagram-worthy brunch plates. The café features abundant greenery, natural lighting, and a peaceful atmosphere that makes it perfect for both casual meetings and leisurely weekend brunches.",
         "keyFeatures": [
@@ -130,7 +142,7 @@
         "name": "Destil Creative Hub Tirana",
         "shortDescription": "Trendy creative space combining excellent coffee, coworking areas, and artistic events just 5 minutes from the apartment.",
         "location": "Rruga Abdyl Frashëri, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npP30G-7-lc1f7aAivfLcB_K9KkOqzW_RzXKfYwIj8PKBYe34QKnXdIU8b4gcumkTkKzvnBS2qodjUNFMqSFxNv0hDKSjUcxYQMu-xBikzCaKyi5ZK7bLvsz5HRll59bFrGBvETUQ=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/destil.webp",
         "type": "coffee",
         "detailedDescription": "Destil Creative Hub is more than just a café - it's a vibrant community space where coffee culture meets creativity. Located just 5 minutes from the apartment, this trendy spot offers specialty coffee, healthy breakfast options, and regularly hosts art exhibitions, workshops, and networking events. The industrial-chic design and collaborative atmosphere make it popular with digital nomads and local creatives.",
         "keyFeatures": [
@@ -149,7 +161,7 @@
         "name": "HANA Corner Café",
         "shortDescription": "Cozy corner café known for exceptional coffee, homemade cakes, and warm hospitality in a charming neighborhood setting.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozL-KgOOgO9gWauU-_XcEjipxF8vlLm6Y4QJiNdYK5iuSChzY30IfsyaBIvkKxEKHy_LelRsw1UONNbjY63XlYtO7N8aqX0VtavzvPq7qYlFOvSYfYKBnqE04F2FOPRBzBl_og=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/Hana.webp",
         "type": "coffee",
         "detailedDescription": "HANA Corner Café embodies the perfect neighborhood coffee shop - intimate, welcoming, and consistently excellent. This family-run establishment has built a loyal following through their attention to detail, from perfectly extracted espresso to homemade cakes baked fresh daily. The cozy interior features comfortable seating, local artwork, and the kind of warm atmosphere that invites you to linger over your morning coffee.",
         "keyFeatures": [
@@ -168,7 +180,7 @@
         "name": "Oborri",
         "shortDescription": "Charming courtyard café serving artisanal coffee and traditional Albanian breakfast in a beautifully restored historic building.",
         "location": "Rruga Myslym Shyri, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZcmSzGt5FN1QbfgHMVw_rlNtpjUCx-dTt2K1NTvV-ctNYMtuXW3K0-IO4cOB7aaGp7tuO8XE8YQHlP4mxUNLyd-DWFQm8NV1XApmSsrgxbiNpC5z8-7-PAbgayoic9jDYz-Xlgg=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/Oborri.webp",
         "type": "coffee",
         "detailedDescription": "Oborri (meaning 'courtyard' in Albanian) is a hidden gem housed in a beautifully restored traditional building. The café combines modern coffee culture with Albanian heritage, offering both international coffee standards and traditional breakfast options. The peaceful courtyard setting provides an oasis from the bustling city streets, making it a favorite among both locals and visitors seeking authentic Albanian hospitality.",
         "keyFeatures": [
@@ -187,7 +199,7 @@
         "name": "Cafe Botanica",
         "shortDescription": "Garden-themed café with lush greenery, organic coffee, and healthy brunch options in a serene botanical setting.",
         "location": "Rruga Deshmoret e 4 Shkurtit, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgRTh3j6sxVYNKsVDildZsijYfvltFiJN1YrYsja8lsVs4GFbuMUtbDTYQVHxgCIV2S0Pu3z8F0phYtZ6ju_lpUZyukz53PEG2uMn0yy11vX0e9Ew43WltYi8dijggBX46kUqK=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/botanica.webp",
         "type": "coffee",
         "detailedDescription": "Cafe Botanica lives up to its name with an abundance of plants creating a greenhouse-like atmosphere in the heart of Tirana. Specializing in organic and fair-trade coffee, the café also offers an extensive menu of healthy breakfast and brunch options. The botanical theme extends to their food presentation, with edible flowers and herbs featured prominently in their dishes.",
         "keyFeatures": [
@@ -206,7 +218,7 @@
         "name": "Noor Coffee & Fine Food",
         "shortDescription": "Upscale café combining premium coffee with gourmet breakfast and lunch options in an elegant, modern setting.",
         "location": "Pazari i Ri area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaehGEu2G7cQFoFOZni63OoE0UTqg_NINunHgExJuQmkatvR3QT8aJNePAWrVKxC1bv4-j8g-T99JyVLecWXkQHzkn22Ce-gLUP-Zj6yVICVr4F-BRXiqlUwe_s408orCBEeHX=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/noor.jpg",
         "type": "coffee",
         "detailedDescription": "Noor Coffee & Fine Food represents the sophisticated side of Tirana's coffee scene, offering premium single-origin coffees alongside gourmet food options. The sleek, modern interior and professional service create an upscale dining experience. Their menu features both international favorites and Albanian-inspired dishes, all prepared with high-quality ingredients and artistic presentation.",
         "keyFeatures": [
@@ -225,7 +237,7 @@
         "name": "The Crown Rooftop & Dining",
         "shortDescription": "Sophisticated rooftop café offering panoramic city views, premium coffee, and elevated brunch experience.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouEFMhUIx08oq7nisRA0cid-dHSc3pkKLootIuHLIxKq5B_kLpyKZz1en--w_xI9ypcEaB4Cn-kMDTNFBFXSz3klhYNU3tnKtkb31WusG_1PTzq65invxPMJ_LL8UaH3ZXI2uz0g=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/the crown.webp",
         "type": "coffee",
         "detailedDescription": "The Crown Rooftop & Dining offers Tirana's most elevated coffee experience - literally. This sophisticated venue combines excellent coffee service with stunning panoramic views of the city and surrounding mountains. The rooftop setting creates a unique atmosphere for both casual coffee meetings and special brunch occasions, with weather permitting outdoor seating that showcases the best views in the city.",
         "keyFeatures": [
@@ -244,7 +256,7 @@
         "name": "Le District (Pedonale)",
         "shortDescription": "French-inspired café on the pedestrian street offering authentic pastries, coffee, and Parisian café culture.",
         "location": "Rruga Pedonale, Tirana Center",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8E4wGajFMmVOk-W3kWAM5i4MbkaRM2L_oBbJCGTFgErXqV-CSpMDsLJJoMGuHT14cE4uNOIKTtcS623aZA1dONYakdcERz6e2feb4DMe7gh1ZNstmuxMh2CMBBG29Vzj_bhs6Tg=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/district.webp",
         "type": "coffee",
         "detailedDescription": "Le District brings a touch of Parisian café culture to Tirana's main pedestrian street. This French-inspired establishment is renowned for its authentic croissants, pain au chocolat, and other traditional pastries made by French-trained bakers. The sidewalk seating provides perfect people-watching opportunities along the bustling pedestrian zone, while the interior maintains classic café bistro aesthetics.",
         "keyFeatures": [
@@ -263,7 +275,7 @@
         "name": "Stephen Center Café",
         "shortDescription": "Multi-level cultural center café combining excellent coffee with art exhibitions, bookstore, and events.",
         "location": "Rruga Ibrahim Rugova, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJXamTV4dA46Nw_jPy_jq8isc5dPO5m9JCdgjW=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/stephen_center_caf.webp",
         "type": "coffee",
         "detailedDescription": "Stephen Center Café operates within a vibrant cultural center that includes art galleries, a bookstore, and event spaces. The café serves as a meeting point for Tirana's intellectual and artistic community, offering quality coffee alongside cultural programming. The multi-level space provides different atmospheres, from quiet reading areas to collaborative workspaces and exhibition viewing areas.",
         "keyFeatures": [
@@ -282,7 +294,7 @@
         "name": "Kafe Flora",
         "shortDescription": "Historic iconic café from 1972, one of Albania's oldest coffee shops offering exceptional breakfast and traditional atmosphere.",
         "location": "Beginning of Durresi Street, intersection with Mine Peza Street, Tirana",
-        "imageUrl": "https://th.bing.com/th/id/R.f333335b8ed6d21cd53f4a00deef015c?rik=3mZbYP3qYAuOJw&riu=http%3a%2f%2fphotos.wikimapia.org%2fp%2f00%2f08%2f86%2f61%2f17_full.jpg&ehk=zzPrP6kFLv7pFHTQJws2LEdfuRk2fmXqhHY7%2ffQ8M%2bc%3d&risl=&pid=ImgRaw&r=0",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/kafe_flora.jpg",
         "type": "coffee",
         "detailedDescription": "Kafe Flora holds a special place in Albanian history as one of the oldest coffee shops in the country, dating back to 1972 and even immortalized in song. This iconic establishment delivers exceptional breakfast experiences with top-tier ingredients and expert preparation. Located in a historic six-floor building, the café maintains its traditional charm while serving quality coffee and food at remarkably reasonable prices.",
         "keyFeatures": [
@@ -303,7 +315,7 @@
         "name": "Golosa Pizzeria Ristorante",
         "shortDescription": "Authentic Italian restaurant just 4 minutes from apartment, offering excellent food at great prices with traditional recipes.",
         "location": "4-minute walk from apartment, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOMw7jvaV98Qcmwmm0gXMQwpoOQ5DCRgMi2DUun=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/golosa_pizzeria_ristorante.webp",
         "type": "restaurant",
         "detailedDescription": "Golosa Pizzeria Ristorante combines the convenience of being just 4 minutes from the apartment with the authenticity of traditional Italian cuisine. This family-run establishment has built a loyal following through their commitment to quality ingredients, traditional preparation methods, and exceptional value for money. Their wood-fired pizza oven and homemade pasta make it a standout choice for both casual dining and special occasions.",
         "keyFeatures": [
@@ -322,7 +334,7 @@
         "name": "Era Vila",
         "shortDescription": "Elegant restaurant in a beautiful villa setting offering refined Albanian and international cuisine with garden dining.",
         "location": "Rruga e Elbasanit, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolkrmljmRGPYGZXyjsncFMeMjZy0BWjqkWSxoH-z2uLgvyiOWz71D7Rhrsevg5po6J7BBkLTJzP1lPG0Ndgs4pTVc0XFLMQdyVE32gaXtt-mrS37y4P3iwjZ8tlhWf-ZQbs1lSAg=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/era vila.jpg",
         "type": "restaurant",
         "detailedDescription": "Era Vila transforms dining into an elegant experience within a beautifully restored villa surrounded by lush gardens. The restaurant specializes in refined Albanian cuisine alongside international favorites, all prepared with premium ingredients and artistic presentation. The romantic garden setting and sophisticated interior make it ideal for special occasions, business dinners, and memorable evenings.",
         "keyFeatures": [
@@ -341,7 +353,7 @@
         "name": "Artigiano at Vila",
         "shortDescription": "Artisanal Italian restaurant in a charming villa, focusing on handcrafted pasta and traditional Italian techniques.",
         "location": "Vila area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNcSTD_gVrW45qoZ2YNdyqlcp9NaeniUu48GGJk=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/artigiano_at_vila.webp",
         "type": "restaurant",
         "detailedDescription": "Artigiano at Vila embodies the artisanal spirit of Italian cuisine, housed in a charming villa that provides an intimate dining environment. The restaurant specializes in handcrafted pasta made daily by skilled Italian chefs, using traditional techniques and imported Italian ingredients. Their commitment to authenticity extends to their wine selection, featuring carefully chosen Italian vintages that complement their artisanal menu.",
         "keyFeatures": [
@@ -360,7 +372,7 @@
         "name": "Oda - Traditional Albanian Restaurant",
         "shortDescription": "Authentic Albanian dining experience featuring traditional recipes, cultural décor, and live folk music performances.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnYVjmjkUPSsx34ZC_6j9-GUKlS2tea-M0FQHaay0UkxbbGD-iLIAuoHp1RfAnIWuTk0s_21h0W5U0ETxKmJewNv_FlCNKmR08ZMAjd084epk5Dprhc-4LAHptksyCfMr4HrzDEehqYJ9x=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/oda-garden.jpg",
         "type": "restaurant",
         "detailedDescription": "Oda provides the most authentic Albanian dining experience in Tirana, featuring traditional recipes passed down through generations and served in an environment that celebrates Albanian culture. The restaurant's décor includes traditional Albanian artifacts, and they regularly host live folk music performances. Their menu focuses on regional specialties from all parts of Albania, offering visitors a comprehensive taste of the country's culinary heritage.",
         "keyFeatures": [
@@ -379,7 +391,7 @@
         "name": "Bati Restaurant 1",
         "shortDescription": "Seafood specialist offering fresh fish and traditional Albanian coastal dishes at excellent prices with harbor atmosphere.",
         "location": "Near Artificial Lake, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWvykB-oRr7NsFy4wXYdxwPHLBmGu-cgCb8fuE=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/bati_restaurant_1.webp",
         "type": "restaurant",
         "detailedDescription": "Bati Restaurant 1 specializes in fresh seafood and traditional Albanian coastal cuisine, bringing the flavors of Albania's beautiful coastline to Tirana. Located near the Artificial Lake, the restaurant creates a harbor-like atmosphere while maintaining excellent prices for high-quality seafood. Their daily fresh fish selection and traditional preparation methods make it a favorite among seafood enthusiasts and those seeking authentic coastal Albanian flavors.",
         "keyFeatures": [
@@ -398,7 +410,7 @@
         "name": "Mullixhiu",
         "shortDescription": "Award-winning fine dining restaurant showcasing modern Albanian cuisine with foraged ingredients and innovative techniques.",
         "location": "Rruga Pjeter Budi, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRQ0aDqfdH-K8yDMail0GbbOJg6CYICO8wc2PD=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/mullixhiu.webp",
         "type": "restaurant",
         "detailedDescription": "Mullixhiu represents the pinnacle of Albanian culinary innovation, led by renowned chef Bledar Kola who combines traditional Albanian ingredients with modern cooking techniques. The restaurant focuses on foraged ingredients, local sourcing, and creative presentations that tell the story of Albanian terroir. This award-winning establishment has gained international recognition for elevating Albanian cuisine to fine dining standards.",
         "keyFeatures": [
@@ -417,7 +429,7 @@
         "name": "Padam Boutique Restaurant",
         "shortDescription": "Intimate boutique restaurant offering Mediterranean fusion cuisine with emphasis on fresh seafood and seasonal ingredients.",
         "location": "Rruga Sulejman Delvina, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGl8gsZ1FC1EJ8u7gSXcHt3YcxtKmE2v5rFN61F82NUv_6ySvzXC6rxpOlg895o_LcA1KCdEgyGdyWdZMY5jc551U4oF_oukWreAFxLNUEnkkyCxmyWp5GAu9Bk6pzZ2JNcSWk=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/padam.jpg",
         "type": "restaurant",
         "detailedDescription": "Padam Boutique Restaurant creates an intimate dining experience with Mediterranean fusion cuisine that emphasizes fresh seafood and seasonal ingredients. The small, elegantly designed space provides personalized service and allows the kitchen to focus on quality over quantity. Their menu changes regularly based on seasonal availability and chef inspiration, ensuring each visit offers something new.",
         "keyFeatures": [
@@ -436,7 +448,7 @@
         "name": "Serendipity Restaurant",
         "shortDescription": "Romantic fine dining restaurant specializing in Mexican cuisine with Albanian influences and extensive drinks selection.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIr1rIEB8gqI0wy4dvPflJAIdpaTvN52QgASL79p5YgwwFVZybLsQZKIsihu2rZEVu4hh5s7Ff_Z5uU0qXY9b9V5hbcsOXkRhgATm4PYcK2dWNtHCKzxFj4SP5mpJOLyETFMlF=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/serendipity.webp",
         "type": "restaurant",
         "detailedDescription": "Serendipity Restaurant creates relaxed dining experiences through carefully crafted Mexican cuisine with subtle Albanian influences. The warm interior features soft lighting, comfortable seating, and an atmosphere designed for intimate conversations and special occasions. Their extensive wine selection includes both international favorites and premium Albanian wines, curated to complement their refined menu.",
         "keyFeatures": [
@@ -455,7 +467,7 @@
         "name": "Salt Restaurant",
         "shortDescription": "Contemporary steakhouse and grill specializing in premium cuts, innovative sides, and sophisticated meat-focused dining.",
         "location": "Rruga e Kavajës, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrP_xd3LgzDCEutbDrXG2EgKHgcTqNvwhJyPqlrf7UD0RxOki2PJINnqGuGsOrpltO7kK5IYJ7t7vj-sIPhg8RC0JjAeG_eDrLCKDVieFprpUD_j4pRaiWhzVhVyFOtuIawiwhlrg=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/salt.webp",
         "type": "restaurant",
         "detailedDescription": "Salt Restaurant elevates the steakhouse concept with contemporary design and innovative approaches to meat-focused dining. They source premium cuts from both local and international suppliers, preparing them using both traditional grilling techniques and modern cooking methods. The restaurant's sophisticated atmosphere and expert preparation make it a destination for serious meat enthusiasts and special occasions.",
         "keyFeatures": [
@@ -474,7 +486,7 @@
         "name": "Ceren Ismet Shehu",
         "shortDescription": "Authentic traditional Albanian restaurant in Tirana Castle offering fixed-menu experiences with local dishes and mountain views.",
         "location": "Rruga Murat Toptani, Tirana Castle",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/86/b6/1b/ceren-ismet-shehu.jpg?w=900&h=500&s=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/ceren_ismet_shehu.jpg",
         "type": "restaurant",
         "detailedDescription": "Ceren Ismet Shehu provides a unique approach to Albanian traditional cuisine, combining authentic recipes with international culinary knowledge from chef Ismet Shehu. Located within the historic Tirana Castle, the restaurant offers a fixed-menu concept featuring small portions of various traditional Albanian dishes. The evocative atmosphere blends traditional Albanian charm with modern elements, centered around a cozy fireplace and traditional décor.",
         "keyFeatures": [
@@ -493,7 +505,7 @@
         "name": "Tribe Urban Gastronomy",
         "shortDescription": "Premium steakhouse in the heart of Tirana featuring dry-aged meats, sophisticated atmosphere, and expert preparation.",
         "location": "Rr. Murat Toptani, Pedonale Tirana",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/95/f9/a4/tribe-urban-gastronomy.jpg?w=900&h=500&s=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/tribe_urban_gastronomy.jpg",
         "type": "restaurant",
         "detailedDescription": "Tribe Urban Gastronomy represents the pinnacle of steakhouse dining in Tirana, offering European, Mediterranean, and barbecue cuisine with a focus on premium meat. Their carefully selected meat comes from the best local farms and is prepared using dry-aged standards in a specially built room. The restaurant features an impressive dry-aged cabinet, wine cellar, and tribal music atmosphere with a central firepit, creating a unique dining experience for meat enthusiasts.",
         "keyFeatures": [
@@ -512,7 +524,7 @@
         "name": "El Gaucho Tirana",
         "shortDescription": "First Argentinian restaurant in Albania specializing in premium Black Angus beef and authentic Argentine cuisine.",
         "location": "Rruga Mustafa Qosja, near Dinamo Stadium, Tirana",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/3a/83/ba/el-gaucho-restorant.jpg?w=900&h=500&s=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/el_gaucho_tirana.jpg",
         "type": "restaurant",
         "detailedDescription": "El Gaucho Tirana brings authentic Argentine steakhouse culture to Albania, featuring the world's best quality Argentinian Black Angus beef from hand-selected farms. As the first Argentinian restaurant in Albania, it offers specialty dishes originated from Argentina, including unique Bison meat prepared by an Argentine chef. The restaurant's contemporary global influence is strongly rooted in modern Argentine culinary traditions, located in a characteristic neighborhood chosen for its vegetation and calmness.",
         "keyFeatures": [
@@ -531,7 +543,7 @@
         "name": "Ulliri Restaurant",
         "shortDescription": "Gourmet Mediterranean restaurant with multiple locations offering wood-fired pizza, quality steaks, and fine dining experience.",
         "location": "TEG Shopping Center & City Center locations, Tirana",
-        "imageUrl": "https://scontent.fscn1-1.fna.fbcdn.net/v/t1.6435-9/81280327_2585521981497646_6147685757927555072_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=VUmw-CEwWREQ7kNvwH0IgAs&_nc_oc=AdkmlmEsp2NA9vAjxBmybbo5Id_8PIeIdObPLgrVy3lNyVwmYpjMzfZ76rH9Sv1muyA&_nc_zt=23&_nc_ht=scontent.fscn1-1.fna&_nc_gid=G07MV6cUTd25qd0pnrp74A&oh=00_AfRs7aw2d8f6L_Y0VxXEHv7p2mm4-Sok6OEiPJ54yuP6CA&oe=689A207D",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/ulliri_restaurant.jpg",
         "type": "restaurant",
         "detailedDescription": "Ulliri Restaurant operates two prestigious locations in Tirana, offering gourmet Mediterranean cuisine and top-quality meats in both casual and fine dining settings. Their TEG location sits within Albania's biggest commercial center, while the City Center location is adjacent to Scanderbeg Square. Both locations feature Italian-style wood oven pizzas, premium steaks, and Mediterranean specialties, providing exquisite fine-dining experiences with efficient service and moderate pricing.",
         "keyFeatures": [
@@ -550,7 +562,7 @@
         "name": "Saporita Pizzeria",
         "shortDescription": "Family-owned authentic Italian pizzeria near Dinamo Stadium offering Milan-style pizza with fresh ingredients since 2011.",
         "location": "Rruga Emin Duraku, near Dinamo Stadium, Tirana",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/be/45/0a/il-paese-31.jpg?w=1000&h=800&s=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/saporita_pizzeria.jpg",
         "type": "restaurant",
         "detailedDescription": "Saporita Pizzeria is a beloved family-owned establishment that has been serving authentic Italian pizza since 2011. Located near Dinamo Stadium, this pizzeria offers Milan-style pizza with perfectly thin and crispy crusts, high-quality mozzarella, and rich, flavorful toppings made with the freshest ingredients. Known for maintaining the same taste as pizza in Italy, Saporita has earned a reputation as one of the best pizzerias in Tirana with excellent price-to-quality ratio.",
         "keyFeatures": [
@@ -569,7 +581,7 @@
         "name": "PizzArte Tirana",
         "shortDescription": "Authentic Neapolitan-style pizzeria in city center offering wood-fired pizzas with traditional techniques and cozy atmosphere.",
         "location": "Rruga Luigj Gurakuqi, Tirana Center",
-        "imageUrl": "https://albconnection.com/wp-content/uploads/2024/05/PizzArte-Tirana1.jpeg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/pizzarte_tirana.jpeg",
         "type": "restaurant",
         "detailedDescription": "PizzArte represents authentic Neapolitan pizza culture in the heart of Tirana, specializing in traditional wood-fired pizzas baked to perfection. The restaurant features simple yet cozy interior design with warm ambiance, focusing on the art of authentic Neapolitan pizza making. Their commitment to traditional techniques, quality ingredients, and proper wood-fired cooking methods has earned them recognition as one of Tirana's top pizza destinations.",
         "keyFeatures": [
@@ -588,7 +600,7 @@
         "name": "Mrizi i Zanave (Fishtë)",
         "shortDescription": "Albania's most famous agrotourism restaurant offering slow food farm-to-table dining with local wines and traditional Albanian cuisine.",
         "location": "Fishtë, Lezhe County",
-        "imageUrl": "https://images.myguide-cdn.com/albania/companies/mrizi-i-zanave/large/mrizi-i-zanave-1206196.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/mrizi_i_zanave_fisht.jpg",
         "type": "agroturizem",
         "detailedDescription": "Mrizi i Zanave (The Old Mill) is arguably Albania's most renowned agrotourism destination, embodying the 'Think Globally, Eat Locally' philosophy. Located in the farming village of Fishtë in northwestern Albania, this establishment combines resort, restaurant, farm, winery, and production facility. Known for serving some of the tastiest food in the Balkans, they offer fresh, organic farm-to-table Albanian slow-food complemented by their own wine production. The restaurant collaborates with many local farming families and employs about 70 people, making it a cornerstone of the local economy.",
         "keyFeatures": [
@@ -608,7 +620,7 @@
         "name": "Mrizi i Zanave (Tirana)",
         "shortDescription": "City location of Albania's famous agrotourism restaurant, bringing farm-to-table slow food philosophy to Tirana's center.",
         "location": "Next to Ura e Tabakeve (Tanners' Bridge), Tirana Center",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPC0rq_pPe1Gedr7zUzeRTJkWNpFvtgSMwOguNS=s680-w680-h510-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/mrizi_i_zanave_tirana.webp",
         "type": "agroturizem",
         "detailedDescription": "Operating since 2004, the Tirana location of Mrizi i Zanave brings the acclaimed slow food philosophy to the capital city. Located next to the historic 18th century Ura e Tabakeve monument, this restaurant maintains the same 'Think Globally, Eat Locally' motto as its original Fishtë location. The menu changes seasonally (4 times per year) featuring traditional Albanian recipes enhanced with modern cooking techniques, using ingredients sourced from their partner farms.",
         "keyFeatures": [
@@ -628,7 +640,7 @@
         "name": "Alpeta Agrotourism & Winery",
         "shortDescription": "Award-winning family winery on TIME's World's Greatest Places 2025, offering traditional winemaking and farm-to-table dining with Mount Tomorr views.",
         "location": "Roshnik village, Berat County",
-        "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/640105460.jpg?k=3f2e02c1aa10d7780b309db34ca8e973473f4117687ebb9467ed9815878cf95e&o=&hp=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/alpeta_agrotourism_winery.jpg",
         "type": "agroturizem",
         "detailedDescription": "Established in 1994 by the Fiska family, Alpeta Agrotourism & Winery has gained international recognition, earning a spot on TIME's World's Greatest Places 2025 list. Located in scenic Roshnik village with views of Mount Tomorr, vineyards, and lakes, this family-owned establishment offers traditional winemaking techniques with local Pules and Shesh grapes alongside Cabernet and Merlot. Their wines have earned medals at the Decanter World Wine Awards, while their restaurant celebrates traditional Albanian cuisine with locally-sourced ingredients and recipes passed down from grandmothers.",
         "keyFeatures": [
@@ -648,7 +660,7 @@
         "name": "Agroturizem Gjepali",
         "shortDescription": "Family-owned agrotourism business in Gjepalaj village offering hands-on culinary experiences including bread making, cheese making, and traditional Albanian cuisine.",
         "location": "Gjepalaj village, Shijak-Durres",
-        "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219546317.jpg?k=d8a5307c0651cc7b677e672389dc245a7a54cc147298626915d060b7078fdeb8&o=",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/agroturizem_gjepali.jpg",
         "type": "agroturizem",
         "detailedDescription": "Agroturizem Gjepali is a family-owned business located in Gjepalaj village, created by an owner who became a kitchen chef and wanted to share authentic Albanian culinary traditions. This hands-on agrotourism experience allows guests to participate in traditional food preparation methods, including bread making, cheese making, and jam making. The menu features traditional Albanian cuisine prepared with local ingredients, offering visitors an immersive cultural experience that goes beyond dining to include learning traditional cooking techniques.",
         "keyFeatures": [
@@ -668,7 +680,7 @@
         "name": "Farma Sotira",
         "shortDescription": "Pine forest agrotourism farm offering wood-oven baked bread, fresh feta cheese, and on-site wine production with horseback riding experiences.",
         "location": "Surrounded by pine forests and natural lakes",
-        "imageUrl": "https://thingstodoalbania.com/wp-content/uploads/2024/12/farma-sotira3.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/farma_sotira.jpg",
         "type": "agroturizem",
         "detailedDescription": "Farma Sotira offers a unique agrotourism experience surrounded by pine tree forests, wild meadows, and natural lakes. Every meal includes their signature wood oven-baked bread, fresh feta cheese, and wine made from grapes grown directly on site. The farm provides opportunities for guests to participate in grape harvesting in September for wine and raki production. With 10 miles of private countryside, the farm also offers horseback riding experiences, making it a complete rural retreat that combines culinary traditions with outdoor activities.",
         "keyFeatures": [
@@ -688,7 +700,7 @@
         "name": "UKA Farm",
         "shortDescription": "Organic poly-cultural farm with native Albanian wine varieties and farm-to-table restaurant serving pesticide-free, locally-sourced dishes.",
         "location": "Rural Albania",
-        "imageUrl": "https://iconstyle.al/wp-content/uploads/2020/01/IMG-20191124-WA0017-768x576.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/uka_farm.jpg",
         "type": "agroturizem",
         "detailedDescription": "UKA Farm represents a comprehensive approach to sustainable Albanian agriculture, operating as a poly-cultural agricultural farm with completely organic, pesticide-free production methods. The farm features a winery that produces native Albanian wine from local grape cultivars, preserving traditional Albanian winemaking heritage. Their restaurant operates on a true farm-to-table concept, with all dishes prepared using ingredients grown on the property or sourced from local organic farmers, ensuring the freshest and most authentic Albanian flavors.",
         "keyFeatures": [
@@ -710,7 +722,7 @@
         "name": "Hemingway Bar",
         "shortDescription": "Literary-themed cocktail bar on Rruga Kont Urani offering classic cocktails in a sophisticated writer's atmosphere.",
         "location": "Rruga Kont Urani, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npY82Cm6RJlE66si-fPjoRuNgZXoVyQLA6n0lXs2I8g7O6EilbKpUfoU3DzCfl0YcdpHB8tIwsYXXySVokaGJs4qqbnKaa28nrK9-6EjkEx1wKby1oKDbJWGOV5wFL9Ae5OOdgY=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/hemingway.webp",
         "type": "cocktail",
         "detailedDescription": "Hemingway Bar pays homage to the legendary American writer with a sophisticated atmosphere filled with literary references and classic cocktail traditions. Located on Rruga Kont Urani, this intimate bar specializes in timeless cocktail recipes that Hemingway himself might have enjoyed. The décor features vintage books, classic furniture, and an ambiance that encourages conversation and contemplation over expertly crafted drinks.",
         "keyFeatures": [
@@ -729,7 +741,7 @@
         "name": "Colonial Cocktails",
         "shortDescription": "Educational cocktail bar offering mixology classes, premium drinks, and interactive bartending experiences.",
         "location": "City Center, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrXELJ3wCe2JyWJXrbkjo68jL8CdR1D8WXQXdirmAmbHICSlFYZ5Hc4Krh9RgyqJCoX-lvd5xpsgJmO9m_rPrD6EuIa59SkFoV2DETdxu5c-daq9XOriT5h0e9Ypy6wb1BtQSU=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/colonial.webp",
         "type": "cocktail",
         "detailedDescription": "Colonial Cocktails Academy Tirana combines exceptional cocktail service with educational experiences, offering both expertly crafted drinks and hands-on mixology classes. This unique establishment features colonial-era décor and teaches the history and technique behind classic cocktails. Visitors can enjoy premium drinks while learning about spirits, techniques, and cocktail culture from professional instructors.",
         "keyFeatures": [
@@ -748,7 +760,7 @@
         "name": "Nouvelle Vague Tirana",
         "shortDescription": "French-inspired cocktail bar with nouvelle vague cinema theme, offering creative drinks and artistic atmosphere.",
         "location": "Rruga e Kavajës, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCWFn7XfIAK6fASfIYMyqvuh09EMdiULLnN6IRD_Ku-X8I6e0_cgiA8HhLq1b06-ZH3NfzGYk-0Bh-wOYZoBOIUOdkGJEGS40g_GtkJdPRmHEpcnmovJEkT4nq9J4IerS7aJBsHg=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/nouvelle vague.jpg",
         "type": "cocktail",
         "detailedDescription": "Nouvelle Vague Tirana draws inspiration from the French New Wave cinema movement, creating a unique cocktail experience that combines film culture with innovative mixology. The bar features black and white photography, film memorabilia, and an artistic atmosphere reminiscent of 1960s French cinema. Their cocktail menu reflects this creative spirit with innovative drinks that are both visually stunning and expertly crafted.",
         "keyFeatures": [
@@ -767,7 +779,7 @@
         "name": "Mimoza Bar & Cocktails",
         "shortDescription": "Elegant cocktail lounge offering premium drinks, sophisticated atmosphere, and professional mixology service.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYj1IWogHzV4iN_KaUqDNWv-3HxjO6_aT4nBAE=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/mimoza_bar_cocktails.webp",
         "type": "cocktail",
         "detailedDescription": "Mimoza Bar & Cocktails represents the pinnacle of cocktail culture in Tirana, offering an elegant lounge atmosphere with expertly crafted drinks and impeccable service. The bar features a carefully curated selection of premium spirits, fresh ingredients, and classic cocktail techniques elevated to modern standards. The sophisticated interior and professional staff create an atmosphere perfect for intimate conversations and special occasions.",
         "keyFeatures": [
@@ -786,7 +798,7 @@
         "name": "Sky Tower Lounge",
         "shortDescription": "Rooftop cocktail lounge offering panoramic city views, premium spirits, and sophisticated atmosphere high above Tirana.",
         "location": "Sky Tower, Tirana Center",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-z2IU0r31naTMHV3pHlDZIUGNY8EhiEaslUbOH9vkijeqV1ynyp4TxBiftlVuIMSb4VZQl2FsET3Q7dxDY_bMS16cPd5S4O8XYNWDygIHt09QW2O19AKEveV8qb0lnijMOjRc=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/sky club.webp",
         "type": "cocktail",
         "detailedDescription": "Sky Tower Lounge provides Tirana's most elevated cocktail experience, literally perched high above the city with breathtaking 360-degree views. The sophisticated lounge offers premium cocktails crafted with top-shelf spirits while guests enjoy unparalleled panoramic vistas of Tirana, the surrounding mountains, and beyond. The modern interior design complements the spectacular views, creating an unforgettable atmosphere for special occasions.",
         "keyFeatures": [
@@ -805,7 +817,7 @@
         "name": "Radio Bar Tirana",
         "shortDescription": "Retro-themed bar with vintage music equipment, craft cocktails, and nostalgic atmosphere celebrating radio culture.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://tripalbania.wordpress.com/wp-content/uploads/2020/02/radio-bar.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/radio_bar_tirana.jpg",
         "type": "bar",
         "detailedDescription": "Radio Bar Tirana is a unique themed establishment that pays homage to the golden age of radio broadcasting. The bar features vintage radio equipment, retro furniture, and a carefully curated playlist that spans decades of music history. Known for their creative cocktails with radio-inspired names and a warm, nostalgic atmosphere that attracts both locals and music enthusiasts.",
         "keyFeatures": [
@@ -824,7 +836,7 @@
         "name": "KINO",
         "shortDescription": "Cinema-themed cocktail bar featuring film memorabilia, craft drinks, and screenings in a vintage movie theater setting.",
         "location": "Rruga Abdyl Frashëri, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrTJq0ex9IenDw335k4DPe0Mqc7bmfCV_t2RUpuxMCk1qznit9U7fNbpPgIX8EZmHz8nlU-8VaEaI6XfUnun-MSVX9tD1B-CoGRQyF1U68KFu-C8VYkdT-5rdgVc5hAe8jNGY0B=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/kino.webp",
         "type": "bar",
         "detailedDescription": "KINO transforms the classic movie theater experience into an innovative cocktail bar. The venue features authentic cinema seating, vintage film equipment, and movie memorabilia from Albanian and international cinema. Their cocktail menu is inspired by classic films, and they regularly host film screenings, creating a unique entertainment experience that combines drinks with cinema culture.",
         "keyFeatures": [
@@ -843,7 +855,7 @@
         "name": "Komiteti Bar - Tiranë",
         "shortDescription": "Historic communist-era themed bar serving traditional Albanian raki and creating an authentic socialist atmosphere.",
         "location": "Rruga Pjeter Budi, Tirana Old Town",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/25/ee/a0/caption.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/komiteti_bar___tiran.jpg",
         "type": "bar",
         "detailedDescription": "Komiteti Bar offers a fascinating journey into Albania's communist past, housed in an authentic setting with original propaganda posters, vintage furniture, and historical artifacts. The bar specializes in traditional Albanian raki and local spirits, providing visitors with both cultural education and quality drinks. This unique establishment has become a must-visit for those interested in Albanian history and culture.",
         "keyFeatures": [
@@ -862,7 +874,7 @@
         "name": "Soma Vinyl Station",
         "shortDescription": "Record store and bar combination featuring extensive vinyl collection, craft beers, and live music performances.",
         "location": "Rruga e Kavajës, Tirana",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c5/17/1c/caption.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/soma_vinyl_station.jpg",
         "type": "bar",
         "detailedDescription": "Soma Vinyl Station uniquely combines a record store with a bar, creating a haven for music lovers and vinyl enthusiasts. The venue features an extensive collection of vinyl records spanning all genres, craft beer selection, and regular live acoustic performances. The atmosphere encourages music discovery, with customers able to browse records while enjoying drinks and often purchasing albums from their evening's playlist.",
         "keyFeatures": [
@@ -881,7 +893,7 @@
         "name": "Spy Speakeasy",
         "shortDescription": "Hidden speakeasy bar with secret entrance, premium cocktails, and mysterious espionage-themed atmosphere.",
         "location": "Hidden location in Bllok area, Tirana",
-        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/2d/2a/98/33/caption.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/spy_speakeasy.jpg",
         "type": "bar",
         "detailedDescription": "Spy Speakeasy maintains the mystery and exclusivity of the prohibition era with its hidden entrance and secretive atmosphere. This upscale cocktail bar requires insider knowledge to find, featuring dim lighting, leather furnishings, and a menu of expertly crafted cocktails with espionage-themed names. The bartenders are skilled mixologists who create both classic and innovative drinks in an atmosphere of sophisticated intrigue.",
         "keyFeatures": [
@@ -900,7 +912,7 @@
         "name": "Hemingway Garden Bar",
         "shortDescription": "Outdoor garden bar extension of Hemingway Bar, offering alfresco dining and drinks in green oasis setting.",
         "location": "Behind Hemingway Bar, Tirana",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/63/ac/0f/hemingway-tirana.jpg?w=900&h=500&s=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/hemingway_garden_bar.jpg",
         "type": "bar",
         "detailedDescription": "Hemingway Garden Bar extends the literary atmosphere of the main Hemingway Bar into a beautiful outdoor garden setting. Surrounded by lush greenery and ambient lighting, this seasonal venue offers the perfect escape from urban intensity. The garden maintains the same commitment to classic cocktails while providing a more relaxed, nature-focused environment ideal for warm evenings and intimate conversations.",
         "keyFeatures": [
@@ -921,7 +933,7 @@
         "name": "Le Bon Tirana",
         "shortDescription": "French-style bakery offering authentic croissants, pastries, and artisanal bread with Parisian bakery standards.",
         "location": "Rruga e Kavajës, Tirana",
-        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2c/6d/86/le-bon-tirana-bakery.jpg?w=500&h=400&s=1",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/le_bon_tirana.jpg",
         "type": "bakery",
         "detailedDescription": "Le Bon Tirana brings authentic French bakery traditions to Albania's capital. Their team of French-trained bakers produces daily fresh croissants, pain au chocolat, and artisanal breads using traditional techniques and imported French flour. The bakery maintains strict Parisian standards, offering both classic French pastries and seasonal specialties throughout the year.",
         "keyFeatures": [
@@ -940,7 +952,7 @@
         "name": "Zio Peppe - Pizza al Metro",
         "shortDescription": "24/7 pizza by the meter concept just 7 minutes from the apartment, offering quick service and authentic Italian pizza.",
         "location": "7-minute walk from apartment, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noq5nOXRp9Xzo1cRZRDmOsRwj8yaUrJK80THHA7WoGqxTHuTEADOUhPwT4_O-rZXYmE6eD3Wk4FR8T7b3nFqXMW-3uJCxi3frmWyj8GjyJaRwUqZM5IUlf7DqkwVpMrRJKul1M=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/zio peppe.webp",
         "type": "qsr",
         "detailedDescription": "Zio Peppe revolutionizes pizza service with their innovative 'pizza al metro' concept, where pizzas are made in long rectangular shapes and sold by length. Open 24/7 and located just 7 minutes from the apartment, it's the perfect solution for quick, quality meals at any hour. Their authentic Italian recipes and quick service make it a local favorite for both tourists and residents.",
         "keyFeatures": [
@@ -959,7 +971,7 @@
         "name": "Laguna Pizza & Ice Cream",
         "shortDescription": "Family-friendly establishment combining quality pizza with artisanal ice cream, perfect for casual dining.",
         "location": "Rruga Myslym Shyri, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKPRT0XvB40nw0BAMJwzILb1HVU86buUPoRwBHoR-Yw5x2eRMK4M3y6FU9OAl2-lwOPMuWQJZxOWF5-28GQGs-sVSxjq1fpaYrJtzJq1wOIxCnmnkCuKuYZZAFvV4c9qz6efqyTg=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/laguna.webp",
         "type": "qsr",
         "detailedDescription": "Laguna Pizza & Ice Cream offers the perfect combination for family dining, featuring quality pizza alongside homemade ice cream. This casual establishment has built a reputation for consistent quality, generous portions, and a welcoming atmosphere that makes it popular with both locals and families. Their ice cream selection changes seasonally, featuring both classic and innovative flavors.",
         "keyFeatures": [
@@ -978,7 +990,7 @@
         "name": "OPA - Greek Street Food (Bllok)",
         "shortDescription": "Authentic Greek street food spot in Bllok offering gyros, souvlaki, and traditional Greek quick-service options.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5NXHb7adR-UNdO_l_JfLCyuwKygbEiyK9WwGCjYSFHxnV6hyiLwETOFGt5wLhj2RZxFarM3T-HqGXBuYo1S0skueaVN488NlQLOll7_GK5zVOeJz7jybG0Gm0NhiaPbx5uR8FvLwn4qiI=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/opa.jpg",
         "type": "qsr",
         "detailedDescription": "OPA brings authentic Greek street food culture to Tirana's trendy Bllok area. Specializing in traditional gyros, souvlaki, and Greek wraps, the restaurant uses imported Greek ingredients and traditional preparation methods. The casual, energetic atmosphere reflects genuine Greek taverna culture, making it a popular spot for quick, satisfying meals with Mediterranean flair.",
         "keyFeatures": [
@@ -997,7 +1009,7 @@
         "name": "Te Met Kodra",
         "shortDescription": "Traditional Albanian fast food specializing in local quick-service dishes with authentic flavors and affordable prices.",
         "location": "Various locations, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofxoeF0sytsnNr3NuOvWytMhr3LpfXbDKZoQ7-OQX1p4KxrkOA2Hm-802Jln1JhHNSg4qG71c3hCqxKmn7mJ5ZNi2lmmYSz32nZkvYOC2TnIG_sa5DJ65HHkUdW3WjkyMsdTUK=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/met kodra.webp",
         "type": "qsr",
         "detailedDescription": "Te Met Kodra represents authentic Albanian fast food culture, offering traditional quick-service dishes that locals have enjoyed for generations. Their menu features byrek (Albanian pastry), qofte (meatballs), and other traditional dishes prepared quickly but maintaining authentic flavors. This local chain provides an affordable way to experience genuine Albanian cuisine in a casual setting.",
         "keyFeatures": [
@@ -1016,7 +1028,7 @@
         "name": "Morsi Tirana (Bllok)",
         "shortDescription": "Modern quick-service restaurant in Bllok offering fresh sandwiches, salads, and healthy fast-casual options.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPxG2WXDUn0Ojjk7NCSpc2JUJlqAaADBHUAErIf=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/morsi_tirana_bllok.webp",
         "type": "qsr",
         "detailedDescription": "Morsi Tirana brings modern fast-casual dining to the Bllok area, focusing on fresh, healthy options without sacrificing speed or convenience. Their menu features gourmet sandwiches, fresh salads, and innovative wraps made with high-quality ingredients. The contemporary design and efficient service model appeal to young professionals and health-conscious diners looking for quick, nutritious meals.",
         "keyFeatures": [
@@ -1035,7 +1047,7 @@
         "name": "Haburger",
         "shortDescription": "Gourmet burger joint offering premium beef patties, creative toppings, and artisanal burger creations.",
         "location": "Rruga e Kavajës, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAeRN974gP0rRdHW8oR3Vb8VOMtBefVM50AKl0d6xQaCGJqVJcxwcsq6i9_YD-HS8b9WayoSyOD5RxBZHgRvSxKn4ZXMKxX8L4_Mx0Zis8zB8wDWJN3OeJyOObhWhLqJkf8HgCWw=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/haburger.webp",
         "type": "qsr",
         "detailedDescription": "Haburger elevates the burger experience in Tirana with premium beef patties, artisanal buns, and creative topping combinations. This gourmet burger joint focuses on quality ingredients, including locally sourced beef and imported specialty items. Their menu balances classic American burger styles with innovative creations that reflect local tastes and international influences.",
         "keyFeatures": [
@@ -1054,7 +1066,7 @@
         "name": "Smash Burger Tirana",
         "shortDescription": "American-style smash burger specialist using the signature smashing technique for maximum flavor and crispy edges.",
         "location": "Bllok area, Tirana",
-        "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAZvyVO_6QcTk72GgRX0Yc6bbc2UCF_ZMaNF5y=s1360-w1360-h1020-rw",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/smash_burger_tirana.webp",
         "type": "qsr",
         "detailedDescription": "Smash Burger Tirana specializes in the authentic American smash burger technique, where beef patties are literally smashed on the grill to create crispy, caramelized edges while maintaining juicy centers. This cooking method, combined with quality ingredients and classic American-style preparations, delivers the authentic burger experience that has made smash burgers famous worldwide.",
         "keyFeatures": [
@@ -1073,7 +1085,7 @@
         "name": "Someg Bakery and Pasticeri",
         "shortDescription": "Quality Albanian byrek bakery with multiple locations offering decent filling portions and excellent service.",
         "location": "Multiple locations including Rruga Abdyl Frashëri, Tirana",
-        "imageUrl": "https://scontent-cdg4-2.xx.fbcdn.net/v/t1.6435-9/48384659_211147969770950_6133291896589516800_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=c5Uk9_jh0nEQ7kNvwHjeGPv&_nc_oc=AdnvFVrg3bG9mJHZ74Mg7AsruW6vZjzz1B-RgD5hcd_Z68-Gg6526lO_PI-wv06UcvE&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=9f1kb7coMFYmhMbdKv2vIQ&oh=00_AfST1QosN8Dx6xWjJVANPsier-1DNkVx5X2zaX4W8_prUQ&oe=689A3437",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/someg_bakery_and_pasticeri.jpg",
         "type": "bakery",
         "detailedDescription": "Someg Bakery and Pasticeri stands out among Tirana's byrek establishments for providing generous filling portions compared to other bakeries. With multiple outlets around the city, Someg has built a reputation for quality Albanian byreks and excellent customer service from friendly staff. Their consistent quality across locations makes them a reliable choice for authentic Albanian pastries.",
         "keyFeatures": [
@@ -1092,7 +1104,7 @@
         "name": "Byrek Special Luani",
         "shortDescription": "Traditional burek specialist offering excellent meat burek and classic Albanian pastries in authentic local setting.",
         "location": "Traditional neighborhood, Tirana",
-        "imageUrl": "https://davidsbeenhere.com/wp-content/uploads/2020/08/video-albanian-byrek-tour-making-balkan-stuffed-pastries-tirana-albania-davidsbeenhere-2-980x552.jpg",
+        "imageUrl": "https://assets.albaniatravelcompanion.com/byrek_special_luani.jpg",
         "type": "qsr",
         "detailedDescription": "Byrektore Luani represents traditional Albanian burek culture at its finest, specializing in classic burek preparations that have satisfied locals for years. This neighborhood establishment is particularly known for their burek me mish (meat burek), prepared using time-honored techniques. The authentic local atmosphere provides visitors with a genuine taste of Albanian fast food culture in a setting where traditions are preserved.",
         "keyFeatures": [
